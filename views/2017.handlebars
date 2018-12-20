@@ -1,0 +1,196 @@
+<div class="mainC">
+<h2>Education coverage for private colleges in Cali, Colombia</h2>
+<h4><a href="/">2015</a> / 2016</h4>
+
+<p>By exploring the distribution of Private college students in Cali and the density of the young vulnerable population, we are checking on possible patterns that allow us to determine better policy for the city. </p>
+<p>Universe: 136470 students</p>
+<a href="#about" class="about_link">About</a>
+
+</div>
+<div id="map" class="map">
+
+</div>
+
+<script>
+    
+//mapboxgl.accessToken = 'pk.eyJ1IjoiYWx2YXJvYnVlbm8iLCJhIjoiY2pvMWxlYXZhMGJzZzNxa3U4Z2JyMHo3NSJ9.OjR7xwv7mOYZShA59Suykg';
+//var map = new mapboxgl.Map({
+//    container: 'map', // container id
+//    style: 'mapbox://styles/mapbox/streets-v9', // stylesheet location
+//    center: [-76.638565,  3.359889], // starting position [lng, lat]
+//    zoom: 13 // starting zoom
+//});
+
+
+function getColor(d) {
+    return d > 14000 ? '#8c2d04' :
+           d > 12000  ? '#cc4c02' :
+           d > 10000  ? '#ec7014' :
+           d > 8000  ? '#fe9929' :
+           d > 6000   ? '#fec44f' :
+           d > 4000   ? '#fee391' :
+           d > 2000   ? '#fff7bc' :
+                      '#ffffe5';
+}
+
+function getPattern(d) {
+    return d >= 100 ? 'url(pattern5_b.gif)' :
+           d >= 80  ? 'url(pattern4_b.gif)' :
+           d >= 60  ? 'url(pattern3_b.gif)' :
+           d >= 40  ? 'url(pattern2_b.gif)' :
+           d >= 20   ? 'url(pattern1_b.gif)':
+                      'url(pattern1_r.gif)';
+}
+
+var map = L.map('map').setView([-76.638565, 3.359889], 12.5);
+var mapboxUrl = 'https://api.mapbox.com/styles/v1/mapbox/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}'
+var accessToken = 'pk.eyJ1IjoiYWx2YXJvYnVlbm8iLCJhIjoiY2pvMWxlYXZhMGJzZzNxa3U4Z2JyMHo3NSJ9.OjR7xwv7mOYZShA59Suykg';
+var geojsonlayer;
+
+L.tileLayer(mapboxUrl, {
+    id: 'streets-v10',
+    maxZoom: 20,
+    accessToken: accessToken,
+    attribution: '&copy; <a href="https://www.mapbox.com">Mapbox</a>'
+}).addTo(map);
+
+//L.marker([51.5, -0.09]).addTo(map)
+  //  .bindPopup('A pretty CSS3 popup.<br> Easily customizable.')
+  //  .openPopup();
+
+
+
+map.panTo(new L.LatLng(3.459889, -76.538565));
+conflict_2015 = {},
+conflict_2016 = {},
+pop_2015 = {},
+pop_2016 = {};
+
+fetch('compiled.csv').then(function(response){
+    return response.text();
+}).then(function(text){
+    // Handling of the text contents goes here
+    for(var i = 0; i < text.split('\n').length-1; i++)
+    {
+        if (i > 0) { // skip first line
+            //"id","Comuna","population_2015","population_2016","victims_2015","victims_2016"
+            console.log(text.split('\n')[i])
+            var the_comuna = text.split('\n')[i].split(',')[1];  
+            if (the_comuna == 52 || the_comuna == 54) the_comuna = 22; // fix for comuna 22   
+            pop_2015[the_comuna] = text.split('\n')[i].split(',')[2];
+            pop_2016[the_comuna] = text.split('\n')[i].split(',')[3];
+            conflict_2015[the_comuna] = text.split('\n')[i].split(',')[4];
+            conflict_2016[the_comuna] = text.split('\n')[i].split(',')[5];
+        }
+    }
+}).catch(function(err){
+    console.log('error');
+    // Error handling goes here (e.g. the network request failed, etc)
+})
+
+$.ajax({
+    type: "GET",
+    url: "comunas-cali.geojson",
+    dataType: 'json',
+    success: function (response) {
+
+        geojsonLayer = L.geoJson(response, {
+            onEachFeature: onEachFeature,
+            style: function (feature) {
+            return {
+                color: getColor(pop_2016[feature.properties.comuna]),
+               
+                fill: getPattern(conflict_2016[feature.properties.comuna]),
+                dashArray: '',
+                fillOpacity: 0.6
+                
+            };
+        }
+        }).addTo(map);
+    }
+});
+
+function onEachFeature(feature, layer) {
+    layer.on({
+        mouseover: highlightFeature,
+        mouseout: resetHighlight,
+        click: zoomToFeature
+    });
+}
+function highlightFeature(e) {
+    var layer = e.target;
+    console.log(layer)
+    layer.setStyle({
+        weight: 5,
+        color: getColor(pop_2015[layer.feature.properties.comuna]),
+        dashArray: '',
+        fillOpacity: 0.7
+    });
+
+    if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+        layer.bringToFront();
+    }
+    info.update(layer.feature.properties);
+}
+
+function resetHighlight(e) {
+    geojsonLayer.resetStyle(e.target);
+    info.update();
+}
+function zoomToFeature(e) {
+    map.fitBounds(e.target.getBounds());
+}
+
+
+var legend = L.control({position: 'bottomright'});
+
+legend.onAdd = function (map) {
+
+    var div = L.DomUtil.create('div', 'info legend'),
+        grades = [2000, 4000, 6000, 8000, 10000, 12000, 14000],
+        labels = [],
+        textures = [0, 20, 40, 60, 80, 100];
+    
+    div.innerHTML += '<h5>Students</h5>';
+
+    // loop through our density intervals and generate a label with a colored square for each interval
+    for (var i = 0; i < grades.length; i++) {
+        div.innerHTML +=
+            '<div><i style="background:' + getColor(grades[i]) + '"></i> ' +
+            grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '</div>' : '+'
+            );
+    }
+
+    div.innerHTML += '<br><h5>Conflict Victims</h5>';
+
+    for (var i = 0; i < textures.length; i++) {
+        div.innerHTML +=
+            '<div><i style="background:' + getPattern(textures[i]) + '"></i> ' +
+            textures[i] + (textures[i + 1] ? '&ndash;' + textures[i + 1] + '</div>' : '+'
+            );
+    }
+
+    return div;
+};
+
+legend.addTo(map);
+
+var info = L.control();
+
+info.onAdd = function (map) {
+    this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
+    this.update();
+    return this._div;
+};
+
+// method that we will use to update the control based on feature properties passed
+info.update = function (props) {
+    console.log(props);
+    this._div.innerHTML = '<h3>People in this district</h3>' +  (props ?
+        '<b>Comuna ' + props.comuna + '</b><br />' + pop_2016[props.comuna] + ' people<br><b>Conflict Victims</b><br/>' + conflict_2016[props.comuna]
+        : 'Hover over a district (Comuna)');
+};
+
+info.addTo(map);
+
+</script>

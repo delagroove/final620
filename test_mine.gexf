@@ -1,0 +1,2250 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>20/12/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="holman" label="holman">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="359.520585215" y="207.263976156" z="0.0" />
+      </node>
+      <node id="tidalcycles" label="tidalcycles">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="581.820627004" y="519.803277449" z="0.0" />
+      </node>
+      <node id="lo_toney" label="lo_toney">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="75.5187082903" y="385.395454418" z="0.0" />
+      </node>
+      <node id="cavorite" label="cavorite">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="73.3046601855" y="27.9048380969" z="0.0" />
+      </node>
+      <node id="thespite" label="thespite">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="123.018615535" y="259.106819566" z="0.0" />
+      </node>
+      <node id="Lean" label="Lean">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="142.561479879" y="301.894958108" z="0.0" />
+      </node>
+      <node id="KrutiePatel" label="KrutiePatel">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="65.5738847558" y="239.118626734" z="0.0" />
+      </node>
+      <node id="nmsanchez" label="nmsanchez">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="521.080785424" y="388.000564376" z="0.0" />
+      </node>
+      <node id="sarah_edo" label="sarah_edo">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="44.6013761644" y="471.65867187" z="0.0" />
+      </node>
+      <node id="ja_serra" label="ja_serra">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="246.983519672" y="162.489375637" z="0.0" />
+      </node>
+      <node id="RamiroBejaranoG" label="RamiroBejaranoG">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="305.437165008" y="481.598880513" z="0.0" />
+      </node>
+      <node id="melismarecords" label="melismarecords">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="184.063659343" y="574.349184944" z="0.0" />
+      </node>
+      <node id="rstacruz" label="rstacruz">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="158.872092124" y="182.980282658" z="0.0" />
+      </node>
+      <node id="lesheshi" label="lesheshi">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="168.027714088" y="11.3770013564" z="0.0" />
+      </node>
+      <node id="felixge" label="felixge">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="248.127515775" y="423.553651512" z="0.0" />
+      </node>
+      <node id="fffva" label="fffva">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="106.107815808" y="521.172842624" z="0.0" />
+      </node>
+      <node id="raisethecloud" label="raisethecloud">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="380.550385981" y="498.559997549" z="0.0" />
+      </node>
+      <node id="alphaonelabs" label="alphaonelabs">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="73.5416504776" y="217.432197035" z="0.0" />
+      </node>
+      <node id="bangbangcon" label="bangbangcon">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="364.320475259" y="306.564468199" z="0.0" />
+      </node>
+      <node id="onyekaakumah" label="onyekaakumah">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="133.771137847" y="67.6874148019" z="0.0" />
+      </node>
+      <node id="Caidadelatorre" label="Caidadelatorre">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="196.709391252" y="381.301479163" z="0.0" />
+      </node>
+      <node id="lisawrayz" label="lisawrayz">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="289.177527594" y="236.228235109" z="0.0" />
+      </node>
+      <node id="ScanHouse" label="ScanHouse">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="222.580316742" y="398.783443145" z="0.0" />
+      </node>
+      <node id="castillo__io" label="castillo__io">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="495.815278893" y="336.342495774" z="0.0" />
+      </node>
+      <node id="scatterco" label="scatterco">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="513.980366202" y="330.831756605" z="0.0" />
+      </node>
+      <node id="Juan_Florez" label="Juan_Florez">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="77.2407761737" y="301.050447368" z="0.0" />
+      </node>
+      <node id="mbafile" label="mbafile">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="49.4861922442" y="80.1548002845" z="0.0" />
+      </node>
+      <node id="jurthys" label="jurthys">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="433.64323096" y="263.510347988" z="0.0" />
+      </node>
+      <node id="TwitterEng" label="TwitterEng">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="86.5552012767" y="93.0892061636" z="0.0" />
+      </node>
+      <node id="colombia_dev" label="colombia_dev">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="154.747581526" y="132.290626968" z="0.0" />
+      </node>
+      <node id="Publiseek" label="Publiseek">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="214.752984202" y="282.693852935" z="0.0" />
+      </node>
+      <node id="Upwork" label="Upwork">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="415.782397471" y="183.145130496" z="0.0" />
+      </node>
+      <node id="federacionISF" label="federacionISF">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="439.27655124" y="172.340571167" z="0.0" />
+      </node>
+      <node id="natekoechley" label="natekoechley">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="392.798271637" y="327.322529183" z="0.0" />
+      </node>
+      <node id="i2t_icesi" label="i2t_icesi">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="291.932048121" y="17.7559047128" z="0.0" />
+      </node>
+      <node id="nycgov" label="nycgov">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="38.2588097564" y="391.388791482" z="0.0" />
+      </node>
+      <node id="maxweisel" label="maxweisel">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="81.2590908928" y="198.398009162" z="0.0" />
+      </node>
+      <node id="lordspace" label="lordspace">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="84.6293101889" y="593.589742923" z="0.0" />
+      </node>
+      <node id="ohny" label="ohny">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="48.1594107362" y="28.7175553142" z="0.0" />
+      </node>
+      <node id="Cabbibo" label="Cabbibo">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="496.754079587" y="66.7383804639" z="0.0" />
+      </node>
+      <node id="orangewoodlabs" label="orangewoodlabs">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="79.5955813753" y="546.73497003" z="0.0" />
+      </node>
+      <node id="viewsourceconf" label="viewsourceconf">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="577.64825165" y="321.895158264" z="0.0" />
+      </node>
+      <node id="chuckygarcia" label="chuckygarcia">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="197.924649286" y="317.74501262" z="0.0" />
+      </node>
+      <node id="mortalamusique" label="mortalamusique">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="407.642739856" y="105.277528478" z="0.0" />
+      </node>
+      <node id="kcimc" label="kcimc">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="460.884580084" y="13.2308642803" z="0.0" />
+      </node>
+      <node id="lachevreco" label="lachevreco">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="169.013847977" y="337.153055118" z="0.0" />
+      </node>
+      <node id="martinbigio" label="martinbigio">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="7.3247150482" y="63.9965558279" z="0.0" />
+      </node>
+      <node id="ebrelsford" label="ebrelsford">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="84.8774194008" y="526.709292153" z="0.0" />
+      </node>
+      <node id="AVerticalFarm" label="AVerticalFarm">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="240.836927028" y="389.690527146" z="0.0" />
+      </node>
+      <node id="NewYork_CM" label="NewYork_CM">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="515.705009514" y="522.660230221" z="0.0" />
+      </node>
+      <node id="kylegeiger" label="kylegeiger">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="546.855666785" y="430.297599573" z="0.0" />
+      </node>
+      <node id="mg6477" label="mg6477">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="412.349972277" y="160.577783547" z="0.0" />
+      </node>
+      <node id="Johana_Bahamon" label="Johana_Bahamon">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="31.6502974376" y="97.6098495609" z="0.0" />
+      </node>
+      <node id="Fair_Trade_Coke" label="Fair_Trade_Coke">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="281.264120146" y="246.489006667" z="0.0" />
+      </node>
+      <node id="nikgraf" label="nikgraf">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="134.921994218" y="487.804924933" z="0.0" />
+      </node>
+      <node id="julienbayle" label="julienbayle">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="128.098162152" y="238.627350451" z="0.0" />
+      </node>
+      <node id="ojoalsancocho" label="ojoalsancocho">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="171.998994149" y="389.72228369" z="0.0" />
+      </node>
+      <node id="IndCultCali" label="IndCultCali">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="232.589138531" y="304.388061369" z="0.0" />
+      </node>
+      <node id="c4milo" label="c4milo">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="64.616614554" y="593.216393462" z="0.0" />
+      </node>
+      <node id="BAM_Bogota" label="BAM_Bogota">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="290.364731538" y="180.438554455" z="0.0" />
+      </node>
+      <node id="BogotaLogica" label="BogotaLogica">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="485.245907044" y="134.628260725" z="0.0" />
+      </node>
+      <node id="Awake_travel" label="Awake_travel">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="454.471688504" y="570.743267714" z="0.0" />
+      </node>
+      <node id="tiemposdelruido" label="tiemposdelruido">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="60.1244911412" y="332.482345547" z="0.0" />
+      </node>
+      <node id="Proimagenes" label="Proimagenes">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="497.195908444" y="325.083292789" z="0.0" />
+      </node>
+      <node id="visualisingdata" label="visualisingdata">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="466.83319567" y="15.7545216544" z="0.0" />
+      </node>
+      <node id="coffeegrid" label="coffeegrid">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="372.126698921" y="306.85462768" z="0.0" />
+      </node>
+      <node id="iam_preethi" label="iam_preethi">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="454.660492951" y="369.215803527" z="0.0" />
+      </node>
+      <node id="soyjplopez" label="soyjplopez">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="44.4948611164" y="449.416604997" z="0.0" />
+      </node>
+      <node id="BizarroMesa" label="BizarroMesa">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="381.656050667" y="28.2784888973" z="0.0" />
+      </node>
+      <node id="NatureboyTweets" label="NatureboyTweets">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="260.095052082" y="116.764064386" z="0.0" />
+      </node>
+      <node id="djtonyz" label="djtonyz">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="412.707836421" y="363.139779303" z="0.0" />
+      </node>
+      <node id="NYCfares" label="NYCfares">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="149.809056448" y="542.3675989" z="0.0" />
+      </node>
+      <node id="startupandrew" label="startupandrew">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="65.720666312" y="454.22311367" z="0.0" />
+      </node>
+      <node id="cblatts" label="cblatts">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="496.436970135" y="64.421501896" z="0.0" />
+      </node>
+      <node id="stubbornella" label="stubbornella">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="4.93299467469" y="441.917247648" z="0.0" />
+      </node>
+      <node id="petrogustavo" label="petrogustavo">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="369.531700126" y="158.721396195" z="0.0" />
+      </node>
+      <node id="markethotelnyc" label="markethotelnyc">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="90.9636199686" y="140.066718684" z="0.0" />
+      </node>
+      <node id="semplicelabs" label="semplicelabs">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="539.292527094" y="375.692105553" z="0.0" />
+      </node>
+      <node id="MsPapic" label="MsPapic">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="194.605370614" y="411.407833607" z="0.0" />
+      </node>
+      <node id="arturitu" label="arturitu">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="322.566458794" y="176.528331355" z="0.0" />
+      </node>
+      <node id="leemartin" label="leemartin">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="395.456474415" y="294.089097251" z="0.0" />
+      </node>
+      <node id="SeanPHorton" label="SeanPHorton">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="397.277875156" y="293.449766168" z="0.0" />
+      </node>
+      <node id="indexzero" label="indexzero">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="280.6217095" y="596.839639768" z="0.0" />
+      </node>
+      <node id="AlexiDelano" label="AlexiDelano">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="439.912534216" y="130.270835973" z="0.0" />
+      </node>
+      <node id="sapphireslows" label="sapphireslows">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="467.411774782" y="432.071713209" z="0.0" />
+      </node>
+      <node id="ParquesoftCali" label="ParquesoftCali">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="168.550320583" y="483.194781696" z="0.0" />
+      </node>
+      <node id="ReactiveConf" label="ReactiveConf">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="449.187579597" y="196.771780908" z="0.0" />
+      </node>
+      <node id="lasillavacia" label="lasillavacia">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="507.014806414" y="369.00727949" z="0.0" />
+      </node>
+      <node id="plovgh" label="plovgh">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="587.09610624" y="287.807255023" z="0.0" />
+      </node>
+      <node id="CrkDown" label="CrkDown">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="428.128700956" y="516.062565249" z="0.0" />
+      </node>
+      <node id="brooklynbeta" label="brooklynbeta">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="262.908785811" y="186.885159016" z="0.0" />
+      </node>
+      <node id="railsconf" label="railsconf">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="328.208998576" y="463.36558837" z="0.0" />
+      </node>
+      <node id="partyreport" label="partyreport">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="152.784249842" y="569.592481617" z="0.0" />
+      </node>
+      <node id="toddpatrick" label="toddpatrick">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="535.59194093" y="504.443717868" z="0.0" />
+      </node>
+      <node id="BootstrapHero" label="BootstrapHero">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="219.264714697" y="133.080663867" z="0.0" />
+      </node>
+      <node id="soulsummitmusic" label="soulsummitmusic">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="547.768641216" y="371.088878544" z="0.0" />
+      </node>
+      <node id="lacomilonacali" label="lacomilonacali">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="379.958681972" y="205.812931219" z="0.0" />
+      </node>
+      <node id="brainpicker" label="brainpicker">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="433.734778863" y="585.924821182" z="0.0" />
+      </node>
+      <node id="malofiej" label="malofiej">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="569.908370726" y="53.2955740656" z="0.0" />
+      </node>
+      <node id="bodytonic" label="bodytonic">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="346.924193865" y="361.330949971" z="0.0" />
+      </node>
+      <node id="stevewoz" label="stevewoz">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="440.590759649" y="170.73121729" z="0.0" />
+      </node>
+      <node id="AmeliasBrain" label="AmeliasBrain">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="383.176684168" y="4.617523925" z="0.0" />
+      </node>
+      <node id="calebgrowsfood" label="calebgrowsfood">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="62.6703135474" y="125.62643853" z="0.0" />
+      </node>
+      <node id="krisbogos" label="krisbogos">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="532.633607518" y="93.9856388754" z="0.0" />
+      </node>
+      <node id="AragonProject" label="AragonProject">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="51.2153996686" y="491.224171694" z="0.0" />
+      </node>
+      <node id="behrens" label="behrens">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="220.873992511" y="308.599690915" z="0.0" />
+      </node>
+      <node id="misaki_mofu" label="misaki_mofu">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="133.636649449" y="578.841565439" z="0.0" />
+      </node>
+      <node id="datachile_io" label="datachile_io">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="594.54894925" y="248.298761251" z="0.0" />
+      </node>
+      <node id="NoisRadio" label="NoisRadio">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="384.494062737" y="8.01558698072" z="0.0" />
+      </node>
+      <node id="COCCAMColombia" label="COCCAMColombia">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="193.84726731" y="386.646661589" z="0.0" />
+      </node>
+      <node id="Bandcamp" label="Bandcamp">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="339.28739439" y="16.9217127898" z="0.0" />
+      </node>
+      <node id="himmelbeet" label="himmelbeet">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="149.314724352" y="464.997443051" z="0.0" />
+      </node>
+      <node id="sundaybestnyc" label="sundaybestnyc">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="125.579303276" y="57.7810165236" z="0.0" />
+      </node>
+      <node id="Medium" label="Medium">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="201.900476251" y="564.767927625" z="0.0" />
+      </node>
+      <node id="mateobrown" label="mateobrown">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="588.817923787" y="547.514923064" z="0.0" />
+      </node>
+      <node id="ideasconstruir" label="ideasconstruir">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="278.449521262" y="6.25681411586" z="0.0" />
+      </node>
+      <node id="CasaOcali" label="CasaOcali">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="323.222215056" y="145.450632114" z="0.0" />
+      </node>
+      <node id="hardwax" label="hardwax">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="259.309017214" y="3.84608442898" z="0.0" />
+      </node>
+      <node id="hannahdreier" label="hannahdreier">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="76.9838001981" y="297.271243961" z="0.0" />
+      </node>
+      <node id="TheBallast" label="TheBallast">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="11.1455188774" y="232.571478973" z="0.0" />
+      </node>
+      <node id="Joi" label="Joi">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="286.150392052" y="355.865022343" z="0.0" />
+      </node>
+      <node id="MamerMoure" label="MamerMoure">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="413.543313732" y="523.860562646" z="0.0" />
+      </node>
+      <node id="adamsmith" label="adamsmith">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="8.50065927955" y="241.107105509" z="0.0" />
+      </node>
+      <node id="iPhoneDevCamp" label="iPhoneDevCamp">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="373.428687638" y="411.816683009" z="0.0" />
+      </node>
+      <node id="filter27" label="filter27">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="35.8153294025" y="172.003740155" z="0.0" />
+      </node>
+      <node id="LaRedInnova" label="LaRedInnova">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="106.43161061" y="364.88581362" z="0.0" />
+      </node>
+      <node id="EmilWallner" label="EmilWallner">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="289.030501465" y="77.2376742339" z="0.0" />
+      </node>
+      <node id="KARRASKILLA" label="KARRASKILLA">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="251.689953286" y="461.47966875" z="0.0" />
+      </node>
+      <node id="cerosetenta" label="cerosetenta">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="41.1710200772" y="129.436525284" z="0.0" />
+      </node>
+      <node id="signalapp" label="signalapp">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="128.327382333" y="236.72906491" z="0.0" />
+      </node>
+      <node id="KimKierkegaard" label="KimKierkegaard">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="215.530423446" y="47.4499715598" z="0.0" />
+      </node>
+      <node id="docediscos" label="docediscos">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="41.7070079662" y="93.6320306766" z="0.0" />
+      </node>
+      <node id="Julian" label="Julian">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="541.945916228" y="169.98834442" z="0.0" />
+      </node>
+      <node id="iquilezles" label="iquilezles">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="72.9299528665" y="214.262536451" z="0.0" />
+      </node>
+      <node id="Vizor_VR" label="Vizor_VR">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="58.8157848219" y="337.830403862" z="0.0" />
+      </node>
+      <node id="BrettTheJet" label="BrettTheJet">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="514.68925301" y="174.042071499" z="0.0" />
+      </node>
+      <node id="eramirem" label="eramirem">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="80.9320317016" y="57.3317368647" z="0.0" />
+      </node>
+      <node id="mrdoob" label="mrdoob">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="334.860983041" y="145.149952761" z="0.0" />
+      </node>
+      <node id="brooklynvegan" label="brooklynvegan">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="83.6503278485" y="45.9666792129" z="0.0" />
+      </node>
+      <node id="DescartesLabs" label="DescartesLabs">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="80.3139726261" y="404.451978098" z="0.0" />
+      </node>
+      <node id="hughskennedy" label="hughskennedy">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="438.499263977" y="93.8770572289" z="0.0" />
+      </node>
+      <node id="foodlabcali" label="foodlabcali">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="463.359438129" y="510.3005617" z="0.0" />
+      </node>
+      <node id="spikebrehm" label="spikebrehm">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="539.776574638" y="96.3824797231" z="0.0" />
+      </node>
+      <node id="bocoup" label="bocoup">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="493.294974758" y="502.391917691" z="0.0" />
+      </node>
+      <node id="tameverts" label="tameverts">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="313.383945291" y="485.914011743" z="0.0" />
+      </node>
+      <node id="MagicRealismBot" label="MagicRealismBot">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="42.2877021012" y="463.040246148" z="0.0" />
+      </node>
+      <node id="ximesonic" label="ximesonic">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="10.6567406496" y="0.993175705638" z="0.0" />
+      </node>
+      <node id="kortina" label="kortina">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="221.931031798" y="221.381631253" z="0.0" />
+      </node>
+      <node id="heftwerk" label="heftwerk">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="433.840717524" y="287.276202419" z="0.0" />
+      </node>
+      <node id="LMGM" label="LMGM">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="403.52308633" y="203.070143846" z="0.0" />
+      </node>
+      <node id="dianadajer" label="dianadajer">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="200.209683807" y="221.652035934" z="0.0" />
+      </node>
+      <node id="DigitalDUMBO" label="DigitalDUMBO">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="7.03215477662" y="544.48843857" z="0.0" />
+      </node>
+      <node id="ganzefolge" label="ganzefolge">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="438.440681006" y="197.777844772" z="0.0" />
+      </node>
+      <node id="KatKonnCodes" label="KatKonnCodes">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="578.017773117" y="168.475425516" z="0.0" />
+      </node>
+      <node id="ColombiaJS" label="ColombiaJS">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="575.300153881" y="211.339868906" z="0.0" />
+      </node>
+      <node id="cperry248" label="cperry248">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="440.596229627" y="314.946373521" z="0.0" />
+      </node>
+      <node id="Phycore" label="Phycore">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="285.992763467" y="400.186576599" z="0.0" />
+      </node>
+      <node id="FabioRubianoO" label="FabioRubianoO">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="525.327832977" y="335.799174605" z="0.0" />
+      </node>
+      <node id="rhizomatica" label="rhizomatica">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="65.9928047263" y="387.259780243" z="0.0" />
+      </node>
+      <node id="hadleywickham" label="hadleywickham">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="140.927953011" y="42.6384469381" z="0.0" />
+      </node>
+      <node id="p1nox" label="p1nox">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="565.221994784" y="383.521524731" z="0.0" />
+      </node>
+      <node id="SBTRKT" label="SBTRKT">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="173.957045586" y="506.732731284" z="0.0" />
+      </node>
+      <node id="ReactEurope" label="ReactEurope">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="102.23606731" y="122.354707488" z="0.0" />
+      </node>
+      <node id="tamat" label="tamat">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="274.5284446" y="585.040564941" z="0.0" />
+      </node>
+      <node id="EliciaBG" label="EliciaBG">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="517.778314612" y="299.19122413" z="0.0" />
+      </node>
+      <node id="ArbolNaranja" label="ArbolNaranja">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="476.281643952" y="461.296164101" z="0.0" />
+      </node>
+      <node id="espartaco500" label="espartaco500">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="76.9833531328" y="447.907642628" z="0.0" />
+      </node>
+      <node id="expo" label="expo">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="61.748490131" y="241.148852017" z="0.0" />
+      </node>
+      <node id="KarennaGore" label="KarennaGore">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="251.445545384" y="8.74697351641" z="0.0" />
+      </node>
+      <node id="CassavaRepublic" label="CassavaRepublic">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="277.80084564" y="417.332326878" z="0.0" />
+      </node>
+      <node id="QWVillager" label="QWVillager">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="19.4428279701" y="65.4586767716" z="0.0" />
+      </node>
+      <node id="Onikuo" label="Onikuo">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="529.543436928" y="182.846605761" z="0.0" />
+      </node>
+      <node id="sxywu" label="sxywu">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="473.513014439" y="387.366339135" z="0.0" />
+      </node>
+      <node id="VideoDreaming" label="VideoDreaming">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="150.605729454" y="270.438196051" z="0.0" />
+      </node>
+      <node id="blancodisco" label="blancodisco">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="355.305879955" y="223.127978346" z="0.0" />
+      </node>
+      <node id="bitcoinminer" label="bitcoinminer">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="95.0843184786" y="198.562459438" z="0.0" />
+      </node>
+      <node id="lasucursalclo" label="lasucursalclo">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="70.4309116325" y="169.365356799" z="0.0" />
+      </node>
+      <node id="ReactAmsterdam" label="ReactAmsterdam">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="144.533991309" y="342.096186977" z="0.0" />
+      </node>
+      <node id="plenty" label="plenty">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="241.332280528" y="296.88960202" z="0.0" />
+      </node>
+      <node id="The_uptowngirl" label="The_uptowngirl">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="448.760457258" y="358.662019352" z="0.0" />
+      </node>
+      <node id="VitalikButerin" label="VitalikButerin">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="78.2071916293" y="86.8573386063" z="0.0" />
+      </node>
+      <node id="vivalanetwork" label="vivalanetwork">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="586.79437987" y="408.946347479" z="0.0" />
+      </node>
+      <node id="GOTOber" label="GOTOber">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="178.181875821" y="25.9031957748" z="0.0" />
+      </node>
+      <node id="pixelarchitect" label="pixelarchitect">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="333.340683793" y="154.473193105" z="0.0" />
+      </node>
+      <node id="NationalSawdust" label="NationalSawdust">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="551.91854163" y="307.057379361" z="0.0" />
+      </node>
+      <node id="biatchcorp" label="biatchcorp">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="482.481073859" y="92.5433571831" z="0.0" />
+      </node>
+      <node id="SR_EExperiences" label="SR_EExperiences">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="313.840734646" y="58.6605396836" z="0.0" />
+      </node>
+      <node id="URPressing" label="URPressing">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="217.227903532" y="251.514616334" z="0.0" />
+      </node>
+      <node id="samanthabretous" label="samanthabretous">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="422.886451643" y="384.435089481" z="0.0" />
+      </node>
+      <node id="svgeesus" label="svgeesus">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="221.666642087" y="416.498869445" z="0.0" />
+      </node>
+      <node id="creativemorning" label="creativemorning">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="453.600649057" y="51.4228235683" z="0.0" />
+      </node>
+      <node id="tidalbot" label="tidalbot">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="504.935466448" y="434.28130296" z="0.0" />
+      </node>
+      <node id="TaimFalafel" label="TaimFalafel">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="532.13201311" y="92.3591922057" z="0.0" />
+      </node>
+      <node id="VisitBerlinNow" label="VisitBerlinNow">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="290.504137939" y="98.8007113549" z="0.0" />
+      </node>
+      <node id="duostack" label="duostack">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="584.00184718" y="187.754321337" z="0.0" />
+      </node>
+      <node id="glagolista" label="glagolista">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="509.647390896" y="14.0010336723" z="0.0" />
+      </node>
+      <node id="howtobuildup" label="howtobuildup">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="253.250005931" y="585.75227345" z="0.0" />
+      </node>
+      <node id="brooklyn_js" label="brooklyn_js">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="171.974965244" y="40.4577048672" z="0.0" />
+      </node>
+      <node id="roidrage" label="roidrage">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="390.939960934" y="290.791271211" z="0.0" />
+      </node>
+      <node id="UNYorikoY" label="UNYorikoY">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="258.988162638" y="215.685610596" z="0.0" />
+      </node>
+      <node id="satya164" label="satya164">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="549.971051007" y="539.704780548" z="0.0" />
+      </node>
+      <node id="beatryev" label="beatryev">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="463.826152361" y="48.8653367397" z="0.0" />
+      </node>
+      <node id="CUNYSPS" label="CUNYSPS">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="218.978375665" y="271.600958519" z="0.0" />
+      </node>
+      <node id="queensswap" label="queensswap">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="257.865522343" y="3.95270314396" z="0.0" />
+      </node>
+      <node id="Palenquefood" label="Palenquefood">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="392.117567755" y="386.031469235" z="0.0" />
+      </node>
+      <node id="themanual" label="themanual">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="589.779579997" y="28.4568033677" z="0.0" />
+      </node>
+      <node id="CreatorsProject" label="CreatorsProject">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="41.4830570291" y="206.070124981" z="0.0" />
+      </node>
+      <node id="nycagcollective" label="nycagcollective">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="533.491579271" y="35.9960361136" z="0.0" />
+      </node>
+      <node id="garageclassics" label="garageclassics">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="374.80182994" y="419.787494615" z="0.0" />
+      </node>
+      <node id="ProgrammingCom" label="ProgrammingCom">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="504.142877673" y="15.7944542011" z="0.0" />
+      </node>
+      <node id="CreativeDotAI" label="CreativeDotAI">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="32.9277896909" y="136.571484885" z="0.0" />
+      </node>
+      <node id="themidgame" label="themidgame">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="14.7419784963" y="408.27479174" z="0.0" />
+      </node>
+      <node id="zcashco" label="zcashco">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="243.701250743" y="316.084114592" z="0.0" />
+      </node>
+      <node id="ElcampesinoCo" label="ElcampesinoCo">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="354.120403995" y="535.922544384" z="0.0" />
+      </node>
+      <node id="maria_fibonacci" label="maria_fibonacci">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="42.5598615915" y="418.759044397" z="0.0" />
+      </node>
+      <node id="monoescobar" label="monoescobar">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="216.601592982" y="469.428671168" z="0.0" />
+      </node>
+      <node id="letsencrypt" label="letsencrypt">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="96.7083146892" y="493.254546622" z="0.0" />
+      </node>
+      <node id="OliverHuntemann" label="OliverHuntemann">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="422.510413547" y="220.042472232" z="0.0" />
+      </node>
+      <node id="vuelodeglobos" label="vuelodeglobos">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="551.20491235" y="495.570517809" z="0.0" />
+      </node>
+      <node id="4tt4r" label="4tt4r">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="193.005561306" y="483.427822854" z="0.0" />
+      </node>
+      <node id="seantmcvey" label="seantmcvey">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="591.26056867" y="287.656467166" z="0.0" />
+      </node>
+      <node id="FontFont" label="FontFont">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="123.036945888" y="562.095644245" z="0.0" />
+      </node>
+      <node id="marion_leborgne" label="marion_leborgne">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="75.5555878155" y="431.769910476" z="0.0" />
+      </node>
+      <node id="toplaporg" label="toplaporg">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="256.936362612" y="103.110332473" z="0.0" />
+      </node>
+      <node id="anticorruption" label="anticorruption">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="153.602441256" y="317.201976283" z="0.0" />
+      </node>
+      <node id="brendonmoeller" label="brendonmoeller">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="234.88024584" y="463.840874506" z="0.0" />
+      </node>
+      <node id="kosamari" label="kosamari">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="584.198847371" y="132.931495233" z="0.0" />
+      </node>
+      <node id="pearsonsound" label="pearsonsound">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="282.931890841" y="532.591991002" z="0.0" />
+      </node>
+      <node id="tangelo212" label="tangelo212">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="153.912603667" y="578.777413133" z="0.0" />
+      </node>
+      <node id="moebio" label="moebio">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="353.128787171" y="565.200853886" z="0.0" />
+      </node>
+      <node id="thegamma_net" label="thegamma_net">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="597.379835573" y="244.250131758" z="0.0" />
+      </node>
+      <node id="SenSanders" label="SenSanders">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="143.341817878" y="166.076424657" z="0.0" />
+      </node>
+      <node id="LopezCatherine" label="LopezCatherine">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="538.295568037" y="555.383072746" z="0.0" />
+      </node>
+      <node id="YouWorkForThem" label="YouWorkForThem">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="281.480426643" y="449.088112414" z="0.0" />
+      </node>
+      <node id="garysguide" label="garysguide">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="484.657891203" y="482.33745293" z="0.0" />
+      </node>
+      <node id="jahirfiquitiva" label="jahirfiquitiva">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="331.913647274" y="151.705244298" z="0.0" />
+      </node>
+      <node id="jirafe" label="jirafe">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="137.717022937" y="555.454372865" z="0.0" />
+      </node>
+      <node id="Benjojo12" label="Benjojo12">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="285.151430356" y="502.907657632" z="0.0" />
+      </node>
+      <node id="ghostmeat" label="ghostmeat">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="343.916211232" y="516.379605991" z="0.0" />
+      </node>
+      <node id="rogeliog" label="rogeliog">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="421.398996472" y="507.784230524" z="0.0" />
+      </node>
+      <node id="cesifoti" label="cesifoti">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="374.452535958" y="239.278049273" z="0.0" />
+      </node>
+      <node id="javivelasco" label="javivelasco">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="104.78264902" y="39.7714832769" z="0.0" />
+      </node>
+      <node id="GGLCali" label="GGLCali">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="566.602805581" y="197.850277894" z="0.0" />
+      </node>
+      <node id="streamr" label="streamr">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="112.111352723" y="23.9783286385" z="0.0" />
+      </node>
+      <node id="el_labcoworking" label="el_labcoworking">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="373.993037235" y="411.820790618" z="0.0" />
+      </node>
+      <node id="srengine" label="srengine">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="203.497090566" y="263.430783914" z="0.0" />
+      </node>
+      <node id="piratefsh" label="piratefsh">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="43.0543730806" y="329.117339671" z="0.0" />
+      </node>
+      <node id="makeadiff_nyc" label="makeadiff_nyc">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="149.026217458" y="585.752075202" z="0.0" />
+      </node>
+      <node id="ubergig" label="ubergig">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="577.561816422" y="586.795591187" z="0.0" />
+      </node>
+      <node id="greatdiscontent" label="greatdiscontent">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="489.88035114" y="134.580723338" z="0.0" />
+      </node>
+      <node id="steinwaymansion" label="steinwaymansion">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="547.862199135" y="0.585503598002" z="0.0" />
+      </node>
+      <node id="lreiley" label="lreiley">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="247.511726904" y="251.102433851" z="0.0" />
+      </node>
+      <node id="lizcastro" label="lizcastro">
+        <viz:color a="0.7" b="170" g="170" r="170" />
+        <viz:size value="10" />
+        <viz:position x="53.6793578646" y="550.556290122" z="0.0" />
+      </node>
+      <node id="kumailn" label="kumailn">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="307.817746954" y="550.370652885" z="0.0" />
+      </node>
+      <node id="HangarFilms" label="HangarFilms">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="1.70704493179" y="294.617370538" z="0.0" />
+      </node>
+      <node id="omargallob" label="omargallob">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="118.210804383" y="106.213193968" z="0.0" />
+      </node>
+      <node id="KONTR4" label="KONTR4">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="211.860137749" y="164.966282918" z="0.0" />
+      </node>
+      <node id="aa_lopez" label="aa_lopez">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="256.827310938" y="75.2052053414" z="0.0" />
+      </node>
+      <node id="OneLouderApps" label="OneLouderApps">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="212.529508492" y="105.73816722" z="0.0" />
+      </node>
+      <node id="taratan" label="taratan">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="50.2366986392" y="33.8077202085" z="0.0" />
+      </node>
+      <node id="villagevoice" label="villagevoice">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="208.754378619" y="283.959333206" z="0.0" />
+      </node>
+      <node id="MImpactoCol" label="MImpactoCol">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="77.4577354108" y="281.881057473" z="0.0" />
+      </node>
+      <node id="scaleconfco" label="scaleconfco">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="459.928427062" y="112.001527185" z="0.0" />
+      </node>
+      <node id="natyacampillo" label="natyacampillo">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="562.116248065" y="588.040419828" z="0.0" />
+      </node>
+      <node id="snookca" label="snookca">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="343.664987492" y="595.126070114" z="0.0" />
+      </node>
+      <node id="armandosomoza" label="armandosomoza">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="418.797878318" y="90.6559932164" z="0.0" />
+      </node>
+      <node id="sillavalle" label="sillavalle">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="309.945563287" y="305.362269801" z="0.0" />
+      </node>
+      <node id="bichuelo" label="bichuelo">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="291.41133815" y="247.544874603" z="0.0" />
+      </node>
+      <node id="nicolaspenagosf" label="nicolaspenagosf">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="534.177416526" y="341.312267222" z="0.0" />
+      </node>
+      <node id="theendmag" label="theendmag">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="471.71296238" y="337.867126599" z="0.0" />
+      </node>
+      <node id="typecode" label="typecode">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="590.51865953" y="504.683075586" z="0.0" />
+      </node>
+      <node id="JiayangFan" label="JiayangFan">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="407.105770322" y="2.84183976541" z="0.0" />
+      </node>
+      <node id="SATmontreal" label="SATmontreal">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="451.117086222" y="459.690362414" z="0.0" />
+      </node>
+      <node id="floydophone" label="floydophone">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="13.0375466689" y="571.175808909" z="0.0" />
+      </node>
+      <node id="euruko" label="euruko">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="282.229150848" y="229.545963733" z="0.0" />
+      </node>
+      <node id="highlinenyc" label="highlinenyc">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="122.910740399" y="395.165164445" z="0.0" />
+      </node>
+      <node id="sebasoga" label="sebasoga">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="446.898960475" y="432.942116171" z="0.0" />
+      </node>
+      <node id="katsuyaurushiza" label="katsuyaurushiza">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="189.002923581" y="469.676665519" z="0.0" />
+      </node>
+      <node id="projekt_intl" label="projekt_intl">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="26.7296835934" y="181.676725177" z="0.0" />
+      </node>
+      <node id="ondatropica" label="ondatropica">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="471.415718931" y="407.350352296" z="0.0" />
+      </node>
+      <node id="kagisobond" label="kagisobond">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="214.86106211" y="463.191585217" z="0.0" />
+      </node>
+      <node id="olafureliasson" label="olafureliasson">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="44.4720102745" y="34.892159268" z="0.0" />
+      </node>
+      <node id="rvelez" label="rvelez">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="510.902493523" y="361.956045052" z="0.0" />
+      </node>
+      <node id="soulclap" label="soulclap">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="305.03692224" y="573.886240312" z="0.0" />
+      </node>
+      <node id="JukayHsu" label="JukayHsu">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="218.631898838" y="98.5435701156" z="0.0" />
+      </node>
+      <node id="medialab" label="medialab">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="20.5079900118" y="519.968056264" z="0.0" />
+      </node>
+      <node id="bkcc" label="bkcc">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="429.643135299" y="63.7307910726" z="0.0" />
+      </node>
+      <node id="edXOnline" label="edXOnline">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="77.4405135792" y="83.7727391242" z="0.0" />
+      </node>
+      <node id="endeavor_global" label="endeavor_global">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="366.100711277" y="232.548420718" z="0.0" />
+      </node>
+      <node id="fchollet" label="fchollet">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="398.866591545" y="231.461114427" z="0.0" />
+      </node>
+      <node id="weihenstephan" label="weihenstephan">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="420.904338603" y="236.284848965" z="0.0" />
+      </node>
+      <node id="LatinR_Conf" label="LatinR_Conf">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="224.229627615" y="133.575287688" z="0.0" />
+      </node>
+      <node id="showpaper" label="showpaper">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="321.239827617" y="192.607323989" z="0.0" />
+      </node>
+      <node id="manuelaristaran" label="manuelaristaran">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="6.24377812113" y="484.431271761" z="0.0" />
+      </node>
+      <node id="MapleLeafCap" label="MapleLeafCap">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="580.140981996" y="472.966610915" z="0.0" />
+      </node>
+      <node id="is__real" label="is__real">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="569.913206816" y="521.455669073" z="0.0" />
+      </node>
+      <node id="aframevr" label="aframevr">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="264.745358246" y="492.214451012" z="0.0" />
+      </node>
+      <node id="hackeryou" label="hackeryou">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="561.511407439" y="60.858479568" z="0.0" />
+      </node>
+      <node id="designthemedia" label="designthemedia">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="505.090739393" y="51.7433254718" z="0.0" />
+      </node>
+      <node id="avanet" label="avanet">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="248.762781278" y="307.437432325" z="0.0" />
+      </node>
+      <node id="blprnt" label="blprnt">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="52.229063905" y="579.802359201" z="0.0" />
+      </node>
+      <node id="arpunk" label="arpunk">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="434.465607884" y="317.423222638" z="0.0" />
+      </node>
+      <node id="KaitVillanova" label="KaitVillanova">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="325.411209371" y="323.218906023" z="0.0" />
+      </node>
+      <node id="calidevco" label="calidevco">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="289.133123221" y="76.7134775684" z="0.0" />
+      </node>
+      <node id="swedunyc" label="swedunyc">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="146.962503774" y="231.532375742" z="0.0" />
+      </node>
+      <node id="gabrielfalcao" label="gabrielfalcao">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="530.622204932" y="540.537717813" z="0.0" />
+      </node>
+      <node id="rubyconf" label="rubyconf">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="84.4367673304" y="232.966493138" z="0.0" />
+      </node>
+      <node id="VueMastery" label="VueMastery">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="259.791556742" y="424.111219171" z="0.0" />
+      </node>
+      <node id="fturner" label="fturner">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="376.805053127" y="529.76372237" z="0.0" />
+      </node>
+      <node id="audiosocket" label="audiosocket">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="466.8733484" y="290.556670336" z="0.0" />
+      </node>
+      <node id="DSI_Columbia" label="DSI_Columbia">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="111.469927964" y="266.370238426" z="0.0" />
+      </node>
+      <node id="occioTV" label="occioTV">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="2.09527988427" y="418.220400793" z="0.0" />
+      </node>
+      <node id="StephenZoepf" label="StephenZoepf">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="453.464305142" y="57.9272109456" z="0.0" />
+      </node>
+      <node id="SoundCtrl" label="SoundCtrl">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="572.643930115" y="537.350329535" z="0.0" />
+      </node>
+      <node id="jclemus" label="jclemus">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="503.402132128" y="42.6712476863" z="0.0" />
+      </node>
+      <node id="kimpey" label="kimpey">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="519.173453539" y="186.993011423" z="0.0" />
+      </node>
+      <node id="Protifarm" label="Protifarm">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="347.43150627" y="524.794357079" z="0.0" />
+      </node>
+      <node id="RoguePOTUSStaff" label="RoguePOTUSStaff">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="186.788024301" y="88.5420997361" z="0.0" />
+      </node>
+      <node id="ridgewood_js" label="ridgewood_js">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="423.171885094" y="307.605444924" z="0.0" />
+      </node>
+      <node id="AttentionToken" label="AttentionToken">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="95.0400646502" y="377.502912874" z="0.0" />
+      </node>
+      <node id="jbecher" label="jbecher">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="387.82931599" y="322.333227957" z="0.0" />
+      </node>
+      <node id="lizzygreene" label="lizzygreene">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="315.23401612" y="158.964649429" z="0.0" />
+      </node>
+      <node id="ColombiaCalling" label="ColombiaCalling">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="530.254891933" y="164.033610088" z="0.0" />
+      </node>
+      <node id="iphonearkit" label="iphonearkit">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="48.0509229292" y="427.707405181" z="0.0" />
+      </node>
+      <node id="ethereum" label="ethereum">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="465.497653793" y="282.106370201" z="0.0" />
+      </node>
+      <node id="nicolasmendo" label="nicolasmendo">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="76.3053042858" y="488.418505145" z="0.0" />
+      </node>
+      <node id="ClaudiaLopez" label="ClaudiaLopez">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="138.818548525" y="218.205875815" z="0.0" />
+      </node>
+      <node id="fabiojcortes" label="fabiojcortes">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="223.498976029" y="324.053663082" z="0.0" />
+      </node>
+      <node id="headgeekette" label="headgeekette">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="372.24088233" y="571.172838051" z="0.0" />
+      </node>
+      <node id="AirbnbEng" label="AirbnbEng">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="101.721925213" y="510.363685841" z="0.0" />
+      </node>
+      <node id="LuckyPeach" label="LuckyPeach">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="185.636648423" y="155.56398375" z="0.0" />
+      </node>
+      <node id="sotek" label="sotek">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="96.6216077275" y="294.937000655" z="0.0" />
+      </node>
+      <node id="HenrysBK" label="HenrysBK">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="52.4965795328" y="63.4353884131" z="0.0" />
+      </node>
+      <node id="bernardomr" label="bernardomr">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="575.794722566" y="298.734830902" z="0.0" />
+      </node>
+      <node id="nycacre" label="nycacre">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="316.78211387" y="268.903151716" z="0.0" />
+      </node>
+      <node id="torrenegra" label="torrenegra">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="577.403635951" y="560.878102248" z="0.0" />
+      </node>
+      <node id="xoxo" label="xoxo">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="266.337883546" y="134.622227136" z="0.0" />
+      </node>
+      <node id="browserling" label="browserling">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="575.732197813" y="11.8408680611" z="0.0" />
+      </node>
+      <node id="jeff_lamarche" label="jeff_lamarche">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="456.982603504" y="548.756139406" z="0.0" />
+      </node>
+      <node id="karaweisenstein" label="karaweisenstein">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="92.293523035" y="295.965364331" z="0.0" />
+      </node>
+      <node id="NotAltWorld" label="NotAltWorld">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="514.797117064" y="412.471725251" z="0.0" />
+      </node>
+      <node id="adhocfm" label="adhocfm">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="120.417279226" y="462.095736477" z="0.0" />
+      </node>
+      <node id="Hematocritica" label="Hematocritica">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="584.660563867" y="6.47444107979" z="0.0" />
+      </node>
+      <node id="EuropeanaMusic" label="EuropeanaMusic">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="46.1606274357" y="310.918813697" z="0.0" />
+      </node>
+      <node id="buritica" label="buritica">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="554.302229434" y="542.054805209" z="0.0" />
+      </node>
+      <node id="jongold" label="jongold">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="343.35460161" y="128.938346536" z="0.0" />
+      </node>
+      <node id="alexbuga" label="alexbuga">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="280.665115512" y="512.497135028" z="0.0" />
+      </node>
+      <node id="MIIS3RIIA" label="MIIS3RIIA">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="194.814586634" y="164.677592889" z="0.0" />
+      </node>
+      <node id="ellawinthrop" label="ellawinthrop">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="536.333819205" y="0.829849513789" z="0.0" />
+      </node>
+      <node id="HenriHelvetica" label="HenriHelvetica">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="362.004696363" y="413.42497338" z="0.0" />
+      </node>
+      <node id="jashkenas" label="jashkenas">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="291.802755814" y="320.371325325" z="0.0" />
+      </node>
+      <node id="sergimansilla" label="sergimansilla">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="231.842448761" y="594.16667643" z="0.0" />
+      </node>
+      <node id="incubatormix" label="incubatormix">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="303.374645797" y="276.246044775" z="0.0" />
+      </node>
+      <node id="AeroFarms" label="AeroFarms">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="378.735921322" y="343.629533934" z="0.0" />
+      </node>
+      <node id="recursecenter" label="recursecenter">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="463.275151455" y="366.420522631" z="0.0" />
+      </node>
+      <node id="abladeofgrass" label="abladeofgrass">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="223.978123236" y="144.081237384" z="0.0" />
+      </node>
+      <node id="happyworm" label="happyworm">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="401.954531086" y="313.908406469" z="0.0" />
+      </node>
+      <node id="resfoundation" label="resfoundation">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="371.831058983" y="369.466308949" z="0.0" />
+      </node>
+      <node id="GaryZero" label="GaryZero">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="298.59200436" y="565.270266836" z="0.0" />
+      </node>
+      <node id="reactjs" label="reactjs">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="168.549143582" y="591.867123953" z="0.0" />
+      </node>
+      <node id="DubbyVelez" label="DubbyVelez">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="303.803681822" y="436.71925432" z="0.0" />
+      </node>
+      <node id="LuisvonAhn" label="LuisvonAhn">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="543.77458393" y="176.796429557" z="0.0" />
+      </node>
+      <node id="DAVID_LYNCH" label="DAVID_LYNCH">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="70.4325952535" y="560.835767802" z="0.0" />
+      </node>
+      <node id="QueensCountyMkt" label="QueensCountyMkt">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="316.55609145" y="533.428432932" z="0.0" />
+      </node>
+      <node id="ChrisLiebing" label="ChrisLiebing">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="0.278050989805" y="369.408043187" z="0.0" />
+      </node>
+      <node id="danijelvujicic" label="danijelvujicic">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="343.632994845" y="223.540093606" z="0.0" />
+      </node>
+      <node id="ogmento" label="ogmento">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="488.397961522" y="262.686576048" z="0.0" />
+      </node>
+      <node id="fireinhiseyes" label="fireinhiseyes">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="558.119223957" y="280.614459944" z="0.0" />
+      </node>
+      <node id="corinnekunze" label="corinnekunze">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="307.338475601" y="32.3207459021" z="0.0" />
+      </node>
+      <node id="TropfestUSA" label="TropfestUSA">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="144.96691293" y="299.392986372" z="0.0" />
+      </node>
+      <node id="zeithq" label="zeithq">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="534.862870321" y="193.215171672" z="0.0" />
+      </node>
+      <node id="ethereumreport" label="ethereumreport">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="510.69229401" y="525.814052978" z="0.0" />
+      </node>
+      <node id="ado_tan" label="ado_tan">
+        <viz:color a="0.7" b="170" g="17" r="17" />
+        <viz:size value="5" />
+        <viz:position x="324.950100028" y="114.37965078" z="0.0" />
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="holman" target="lizcastro" />
+      <edge id="1" source="tidalcycles" target="lizcastro" />
+      <edge id="2" source="lo_toney" target="lizcastro" />
+      <edge id="3" source="cavorite" target="lizcastro" />
+      <edge id="4" source="thespite" target="lizcastro" />
+      <edge id="5" source="Lean" target="lizcastro" />
+      <edge id="6" source="KrutiePatel" target="lizcastro" />
+      <edge id="7" source="nmsanchez" target="lizcastro" />
+      <edge id="8" source="sarah_edo" target="lizcastro" />
+      <edge id="9" source="ja_serra" target="lizcastro" />
+      <edge id="10" source="RamiroBejaranoG" target="lizcastro" />
+      <edge id="11" source="melismarecords" target="lizcastro" />
+      <edge id="12" source="rstacruz" target="lizcastro" />
+      <edge id="13" source="lesheshi" target="lizcastro" />
+      <edge id="14" source="felixge" target="lizcastro" />
+      <edge id="15" source="fffva" target="lizcastro" />
+      <edge id="16" source="raisethecloud" target="lizcastro" />
+      <edge id="17" source="alphaonelabs" target="lizcastro" />
+      <edge id="18" source="bangbangcon" target="lizcastro" />
+      <edge id="19" source="onyekaakumah" target="lizcastro" />
+      <edge id="20" source="Caidadelatorre" target="lizcastro" />
+      <edge id="21" source="lisawrayz" target="lizcastro" />
+      <edge id="22" source="ScanHouse" target="lizcastro" />
+      <edge id="23" source="castillo__io" target="lizcastro" />
+      <edge id="24" source="scatterco" target="lizcastro" />
+      <edge id="25" source="Juan_Florez" target="lizcastro" />
+      <edge id="26" source="mbafile" target="lizcastro" />
+      <edge id="27" source="jurthys" target="lizcastro" />
+      <edge id="28" source="TwitterEng" target="lizcastro" />
+      <edge id="29" source="colombia_dev" target="lizcastro" />
+      <edge id="30" source="Publiseek" target="lizcastro" />
+      <edge id="31" source="Upwork" target="lizcastro" />
+      <edge id="32" source="federacionISF" target="lizcastro" />
+      <edge id="33" source="natekoechley" target="lizcastro" />
+      <edge id="34" source="i2t_icesi" target="lizcastro" />
+      <edge id="35" source="nycgov" target="lizcastro" />
+      <edge id="36" source="maxweisel" target="lizcastro" />
+      <edge id="37" source="lordspace" target="lizcastro" />
+      <edge id="38" source="ohny" target="lizcastro" />
+      <edge id="39" source="Cabbibo" target="lizcastro" />
+      <edge id="40" source="orangewoodlabs" target="lizcastro" />
+      <edge id="41" source="viewsourceconf" target="lizcastro" />
+      <edge id="42" source="chuckygarcia" target="lizcastro" />
+      <edge id="43" source="mortalamusique" target="lizcastro" />
+      <edge id="44" source="kcimc" target="lizcastro" />
+      <edge id="45" source="lachevreco" target="lizcastro" />
+      <edge id="46" source="martinbigio" target="lizcastro" />
+      <edge id="47" source="ebrelsford" target="lizcastro" />
+      <edge id="48" source="AVerticalFarm" target="lizcastro" />
+      <edge id="49" source="NewYork_CM" target="lizcastro" />
+      <edge id="50" source="kylegeiger" target="lizcastro" />
+      <edge id="51" source="mg6477" target="lizcastro" />
+      <edge id="52" source="Johana_Bahamon" target="lizcastro" />
+      <edge id="53" source="Fair_Trade_Coke" target="lizcastro" />
+      <edge id="54" source="nikgraf" target="lizcastro" />
+      <edge id="55" source="julienbayle" target="lizcastro" />
+      <edge id="56" source="ojoalsancocho" target="lizcastro" />
+      <edge id="57" source="IndCultCali" target="lizcastro" />
+      <edge id="58" source="c4milo" target="lizcastro" />
+      <edge id="59" source="BAM_Bogota" target="lizcastro" />
+      <edge id="60" source="BogotaLogica" target="lizcastro" />
+      <edge id="61" source="Awake_travel" target="lizcastro" />
+      <edge id="62" source="tiemposdelruido" target="lizcastro" />
+      <edge id="63" source="Proimagenes" target="lizcastro" />
+      <edge id="64" source="visualisingdata" target="lizcastro" />
+      <edge id="65" source="coffeegrid" target="lizcastro" />
+      <edge id="66" source="iam_preethi" target="lizcastro" />
+      <edge id="67" source="soyjplopez" target="lizcastro" />
+      <edge id="68" source="BizarroMesa" target="lizcastro" />
+      <edge id="69" source="NatureboyTweets" target="lizcastro" />
+      <edge id="70" source="djtonyz" target="lizcastro" />
+      <edge id="71" source="NYCfares" target="lizcastro" />
+      <edge id="72" source="startupandrew" target="lizcastro" />
+      <edge id="73" source="cblatts" target="lizcastro" />
+      <edge id="74" source="stubbornella" target="lizcastro" />
+      <edge id="75" source="petrogustavo" target="lizcastro" />
+      <edge id="76" source="markethotelnyc" target="lizcastro" />
+      <edge id="77" source="semplicelabs" target="lizcastro" />
+      <edge id="78" source="MsPapic" target="lizcastro" />
+      <edge id="79" source="arturitu" target="lizcastro" />
+      <edge id="80" source="leemartin" target="lizcastro" />
+      <edge id="81" source="SeanPHorton" target="lizcastro" />
+      <edge id="82" source="indexzero" target="lizcastro" />
+      <edge id="83" source="AlexiDelano" target="lizcastro" />
+      <edge id="84" source="sapphireslows" target="lizcastro" />
+      <edge id="85" source="ParquesoftCali" target="lizcastro" />
+      <edge id="86" source="ReactiveConf" target="lizcastro" />
+      <edge id="87" source="lasillavacia" target="lizcastro" />
+      <edge id="88" source="plovgh" target="lizcastro" />
+      <edge id="89" source="CrkDown" target="lizcastro" />
+      <edge id="90" source="brooklynbeta" target="lizcastro" />
+      <edge id="91" source="railsconf" target="lizcastro" />
+      <edge id="92" source="partyreport" target="lizcastro" />
+      <edge id="93" source="toddpatrick" target="lizcastro" />
+      <edge id="94" source="BootstrapHero" target="lizcastro" />
+      <edge id="95" source="soulsummitmusic" target="lizcastro" />
+      <edge id="96" source="lacomilonacali" target="lizcastro" />
+      <edge id="97" source="brainpicker" target="lizcastro" />
+      <edge id="98" source="malofiej" target="lizcastro" />
+      <edge id="99" source="bodytonic" target="lizcastro" />
+      <edge id="100" source="stevewoz" target="lizcastro" />
+      <edge id="101" source="AmeliasBrain" target="lizcastro" />
+      <edge id="102" source="calebgrowsfood" target="lizcastro" />
+      <edge id="103" source="krisbogos" target="lizcastro" />
+      <edge id="104" source="AragonProject" target="lizcastro" />
+      <edge id="105" source="behrens" target="lizcastro" />
+      <edge id="106" source="misaki_mofu" target="lizcastro" />
+      <edge id="107" source="datachile_io" target="lizcastro" />
+      <edge id="108" source="NoisRadio" target="lizcastro" />
+      <edge id="109" source="COCCAMColombia" target="lizcastro" />
+      <edge id="110" source="Bandcamp" target="lizcastro" />
+      <edge id="111" source="himmelbeet" target="lizcastro" />
+      <edge id="112" source="sundaybestnyc" target="lizcastro" />
+      <edge id="113" source="Medium" target="lizcastro" />
+      <edge id="114" source="mateobrown" target="lizcastro" />
+      <edge id="115" source="ideasconstruir" target="lizcastro" />
+      <edge id="116" source="CasaOcali" target="lizcastro" />
+      <edge id="117" source="hardwax" target="lizcastro" />
+      <edge id="118" source="hannahdreier" target="lizcastro" />
+      <edge id="119" source="TheBallast" target="lizcastro" />
+      <edge id="120" source="Joi" target="lizcastro" />
+      <edge id="121" source="MamerMoure" target="lizcastro" />
+      <edge id="122" source="adamsmith" target="lizcastro" />
+      <edge id="123" source="iPhoneDevCamp" target="lizcastro" />
+      <edge id="124" source="filter27" target="lizcastro" />
+      <edge id="125" source="LaRedInnova" target="lizcastro" />
+      <edge id="126" source="EmilWallner" target="lizcastro" />
+      <edge id="127" source="KARRASKILLA" target="lizcastro" />
+      <edge id="128" source="cerosetenta" target="lizcastro" />
+      <edge id="129" source="signalapp" target="lizcastro" />
+      <edge id="130" source="KimKierkegaard" target="lizcastro" />
+      <edge id="131" source="docediscos" target="lizcastro" />
+      <edge id="132" source="Julian" target="lizcastro" />
+      <edge id="133" source="iquilezles" target="lizcastro" />
+      <edge id="134" source="Vizor_VR" target="lizcastro" />
+      <edge id="135" source="BrettTheJet" target="lizcastro" />
+      <edge id="136" source="eramirem" target="lizcastro" />
+      <edge id="137" source="mrdoob" target="lizcastro" />
+      <edge id="138" source="brooklynvegan" target="lizcastro" />
+      <edge id="139" source="DescartesLabs" target="lizcastro" />
+      <edge id="140" source="hughskennedy" target="lizcastro" />
+      <edge id="141" source="foodlabcali" target="lizcastro" />
+      <edge id="142" source="spikebrehm" target="lizcastro" />
+      <edge id="143" source="bocoup" target="lizcastro" />
+      <edge id="144" source="tameverts" target="lizcastro" />
+      <edge id="145" source="MagicRealismBot" target="lizcastro" />
+      <edge id="146" source="ximesonic" target="lizcastro" />
+      <edge id="147" source="kortina" target="lizcastro" />
+      <edge id="148" source="heftwerk" target="lizcastro" />
+      <edge id="149" source="LMGM" target="lizcastro" />
+      <edge id="150" source="dianadajer" target="lizcastro" />
+      <edge id="151" source="DigitalDUMBO" target="lizcastro" />
+      <edge id="152" source="ganzefolge" target="lizcastro" />
+      <edge id="153" source="KatKonnCodes" target="lizcastro" />
+      <edge id="154" source="ColombiaJS" target="lizcastro" />
+      <edge id="155" source="cperry248" target="lizcastro" />
+      <edge id="156" source="Phycore" target="lizcastro" />
+      <edge id="157" source="FabioRubianoO" target="lizcastro" />
+      <edge id="158" source="rhizomatica" target="lizcastro" />
+      <edge id="159" source="hadleywickham" target="lizcastro" />
+      <edge id="160" source="p1nox" target="lizcastro" />
+      <edge id="161" source="SBTRKT" target="lizcastro" />
+      <edge id="162" source="ReactEurope" target="lizcastro" />
+      <edge id="163" source="tamat" target="lizcastro" />
+      <edge id="164" source="EliciaBG" target="lizcastro" />
+      <edge id="165" source="ArbolNaranja" target="lizcastro" />
+      <edge id="166" source="espartaco500" target="lizcastro" />
+      <edge id="167" source="expo" target="lizcastro" />
+      <edge id="168" source="KarennaGore" target="lizcastro" />
+      <edge id="169" source="CassavaRepublic" target="lizcastro" />
+      <edge id="170" source="QWVillager" target="lizcastro" />
+      <edge id="171" source="Onikuo" target="lizcastro" />
+      <edge id="172" source="sxywu" target="lizcastro" />
+      <edge id="173" source="VideoDreaming" target="lizcastro" />
+      <edge id="174" source="blancodisco" target="lizcastro" />
+      <edge id="175" source="bitcoinminer" target="lizcastro" />
+      <edge id="176" source="lasucursalclo" target="lizcastro" />
+      <edge id="177" source="ReactAmsterdam" target="lizcastro" />
+      <edge id="178" source="plenty" target="lizcastro" />
+      <edge id="179" source="The_uptowngirl" target="lizcastro" />
+      <edge id="180" source="VitalikButerin" target="lizcastro" />
+      <edge id="181" source="vivalanetwork" target="lizcastro" />
+      <edge id="182" source="GOTOber" target="lizcastro" />
+      <edge id="183" source="pixelarchitect" target="lizcastro" />
+      <edge id="184" source="NationalSawdust" target="lizcastro" />
+      <edge id="185" source="biatchcorp" target="lizcastro" />
+      <edge id="186" source="SR_EExperiences" target="lizcastro" />
+      <edge id="187" source="URPressing" target="lizcastro" />
+      <edge id="188" source="samanthabretous" target="lizcastro" />
+      <edge id="189" source="svgeesus" target="lizcastro" />
+      <edge id="190" source="creativemorning" target="lizcastro" />
+      <edge id="191" source="tidalbot" target="lizcastro" />
+      <edge id="192" source="TaimFalafel" target="lizcastro" />
+      <edge id="193" source="VisitBerlinNow" target="lizcastro" />
+      <edge id="194" source="duostack" target="lizcastro" />
+      <edge id="195" source="glagolista" target="lizcastro" />
+      <edge id="196" source="howtobuildup" target="lizcastro" />
+      <edge id="197" source="brooklyn_js" target="lizcastro" />
+      <edge id="198" source="roidrage" target="lizcastro" />
+      <edge id="199" source="UNYorikoY" target="lizcastro" />
+      <edge id="200" source="satya164" target="lizcastro" />
+      <edge id="201" source="beatryev" target="lizcastro" />
+      <edge id="202" source="CUNYSPS" target="lizcastro" />
+      <edge id="203" source="queensswap" target="lizcastro" />
+      <edge id="204" source="Palenquefood" target="lizcastro" />
+      <edge id="205" source="themanual" target="lizcastro" />
+      <edge id="206" source="CreatorsProject" target="lizcastro" />
+      <edge id="207" source="nycagcollective" target="lizcastro" />
+      <edge id="208" source="garageclassics" target="lizcastro" />
+      <edge id="209" source="ProgrammingCom" target="lizcastro" />
+      <edge id="210" source="CreativeDotAI" target="lizcastro" />
+      <edge id="211" source="themidgame" target="lizcastro" />
+      <edge id="212" source="zcashco" target="lizcastro" />
+      <edge id="213" source="ElcampesinoCo" target="lizcastro" />
+      <edge id="214" source="maria_fibonacci" target="lizcastro" />
+      <edge id="215" source="monoescobar" target="lizcastro" />
+      <edge id="216" source="letsencrypt" target="lizcastro" />
+      <edge id="217" source="OliverHuntemann" target="lizcastro" />
+      <edge id="218" source="vuelodeglobos" target="lizcastro" />
+      <edge id="219" source="4tt4r" target="lizcastro" />
+      <edge id="220" source="seantmcvey" target="lizcastro" />
+      <edge id="221" source="FontFont" target="lizcastro" />
+      <edge id="222" source="marion_leborgne" target="lizcastro" />
+      <edge id="223" source="toplaporg" target="lizcastro" />
+      <edge id="224" source="anticorruption" target="lizcastro" />
+      <edge id="225" source="brendonmoeller" target="lizcastro" />
+      <edge id="226" source="kosamari" target="lizcastro" />
+      <edge id="227" source="pearsonsound" target="lizcastro" />
+      <edge id="228" source="tangelo212" target="lizcastro" />
+      <edge id="229" source="moebio" target="lizcastro" />
+      <edge id="230" source="thegamma_net" target="lizcastro" />
+      <edge id="231" source="SenSanders" target="lizcastro" />
+      <edge id="232" source="LopezCatherine" target="lizcastro" />
+      <edge id="233" source="YouWorkForThem" target="lizcastro" />
+      <edge id="234" source="garysguide" target="lizcastro" />
+      <edge id="235" source="jahirfiquitiva" target="lizcastro" />
+      <edge id="236" source="jirafe" target="lizcastro" />
+      <edge id="237" source="Benjojo12" target="lizcastro" />
+      <edge id="238" source="ghostmeat" target="lizcastro" />
+      <edge id="239" source="rogeliog" target="lizcastro" />
+      <edge id="240" source="cesifoti" target="lizcastro" />
+      <edge id="241" source="javivelasco" target="lizcastro" />
+      <edge id="242" source="GGLCali" target="lizcastro" />
+      <edge id="243" source="streamr" target="lizcastro" />
+      <edge id="244" source="el_labcoworking" target="lizcastro" />
+      <edge id="245" source="srengine" target="lizcastro" />
+      <edge id="246" source="piratefsh" target="lizcastro" />
+      <edge id="247" source="makeadiff_nyc" target="lizcastro" />
+      <edge id="248" source="ubergig" target="lizcastro" />
+      <edge id="249" source="greatdiscontent" target="lizcastro" />
+      <edge id="250" source="steinwaymansion" target="lizcastro" />
+      <edge id="251" source="lreiley" target="lizcastro" />
+      <edge id="252" source="lizcastro" target="kumailn" />
+      <edge id="253" source="lizcastro" target="HangarFilms" />
+      <edge id="254" source="lizcastro" target="omargallob" />
+      <edge id="255" source="lizcastro" target="KONTR4" />
+      <edge id="256" source="lizcastro" target="aa_lopez" />
+      <edge id="257" source="lizcastro" target="OneLouderApps" />
+      <edge id="258" source="lizcastro" target="taratan" />
+      <edge id="259" source="lizcastro" target="villagevoice" />
+      <edge id="260" source="lizcastro" target="MImpactoCol" />
+      <edge id="261" source="lizcastro" target="scaleconfco" />
+      <edge id="262" source="lizcastro" target="natyacampillo" />
+      <edge id="263" source="lizcastro" target="snookca" />
+      <edge id="264" source="lizcastro" target="armandosomoza" />
+      <edge id="265" source="lizcastro" target="sillavalle" />
+      <edge id="266" source="lizcastro" target="bichuelo" />
+      <edge id="267" source="lizcastro" target="nicolaspenagosf" />
+      <edge id="268" source="lizcastro" target="theendmag" />
+      <edge id="269" source="lizcastro" target="typecode" />
+      <edge id="270" source="lizcastro" target="JiayangFan" />
+      <edge id="271" source="lizcastro" target="SATmontreal" />
+      <edge id="272" source="lizcastro" target="floydophone" />
+      <edge id="273" source="lizcastro" target="euruko" />
+      <edge id="274" source="lizcastro" target="highlinenyc" />
+      <edge id="275" source="lizcastro" target="sebasoga" />
+      <edge id="276" source="lizcastro" target="katsuyaurushiza" />
+      <edge id="277" source="lizcastro" target="projekt_intl" />
+      <edge id="278" source="lizcastro" target="ondatropica" />
+      <edge id="279" source="lizcastro" target="kagisobond" />
+      <edge id="280" source="lizcastro" target="olafureliasson" />
+      <edge id="281" source="lizcastro" target="rvelez" />
+      <edge id="282" source="lizcastro" target="soulclap" />
+      <edge id="283" source="lizcastro" target="JukayHsu" />
+      <edge id="284" source="lizcastro" target="medialab" />
+      <edge id="285" source="lizcastro" target="bkcc" />
+      <edge id="286" source="lizcastro" target="edXOnline" />
+      <edge id="287" source="lizcastro" target="endeavor_global" />
+      <edge id="288" source="lizcastro" target="fchollet" />
+      <edge id="289" source="lizcastro" target="weihenstephan" />
+      <edge id="290" source="lizcastro" target="LatinR_Conf" />
+      <edge id="291" source="lizcastro" target="showpaper" />
+      <edge id="292" source="lizcastro" target="manuelaristaran" />
+      <edge id="293" source="lizcastro" target="MapleLeafCap" />
+      <edge id="294" source="lizcastro" target="is__real" />
+      <edge id="295" source="lizcastro" target="aframevr" />
+      <edge id="296" source="lizcastro" target="hackeryou" />
+      <edge id="297" source="lizcastro" target="designthemedia" />
+      <edge id="298" source="lizcastro" target="avanet" />
+      <edge id="299" source="lizcastro" target="blprnt" />
+      <edge id="300" source="lizcastro" target="arpunk" />
+      <edge id="301" source="lizcastro" target="KaitVillanova" />
+      <edge id="302" source="lizcastro" target="calidevco" />
+      <edge id="303" source="lizcastro" target="swedunyc" />
+      <edge id="304" source="lizcastro" target="gabrielfalcao" />
+      <edge id="305" source="lizcastro" target="rubyconf" />
+      <edge id="306" source="lizcastro" target="VueMastery" />
+      <edge id="307" source="lizcastro" target="fturner" />
+      <edge id="308" source="lizcastro" target="audiosocket" />
+      <edge id="309" source="lizcastro" target="DSI_Columbia" />
+      <edge id="310" source="lizcastro" target="occioTV" />
+      <edge id="311" source="lizcastro" target="StephenZoepf" />
+      <edge id="312" source="lizcastro" target="SoundCtrl" />
+      <edge id="313" source="lizcastro" target="jclemus" />
+      <edge id="314" source="lizcastro" target="kimpey" />
+      <edge id="315" source="lizcastro" target="Protifarm" />
+      <edge id="316" source="lizcastro" target="RoguePOTUSStaff" />
+      <edge id="317" source="lizcastro" target="ridgewood_js" />
+      <edge id="318" source="lizcastro" target="AttentionToken" />
+      <edge id="319" source="lizcastro" target="jbecher" />
+      <edge id="320" source="lizcastro" target="lizzygreene" />
+      <edge id="321" source="lizcastro" target="ColombiaCalling" />
+      <edge id="322" source="lizcastro" target="iphonearkit" />
+      <edge id="323" source="lizcastro" target="ethereum" />
+      <edge id="324" source="lizcastro" target="nicolasmendo" />
+      <edge id="325" source="lizcastro" target="ClaudiaLopez" />
+      <edge id="326" source="lizcastro" target="fabiojcortes" />
+      <edge id="327" source="lizcastro" target="headgeekette" />
+      <edge id="328" source="lizcastro" target="AirbnbEng" />
+      <edge id="329" source="lizcastro" target="LuckyPeach" />
+      <edge id="330" source="lizcastro" target="sotek" />
+      <edge id="331" source="lizcastro" target="HenrysBK" />
+      <edge id="332" source="lizcastro" target="bernardomr" />
+      <edge id="333" source="lizcastro" target="nycacre" />
+      <edge id="334" source="lizcastro" target="torrenegra" />
+      <edge id="335" source="lizcastro" target="xoxo" />
+      <edge id="336" source="lizcastro" target="browserling" />
+      <edge id="337" source="lizcastro" target="jeff_lamarche" />
+      <edge id="338" source="lizcastro" target="karaweisenstein" />
+      <edge id="339" source="lizcastro" target="NotAltWorld" />
+      <edge id="340" source="lizcastro" target="adhocfm" />
+      <edge id="341" source="lizcastro" target="Hematocritica" />
+      <edge id="342" source="lizcastro" target="EuropeanaMusic" />
+      <edge id="343" source="lizcastro" target="buritica" />
+      <edge id="344" source="lizcastro" target="jongold" />
+      <edge id="345" source="lizcastro" target="alexbuga" />
+      <edge id="346" source="lizcastro" target="MIIS3RIIA" />
+      <edge id="347" source="lizcastro" target="ellawinthrop" />
+      <edge id="348" source="lizcastro" target="HenriHelvetica" />
+      <edge id="349" source="lizcastro" target="jashkenas" />
+      <edge id="350" source="lizcastro" target="sergimansilla" />
+      <edge id="351" source="lizcastro" target="incubatormix" />
+      <edge id="352" source="lizcastro" target="AeroFarms" />
+      <edge id="353" source="lizcastro" target="recursecenter" />
+      <edge id="354" source="lizcastro" target="abladeofgrass" />
+      <edge id="355" source="lizcastro" target="happyworm" />
+      <edge id="356" source="lizcastro" target="resfoundation" />
+      <edge id="357" source="lizcastro" target="GaryZero" />
+      <edge id="358" source="lizcastro" target="reactjs" />
+      <edge id="359" source="lizcastro" target="DubbyVelez" />
+      <edge id="360" source="lizcastro" target="LuisvonAhn" />
+      <edge id="361" source="lizcastro" target="DAVID_LYNCH" />
+      <edge id="362" source="lizcastro" target="QueensCountyMkt" />
+      <edge id="363" source="lizcastro" target="ChrisLiebing" />
+      <edge id="364" source="lizcastro" target="danijelvujicic" />
+      <edge id="365" source="lizcastro" target="ogmento" />
+      <edge id="366" source="lizcastro" target="fireinhiseyes" />
+      <edge id="367" source="lizcastro" target="corinnekunze" />
+      <edge id="368" source="lizcastro" target="TropfestUSA" />
+      <edge id="369" source="lizcastro" target="zeithq" />
+      <edge id="370" source="lizcastro" target="ethereumreport" />
+      <edge id="371" source="lizcastro" target="ado_tan" />
+    </edges>
+  </graph>
+</gexf>

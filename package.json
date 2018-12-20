@@ -1,0 +1,20 @@
+{
+  "name": "620_final",
+  "version": "1.0.0",
+  "description": "Final project for 620",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "heroku": "^7.18.9",
+    "jsnetworkx": "^0.3.4",
+    "oauth": "^0.9.15",
+    "twitter-node-client": "0.0.6"
+  }
+}

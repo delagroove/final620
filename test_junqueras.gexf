@@ -1,0 +1,2344 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>20/12/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="PatrickVedel" label="PatrickVedel" />
+      <node id="ariadnajou" label="ariadnajou" />
+      <node id="jrcasals" label="jrcasals" />
+      <node id="Josep_Huguet" label="Josep_Huguet" />
+      <node id="pepgaspar" label="pepgaspar" />
+      <node id="euronews" label="euronews" />
+      <node id="xarop" label="xarop" />
+      <node id="BelZaballa" label="BelZaballa" />
+      <node id="estemon" label="estemon" />
+      <node id="martasugranyes1" label="martasugranyes1" />
+      <node id="ferranmascarell" label="ferranmascarell" />
+      <node id="XabiBarrena" label="XabiBarrena" />
+      <node id="ercmataro" label="ercmataro" />
+      <node id="peremolto" label="peremolto" />
+      <node id="paucc" label="paucc" />
+      <node id="Laksmiz" label="Laksmiz" />
+      <node id="pgomezinglada" label="pgomezinglada" />
+      <node id="oriolllado" label="oriolllado" />
+      <node id="debatedela1_tve" label="debatedela1_tve" />
+      <node id="flag_guy" label="flag_guy" />
+      <node id="CivitiMarti" label="CivitiMarti" />
+      <node id="XSalaimartin" label="XSalaimartin" />
+      <node id="MarcColomer" label="MarcColomer" />
+      <node id="jllisterri" label="jllisterri" />
+      <node id="rac1" label="rac1" />
+      <node id="Marta_Sibina" label="Marta_Sibina" />
+      <node id="CatalunyaSi" label="CatalunyaSi" />
+      <node id="salutcat" label="salutcat" />
+      <node id="natalia_garriga" label="natalia_garriga" />
+      <node id="CollectiuEmma" label="CollectiuEmma" />
+      <node id="iponsmelis" label="iponsmelis" />
+      <node id="joancgallego" label="joancgallego" />
+      <node id="marcvidal" label="marcvidal" />
+      <node id="violantml" label="violantml" />
+      <node id="Esquerra_ERC" label="Esquerra_ERC" />
+      <node id="laiamaimo" label="laiamaimo" />
+      <node id="NilPapiol" label="NilPapiol" />
+      <node id="lacuinavermella" label="lacuinavermella" />
+      <node id="tribunacat" label="tribunacat" />
+      <node id="jprat" label="jprat" />
+      <node id="sermt" label="sermt" />
+      <node id="QuicoSalles" label="QuicoSalles" />
+      <node id="ERC_lgtb" label="ERC_lgtb" />
+      <node id="jdorcacosta" label="jdorcacosta" />
+      <node id="paucomes" label="paucomes" />
+      <node id="enpeyu" label="enpeyu" />
+      <node id="camilros" label="camilros" />
+      <node id="jmones" label="jmones" />
+      <node id="govern" label="govern" />
+      <node id="elclauercat" label="elclauercat" />
+      <node id="patolucas48" label="patolucas48" />
+      <node id="elinebreda" label="elinebreda" />
+      <node id="ierrejon" label="ierrejon" />
+      <node id="jovellado" label="jovellado" />
+      <node id="miLLoringlix" label="miLLoringlix" />
+      <node id="angelrosdomingo" label="angelrosdomingo" />
+      <node id="cristinagallach" label="cristinagallach" />
+      <node id="sergisabria" label="sergisabria" />
+      <node id="quimarrufat" label="quimarrufat" />
+      <node id="CdEconomia" label="CdEconomia" />
+      <node id="Antonia_Font" label="Antonia_Font" />
+      <node id="quimcosta" label="quimcosta" />
+      <node id="Tweetelect09" label="Tweetelect09" />
+      <node id="silviasfg" label="silviasfg" />
+      <node id="cantalozella" label="cantalozella" />
+      <node id="RosaAmorosC" label="RosaAmorosC" />
+      <node id="BernatGimeno" label="BernatGimeno" />
+      <node id="trinitro" label="trinitro" />
+      <node id="FreeJunqueras" label="FreeJunqueras" />
+      <node id="Malalt9" label="Malalt9" />
+      <node id="nadalrafel" label="nadalrafel" />
+      <node id="AinaVS" label="AinaVS" />
+      <node id="OscarReinaGilen" label="OscarReinaGilen" />
+      <node id="elmonarac1" label="elmonarac1" />
+      <node id="TheEconomist" label="TheEconomist" />
+      <node id="portdebarcelona" label="portdebarcelona" />
+      <node id="laxarxaradio" label="laxarxaradio" />
+      <node id="joseantich" label="joseantich" />
+      <node id="jordievole" label="jordievole" />
+      <node id="gcapdevila" label="gcapdevila" />
+      <node id="bernatsole" label="bernatsole" />
+      <node id="esquerraLH" label="esquerraLH" />
+      <node id="Marc_es" label="Marc_es" />
+      <node id="JordiVeraGarcia" label="JordiVeraGarcia" />
+      <node id="SalvadorSedo" label="SalvadorSedo" />
+      <node id="PereCardus" label="PereCardus" />
+      <node id="rafagarridov" label="rafagarridov" />
+      <node id="lbassets" label="lbassets" />
+      <node id="joancarlesperis" label="joancarlesperis" />
+      <node id="AjuntamentSVH" label="AjuntamentSVH" />
+      <node id="YolandaArtigas1" label="YolandaArtigas1" />
+      <node id="rogertorrent" label="rogertorrent" />
+      <node id="joanfmira" label="joanfmira" />
+      <node id="dolorsbassac" label="dolorsbassac" />
+      <node id="acaradeperro" label="acaradeperro" />
+      <node id="Desayunos_tve" label="Desayunos_tve" />
+      <node id="afalguera" label="afalguera" />
+      <node id="jduch" label="jduch" />
+      <node id="ricard_checa" label="ricard_checa" />
+      <node id="mapallares" label="mapallares" />
+      <node id="dnicatala" label="dnicatala" />
+      <node id="marie_kapretz" label="marie_kapretz" />
+      <node id="jordigarcia" label="jordigarcia" />
+      <node id="RamonCreixell" label="RamonCreixell" />
+      <node id="llremola" label="llremola" />
+      <node id="mariadolorsa" label="mariadolorsa" />
+      <node id="matthewtree" label="matthewtree" />
+      <node id="bernatsalbanya" label="bernatsalbanya" />
+      <node id="lligalletres" label="lligalletres" />
+      <node id="jordicentelles" label="jordicentelles" />
+      <node id="bordegassos" label="bordegassos" />
+      <node id="QuimTorraiPla" label="QuimTorraiPla" />
+      <node id="julifernandez" label="julifernandez" />
+      <node id="toniclapes" label="toniclapes" />
+      <node id="Pauzurano" label="Pauzurano" />
+      <node id="auronplay" label="auronplay" />
+      <node id="venturamoriscot" label="venturamoriscot" />
+      <node id="balakius" label="balakius" />
+      <node id="eyndePenal" label="eyndePenal" />
+      <node id="xuriguera" label="xuriguera" />
+      <node id="heroneta" label="heroneta" />
+      <node id="JoventRepublica" label="JoventRepublica" />
+      <node id="ramontremosa" label="ramontremosa" />
+      <node id="albertmontagut" label="albertmontagut" />
+      <node id="marcbataller" label="marcbataller" />
+      <node id="masesa72" label="masesa72" />
+      <node id="delaTorre_V" label="delaTorre_V" />
+      <node id="QuimMonzo" label="QuimMonzo" />
+      <node id="saulgordillo" label="saulgordillo" />
+      <node id="Cortadelles" label="Cortadelles" />
+      <node id="IosudelaTorre" label="IosudelaTorre" />
+      <node id="jordiportabella" label="jordiportabella" />
+      <node id="lemondefr" label="lemondefr" />
+      <node id="YesScotland" label="YesScotland" />
+      <node id="bruno_oro" label="bruno_oro" />
+      <node id="ERC_INTL" label="ERC_INTL" />
+      <node id="fmarcalvaro" label="fmarcalvaro" />
+      <node id="llenguacat" label="llenguacat" />
+      <node id="MariaMerceRoca" label="MariaMerceRoca" />
+      <node id="JosepGinesta" label="JosepGinesta" />
+      <node id="esquerratortosa" label="esquerratortosa" />
+      <node id="tunisocatala" label="tunisocatala" />
+      <node id="seniarco" label="seniarco" />
+      <node id="joancroca" label="joancroca" />
+      <node id="JoelJoanJuve" label="JoelJoanJuve" />
+      <node id="jordi_bertran" label="jordi_bertran" />
+      <node id="lluispastor" label="lluispastor" />
+      <node id="FerranEspada" label="FerranEspada" />
+      <node id="airllimos" label="airllimos" />
+      <node id="justomolinero" label="justomolinero" />
+      <node id="Cuponeo" label="Cuponeo" />
+      <node id="jordicalvis" label="jordicalvis" />
+      <node id="VictorCervello" label="VictorCervello" />
+      <node id="ForcadellCarme" label="ForcadellCarme" />
+      <node id="teresavallverdu" label="teresavallverdu" />
+      <node id="enricxicoy" label="enricxicoy" />
+      <node id="DavidPrat" label="DavidPrat" />
+      <node id="EduardSuarez" label="EduardSuarez" />
+      <node id="angcastineira" label="angcastineira" />
+      <node id="oriolbausa" label="oriolbausa" />
+      <node id="MeritxellSerret" label="MeritxellSerret" />
+      <node id="esquerrapv" label="esquerrapv" />
+      <node id="mferres" label="mferres" />
+      <node id="marinageli" label="marinageli" />
+      <node id="EuropesHistory" label="EuropesHistory" />
+      <node id="fabricatele" label="fabricatele" />
+      <node id="yuribcn" label="yuribcn" />
+      <node id="davidpoblador" label="davidpoblador" />
+      <node id="GreensEP" label="GreensEP" />
+      <node id="meiusferres" label="meiusferres" />
+      <node id="conmemora" label="conmemora" />
+      <node id="Apujolmas" label="Apujolmas" />
+      <node id="JaumeFreixes" label="JaumeFreixes" />
+      <node id="roccasagran" label="roccasagran" />
+      <node id="jordiborras" label="jordiborras" />
+      <node id="cupnacional" label="cupnacional" />
+      <node id="SPIEGEL_Top" label="SPIEGEL_Top" />
+      <node id="lauramintegi" label="lauramintegi" />
+      <node id="isonapassola" label="isonapassola" />
+      <node id="Teleroma56" label="Teleroma56" />
+      <node id="datiu_etic" label="datiu_etic" />
+      <node id="enricsierra" label="enricsierra" />
+      <node id="q_vila" label="q_vila" />
+      <node id="Xicots" label="Xicots" />
+      <node id="AnnaAroca" label="AnnaAroca" />
+      <node id="ocellz" label="ocellz" />
+      <node id="AJEnglish" label="AJEnglish" />
+      <node id="JoseMontillaA" label="JoseMontillaA" />
+      <node id="esallent" label="esallent" />
+      <node id="KSMKilianSebria" label="KSMKilianSebria" />
+      <node id="CarlesCaballero" label="CarlesCaballero" />
+      <node id="pimec" label="pimec" />
+      <node id="gcalvetbarot" label="gcalvetbarot" />
+      <node id="FLSida" label="FLSida" />
+      <node id="xavierbosch" label="xavierbosch" />
+      <node id="lalectora" label="lalectora" />
+      <node id="europatweets" label="europatweets" />
+      <node id="cbuesa" label="cbuesa" />
+      <node id="ModernetdeMerda" label="ModernetdeMerda" />
+      <node id="albertbatalla" label="albertbatalla" />
+      <node id="albertsaezc" label="albertsaezc" />
+      <node id="TeresaForcadesF" label="TeresaForcadesF" />
+      <node id="lluis_llach" label="lluis_llach" />
+      <node id="jcasulleras" label="jcasulleras" />
+      <node id="_Maria_Dantas_" label="_Maria_Dantas_" />
+      <node id="vpartal" label="vpartal" />
+      <node id="jcoscu" label="jcoscu" />
+      <node id="MireiaMiquel" label="MireiaMiquel" />
+      <node id="nuriaparlon" label="nuriaparlon" />
+      <node id="pauihumor" label="pauihumor" />
+      <node id="OscarBardaji" label="OscarBardaji" />
+      <node id="miqueliceta" label="miqueliceta" />
+      <node id="MICKYAMBROA" label="MICKYAMBROA" />
+      <node id="lluislorenzo" label="lluislorenzo" />
+      <node id="RogerHeredia83" label="RogerHeredia83" />
+      <node id="oriol_bossa" label="oriol_bossa" />
+      <node id="AlbaBalcells" label="AlbaBalcells" />
+      <node id="RaholaOficial" label="RaholaOficial" />
+      <node id="medri" label="medri" />
+      <node id="kilianj" label="kilianj" />
+      <node id="f_lluisllach" label="f_lluisllach" />
+      <node id="Barclays" label="Barclays" />
+      <node id="RTeulet" label="RTeulet" />
+      <node id="oriolmollet" label="oriolmollet" />
+      <node id="Carmesd" label="Carmesd" />
+      <node id="AlTama81" label="AlTama81" />
+      <node id="Amazing_Maps" label="Amazing_Maps" />
+      <node id="txearana" label="txearana" />
+      <node id="Carles_Ribera" label="Carles_Ribera" />
+      <node id="jaumecollboni" label="jaumecollboni" />
+      <node id="jordiromaguera" label="jordiromaguera" />
+      <node id="PachecoJpacheco" label="PachecoJpacheco" />
+      <node id="Pep_Salas" label="Pep_Salas" />
+      <node id="xqum" label="xqum" />
+      <node id="AlvaroHerraiz" label="AlvaroHerraiz" />
+      <node id="JordiMedi" label="JordiMedi" />
+      <node id="ericvinaixa" label="ericvinaixa" />
+      <node id="maticatradio" label="maticatradio" />
+      <node id="324_politica" label="324_politica" />
+      <node id="vctrjmnz" label="vctrjmnz" />
+      <node id="ClemenPedret" label="ClemenPedret" />
+      <node id="bernatcostas" label="bernatcostas" />
+      <node id="XSerraima" label="XSerraima" />
+      <node id="carlescosta_" label="carlescosta_" />
+      <node id="mariaxinxo" label="mariaxinxo" />
+      <node id="JJSaezDomper" label="JJSaezDomper" />
+      <node id="AlJazeera" label="AlJazeera" />
+      <node id="UnaiSordo" label="UnaiSordo" />
+      <node id="AIRJAG" label="AIRJAG" />
+      <node id="Aracelisegarra" label="Aracelisegarra" />
+      <node id="rvilablareix" label="rvilablareix" />
+      <node id="MarquesAgnes" label="MarquesAgnes" />
+      <node id="LlSalvado" label="LlSalvado" />
+      <node id="banzy" label="banzy" />
+      <node id="ivanaranda" label="ivanaranda" />
+      <node id="CarlesMundo" label="CarlesMundo" />
+      <node id="CanRocaCeller" label="CanRocaCeller" />
+      <node id="laiabonetrull" label="laiabonetrull" />
+      <node id="JpDemocracia" label="JpDemocracia" />
+      <node id="AdaColau" label="AdaColau" />
+      <node id="jmtresserras" label="jmtresserras" />
+      <node id="jmsarri" label="jmsarri" />
+      <node id="ARApolitica" label="ARApolitica" />
+      <node id="TribunadeGirona" label="TribunadeGirona" />
+      <node id="totsxtots" label="totsxtots" />
+      <node id="soniapereda" label="soniapereda" />
+      <node id="oraclecatradio" label="oraclecatradio" />
+      <node id="queconovell" label="queconovell" />
+      <node id="xavialtadill" label="xavialtadill" />
+      <node id="monicaoltra" label="monicaoltra" />
+      <node id="stopmaremortum" label="stopmaremortum" />
+      <node id="socjordiduran" label="socjordiduran" />
+      <node id="FinancialTimes" label="FinancialTimes" />
+      <node id="josepix" label="josepix" />
+      <node id="TIME" label="TIME" />
+      <node id="mvilarnau" label="mvilarnau" />
+      <node id="dcruzf" label="dcruzf" />
+      <node id="florejachs" label="florejachs" />
+      <node id="anasurra" label="anasurra" />
+      <node id="Fenix11_23" label="Fenix11_23" />
+      <node id="carlescampuzano" label="carlescampuzano" />
+      <node id="AOtero" label="AOtero" />
+      <node id="assemblea" label="assemblea" />
+      <node id="Dallonses" label="Dallonses" />
+      <node id="Toni_Cruanyes" label="Toni_Cruanyes" />
+      <node id="MrCove" label="MrCove" />
+      <node id="albertcaste" label="albertcaste" />
+      <node id="SVHxIND" label="SVHxIND" />
+      <node id="diariandreuenc" label="diariandreuenc" />
+      <node id="emergenciescat" label="emergenciescat" />
+      <node id="spector34" label="spector34" />
+      <node id="rafahomet" label="rafahomet" />
+      <node id="elpuntavui" label="elpuntavui" />
+      <node id="lluisju" label="lluisju" />
+      <node id="madeinfarreni" label="madeinfarreni" />
+      <node id="MariusCarol" label="MariusCarol" />
+      <node id="pboschcuenca" label="pboschcuenca" />
+      <node id="vsalaf" label="vsalaf" />
+      <node id="NovullpagaraEsp" label="NovullpagaraEsp" />
+      <node id="escolarocioSVH" label="escolarocioSVH" />
+      <node id="carmecolomina" label="carmecolomina" />
+      <node id="francescribera" label="francescribera" />
+      <node id="PatronalCecot" label="PatronalCecot" />
+      <node id="MargaretFerrier" label="MargaretFerrier" />
+      <node id="fjirla" label="fjirla" />
+      <node id="Laiaortiz" label="Laiaortiz" />
+      <node id="SintesOlivella" label="SintesOlivella" />
+      <node id="davidmillan" label="davidmillan" />
+      <node id="alfonsnic" label="alfonsnic" />
+      <node id="olloren" label="olloren" />
+      <node id="quimnadal" label="quimnadal" />
+      <node id="xavicoral" label="xavicoral" />
+      <node id="FCBbasket" label="FCBbasket" />
+      <node id="LauraBorras" label="LauraBorras" />
+      <node id="oriol2929" label="oriol2929" />
+      <node id="rociomsampere" label="rociomsampere" />
+      <node id="bfarriol" label="bfarriol" />
+      <node id="cicrblanquerna" label="cicrblanquerna" />
+      <node id="davidmarti" label="davidmarti" />
+      <node id="Joanridao" label="Joanridao" />
+      <node id="espevalls" label="espevalls" />
+      <node id="bcndecideix" label="bcndecideix" />
+      <node id="lluisrecoder" label="lluisrecoder" />
+      <node id="MaryLouMcDonald" label="MaryLouMcDonald" />
+      <node id="jcuixart" label="jcuixart" />
+      <node id="perezlozano" label="perezlozano" />
+      <node id="marccrosas" label="marccrosas" />
+      <node id="gamisans" label="gamisans" />
+      <node id="TheEULobby" label="TheEULobby" />
+      <node id="LeoAnselmi" label="LeoAnselmi" />
+      <node id="TxeluiM" label="TxeluiM" />
+      <node id="ICFOnians" label="ICFOnians" />
+      <node id="xavicma" label="xavicma" />
+      <node id="Fotlipou" label="Fotlipou" />
+      <node id="XAVI_ALCALDE" label="XAVI_ALCALDE" />
+      <node id="FreeRovira" label="FreeRovira" />
+      <node id="Khalilbcn" label="Khalilbcn" />
+      <node id="soler_toni" label="soler_toni" />
+      <node id="MiquelEstruch" label="MiquelEstruch" />
+      <node id="bernacho" label="bernacho" />
+      <node id="RivaPaterson" label="RivaPaterson" />
+      <node id="Kikedeloscaste1" label="Kikedeloscaste1" />
+      <node id="meteocat" label="meteocat" />
+      <node id="maorgo32" label="maorgo32" />
+      <node id="JaumeBarbera" label="JaumeBarbera" />
+      <node id="jmterricabras" label="jmterricabras" />
+      <node id="JovesValls" label="JovesValls" />
+      <node id="carallots" label="carallots" />
+      <node id="rosalizandra" label="rosalizandra" />
+      <node id="eloi_pv" label="eloi_pv" />
+      <node id="ammiarmin" label="ammiarmin" />
+      <node id="samuelf" label="samuelf" />
+      <node id="revistamongolia" label="revistamongolia" />
+      <node id="JordiGraupera" label="JordiGraupera" />
+      <node id="CatalaCorrecte" label="CatalaCorrecte" />
+      <node id="narcissastre" label="narcissastre" />
+      <node id="AlbanoDante76" label="AlbanoDante76" />
+      <node id="CridaDemocracia" label="CridaDemocracia" />
+      <node id="CastellaToni" label="CastellaToni" />
+      <node id="franc_comino" label="franc_comino" />
+      <node id="JordiMayoral" label="JordiMayoral" />
+      <node id="CarlesGPY" label="CarlesGPY" />
+      <node id="CarlesTT" label="CarlesTT" />
+      <node id="elpuntaldia" label="elpuntaldia" />
+      <node id="martigironell" label="martigironell" />
+      <node id="ujgirona" label="ujgirona" />
+      <node id="undaqui" label="undaqui" />
+      <node id="m_doncel" label="m_doncel" />
+      <node id="AntoniGutierrez" label="AntoniGutierrez" />
+      <node id="inogues" label="inogues" />
+      <node id="icvviladecans" label="icvviladecans" />
+      <node id="DaniMateoAgain" label="DaniMateoAgain" />
+      <node id="AgustiMasana" label="AgustiMasana" />
+      <node id="abertzale" label="abertzale" />
+      <node id="montserrat_sm" label="montserrat_sm" />
+      <node id="Pacoescribano" label="Pacoescribano" />
+      <node id="ernestmaragall" label="ernestmaragall" />
+      <node id="kikemollet" label="kikemollet" />
+      <node id="batiscafu" label="batiscafu" />
+      <node id="EnSerrallonga" label="EnSerrallonga" />
+      <node id="ManuelCuyas" label="ManuelCuyas" />
+      <node id="salvadorcot" label="salvadorcot" />
+      <node id="hospitalclinic" label="hospitalclinic" />
+      <node id="pere_pou" label="pere_pou" />
+      <node id="oleguerserra" label="oleguerserra" />
+      <node id="igpagan" label="igpagan" />
+      <node id="gallifantes" label="gallifantes" />
+      <node id="NicolaSturgeon" label="NicolaSturgeon" />
+      <node id="PereCullell" label="PereCullell" />
+      <node id="xbundo" label="xbundo" />
+      <node id="xaviolivella" label="xaviolivella" />
+      <node id="PZilgalvis" label="PZilgalvis" />
+      <node id="JoanCuevas" label="JoanCuevas" />
+      <node id="antonimoga" label="antonimoga" />
+      <node id="patriciaplaja" label="patriciaplaja" />
+      <node id="LaVanguardia" label="LaVanguardia" />
+      <node id="PrimaRiesgoBot" label="PrimaRiesgoBot" />
+      <node id="sergidelosrios" label="sergidelosrios" />
+      <node id="CharlesMichel" label="CharlesMichel" />
+      <node id="hooligags" label="hooligags" />
+      <node id="sergipicazo" label="sergipicazo" />
+      <node id="VineCreators" label="VineCreators" />
+      <node id="jdiazmallo" label="jdiazmallo" />
+      <node id="MontseVendrell" label="MontseVendrell" />
+      <node id="barahonaraul" label="barahonaraul" />
+      <node id="GerardFernndez1" label="GerardFernndez1" />
+      <node id="jmllg" label="jmllg" />
+      <node id="loveoflesbian" label="loveoflesbian" />
+      <node id="CxEP2014" label="CxEP2014" />
+      <node id="anasabartes" label="anasabartes" />
+      <node id="think09" label="think09" />
+      <node id="hootsuite" label="hootsuite" />
+      <node id="UNICEF" label="UNICEF" />
+      <node id="salvadoralsius" label="salvadoralsius" />
+      <node id="martiteres" label="martiteres" />
+      <node id="xevimontoya" label="xevimontoya" />
+      <node id="presscambrabcn" label="presscambrabcn" />
+      <node id="immabramona" label="immabramona" />
+      <node id="mercajordi" label="mercajordi" />
+      <node id="marinallansana" label="marinallansana" />
+      <node id="vergonyaN2" label="vergonyaN2" />
+      <node id="albertsagues" label="albertsagues" />
+      <node id="jorllompart" label="jorllompart" />
+      <node id="xantallavina" label="xantallavina" />
+      <node id="AngusRobertson" label="AngusRobertson" />
+      <node id="robertferrando" label="robertferrando" />
+      <node id="davidplanella" label="davidplanella" />
+      <node id="naciodigital" label="naciodigital" />
+      <node id="marta_mestre" label="marta_mestre" />
+      <node id="oriolblanc" label="oriolblanc" />
+      <node id="oriolilla" label="oriolilla" />
+      <node id="CharlesMDang" label="CharlesMDang" />
+      <node id="AssangeDefence" label="AssangeDefence" />
+      <node id="joanparratena" label="joanparratena" />
+      <node id="taptotrack" label="taptotrack" />
+      <node id="NuriaPicas" label="NuriaPicas" />
+      <node id="Jorbet2" label="Jorbet2" />
+      <node id="pepem50" label="pepem50" />
+      <node id="somlaFabrica" label="somlaFabrica" />
+      <node id="ricardgoma" label="ricardgoma" />
+      <node id="GPFLUX" label="GPFLUX" />
+      <node id="nataliamasguix" label="nataliamasguix" />
+      <node id="guillemclapes" label="guillemclapes" />
+      <node id="faixedas" label="faixedas" />
+      <node id="neusmunte" label="neusmunte" />
+      <node id="RogerMasOficial" label="RogerMasOficial" />
+      <node id="ThIsCatalonia" label="ThIsCatalonia" />
+      <node id="elmarkusss180" label="elmarkusss180" />
+      <node id="GabrielFerDiaz" label="GabrielFerDiaz" />
+      <node id="pgoma" label="pgoma" />
+      <node id="ivanmedinaIM" label="ivanmedinaIM" />
+      <node id="bacupflaixbac" label="bacupflaixbac" />
+      <node id="parlamentcat" label="parlamentcat" />
+      <node id="jaumecabre47" label="jaumecabre47" />
+      <node id="cesciglesies" label="cesciglesies" />
+      <node id="bcnxjunqueras" label="bcnxjunqueras" />
+      <node id="jordimunozm" label="jordimunozm" />
+      <node id="ManuelMilian" label="ManuelMilian" />
+      <node id="didacgp" label="didacgp" />
+      <node id="iaia_toneta" label="iaia_toneta" />
+      <node id="_FLAIRE" label="_FLAIRE" />
+      <node id="JuntsxSVH" label="JuntsxSVH" />
+      <node id="FeriaDeAbrilCat" label="FeriaDeAbrilCat" />
+      <node id="turquieLEXPRESS" label="turquieLEXPRESS" />
+      <node id="icv_prat" label="icv_prat" />
+      <node id="ntouzon" label="ntouzon" />
+      <node id="salvagarcia" label="salvagarcia" />
+      <node id="JunquerasRovira" label="JunquerasRovira" />
+      <node id="aidamboix" label="aidamboix" />
+      <node id="MWCapital" label="MWCapital" />
+      <node id="rmnahar" label="rmnahar" />
+      <node id="RamblaBTV" label="RamblaBTV" />
+      <node id="EPCatalunya" label="EPCatalunya" />
+      <node id="raulromeva" label="raulromeva" />
+      <node id="EoinRyanDublin" label="EoinRyanDublin" />
+      <node id="Strisce" label="Strisce" />
+      <node id="jordisanchezp" label="jordisanchezp" />
+      <node id="arnau_sanz" label="arnau_sanz" />
+      <node id="rcassany" label="rcassany" />
+      <node id="DolorsValls" label="DolorsValls" />
+      <node id="antonireig" label="antonireig" />
+      <node id="jm_clavero" label="jm_clavero" />
+      <node id="SerraJaume" label="SerraJaume" />
+      <node id="afuguet" label="afuguet" />
+      <node id="elsuplement" label="elsuplement" />
+      <node id="JanneRiitakorpi" label="JanneRiitakorpi" />
+      <node id="iescolar" label="iescolar" />
+      <node id="SomEnergia" label="SomEnergia" />
+      <node id="susmartis" label="susmartis" />
+      <node id="wagensberg" label="wagensberg" />
+      <node id="SergiSoliBros" label="SergiSoliBros" />
+      <node id="mdolors" label="mdolors" />
+      <node id="josepm_medina" label="josepm_medina" />
+      <node id="oriolsagrera" label="oriolsagrera" />
+      <node id="EliBorreda" label="EliBorreda" />
+      <node id="AnnaFiguera" label="AnnaFiguera" />
+      <node id="herrerajoan" label="herrerajoan" />
+      <node id="helenaRac1" label="helenaRac1" />
+      <node id="elpatidescobert" label="elpatidescobert" />
+      <node id="NewsNeus" label="NewsNeus" />
+      <node id="aguileramaite" label="aguileramaite" />
+      <node id="martavilaltat" label="martavilaltat" />
+      <node id="adamdeosdad" label="adamdeosdad" />
+      <node id="elconvidatTV3" label="elconvidatTV3" />
+      <node id="JordiBianciotto" label="JordiBianciotto" />
+      <node id="SoniaDomenech1" label="SoniaDomenech1" />
+      <node id="mireiapellicer" label="mireiapellicer" />
+      <node id="DcaValle" label="DcaValle" />
+      <node id="sergipino" label="sergipino" />
+      <node id="MacacoMusic" label="MacacoMusic" />
+      <node id="ferranet2" label="ferranet2" />
+      <node id="francescabad" label="francescabad" />
+      <node id="LaNitA8tv" label="LaNitA8tv" />
+      <node id="Fantassin" label="Fantassin" />
+      <node id="oriolamat" label="oriolamat" />
+      <node id="marcpuigperez" label="marcpuigperez" />
+      <node id="susanaenrich" label="susanaenrich" />
+      <node id="AnnaSantG" label="AnnaSantG" />
+      <node id="ernestcodina" label="ernestcodina" />
+      <node id="jofrellombart" label="jofrellombart" />
+      <node id="BassaMontse" label="BassaMontse" />
+      <node id="ferransoriano" label="ferransoriano" />
+      <node id="alexmiquel" label="alexmiquel" />
+      <node id="mossos" label="mossos" />
+      <node id="LleirDaban" label="LleirDaban" />
+      <node id="Autenticscat" label="Autenticscat" />
+      <node id="lluisbou" label="lluisbou" />
+      <node id="SimonManleyFCO" label="SimonManleyFCO" />
+      <node id="ccoocatalunya" label="ccoocatalunya" />
+      <node id="MarcCandela" label="MarcCandela" />
+      <node id="serracasals" label="serracasals" />
+      <node id="TaxistesIndepes" label="TaxistesIndepes" />
+      <node id="carlesmartinezq" label="carlesmartinezq" />
+      <node id="fdomiri" label="fdomiri" />
+      <node id="riki_kampru" label="riki_kampru" />
+      <node id="llfoix" label="llfoix" />
+      <node id="iuforn" label="iuforn" />
+      <node id="HistoriaEnFotos" label="HistoriaEnFotos" />
+      <node id="josericov" label="josericov" />
+      <node id="gemmaclarisso" label="gemmaclarisso" />
+      <node id="finaroig" label="finaroig" />
+      <node id="adriabofill" label="adriabofill" />
+      <node id="Enric_Hernandez" label="Enric_Hernandez" />
+      <node id="BarackObama" label="BarackObama" />
+      <node id="fperezlara" label="fperezlara" />
+      <node id="jordibaste" label="jordibaste" />
+      <node id="BartomeuA" label="BartomeuA" />
+      <node id="aramateix" label="aramateix" />
+      <node id="arnaucasadevall" label="arnaucasadevall" />
+      <node id="lombarte84" label="lombarte84" />
+      <node id="MireiaMarti" label="MireiaMarti" />
+      <node id="KMSxlaLLIBERTAT" label="KMSxlaLLIBERTAT" />
+      <node id="_Sara_Gonzalez_" label="_Sara_Gonzalez_" />
+      <node id="MrOlivet" label="MrOlivet" />
+      <node id="Carlos_Latre" label="Carlos_Latre" />
+      <node id="setzejutges" label="setzejutges" />
+      <node id="radioteletaxi" label="radioteletaxi" />
+      <node id="sumate_asoc" label="sumate_asoc" />
+      <node id="blligadas" label="blligadas" />
+      <node id="emergenciesSVH" label="emergenciesSVH" />
+      <node id="Taula3sector" label="Taula3sector" />
+      <node id="cbassaganya" label="cbassaganya" />
+      <node id="miestrado" label="miestrado" />
+      <node id="xaviertrias" label="xaviertrias" />
+      <node id="xarnegosperlain" label="xarnegosperlain" />
+      <node id="Miquel_Pueyo" label="Miquel_Pueyo" />
+      <node id="paupresas" label="paupresas" />
+      <node id="davidPdM2015" label="davidPdM2015" />
+      <node id="nytimes" label="nytimes" />
+      <node id="tbigorra" label="tbigorra" />
+      <node id="somhicat" label="somhicat" />
+      <node id="fernandezdeu" label="fernandezdeu" />
+      <node id="NOSTRESINYO" label="NOSTRESINYO" />
+      <node id="quimforn" label="quimforn" />
+      <node id="rapitenc1" label="rapitenc1" />
+      <node id="AlexSalmond" label="AlexSalmond" />
+      <node id="julidejdarmuoz" label="julidejdarmuoz" />
+      <node id="djkram" label="djkram" />
+      <node id="OriolAmoros" label="OriolAmoros" />
+      <node id="CarlesCuerva" label="CarlesCuerva" />
+      <node id="theSNP" label="theSNP" />
+      <node id="lluisgavalda" label="lluisgavalda" />
+      <node id="Mati4Bandes_Rne" label="Mati4Bandes_Rne" />
+      <node id="ainaclotet" label="ainaclotet" />
+      <node id="InesArrimadas" label="InesArrimadas" />
+      <node id="TVAnimalista" label="TVAnimalista" />
+      <node id="albert_om11" label="albert_om11" />
+      <node id="raulpresseguer" label="raulpresseguer" />
+      <node id="QuimMasferrer" label="QuimMasferrer" />
+      <node id="Pablo_Iglesias_" label="Pablo_Iglesias_" />
+      <node id="tonaymemi" label="tonaymemi" />
+      <node id="laura_rc" label="laura_rc" />
+      <node id="lobbyLEXPRESS" label="lobbyLEXPRESS" />
+      <node id="silviofalcon" label="silviofalcon" />
+      <node id="polgoide" label="polgoide" />
+      <node id="edugonzalez_" label="edugonzalez_" />
+      <node id="estopaoficial" label="estopaoficial" />
+      <node id="JordiLon" label="JordiLon" />
+      <node id="EugeniaParejo" label="EugeniaParejo" />
+      <node id="villacampa8" label="villacampa8" />
+      <node id="tv3cat" label="tv3cat" />
+      <node id="CarodRoviraJLl" label="CarodRoviraJLl" />
+      <node id="abarnadas" label="abarnadas" />
+      <node id="AlbertVico" label="AlbertVico" />
+      <node id="FHenriques" label="FHenriques" />
+      <node id="mireiamsolsona" label="mireiamsolsona" />
+      <node id="anamirandapaz" label="anamirandapaz" />
+      <node id="JaviSilvaP" label="JaviSilvaP" />
+      <node id="carlesgaldon" label="carlesgaldon" />
+      <node id="PabloZalba" label="PabloZalba" />
+      <node id="mariusserra" label="mariusserra" />
+      <node id="monicamorros" label="monicamorros" />
+      <node id="astridalemany" label="astridalemany" />
+      <node id="lavallri" label="lavallri" />
+      <node id="GabiMartnez" label="GabiMartnez" />
+      <node id="wattia_innova" label="wattia_innova" />
+      <node id="andreufrancisco" label="andreufrancisco" />
+      <node id="AlexGutierrezM" label="AlexGutierrezM" />
+      <node id="ercsvh" label="ercsvh" />
+      <node id="helenamoline" label="helenamoline" />
+      <node id="EmpleoUGTMadrid" label="EmpleoUGTMadrid" />
+      <node id="ugtcatalunya" label="ugtcatalunya" />
+      <node id="Ignasiara" label="Ignasiara" />
+      <node id="jordinamtnz" label="jordinamtnz" />
+      <node id="joan90plana" label="joan90plana" />
+      <node id="MarcaCiutat" label="MarcaCiutat" />
+      <node id="CreusJordi" label="CreusJordi" />
+      <node id="lolamsala" label="lolamsala" />
+      <node id="maneresdeviure" label="maneresdeviure" />
+      <node id="TwitterVideo" label="TwitterVideo" />
+      <node id="jmsardo" label="jmsardo" />
+      <node id="jmperdigo" label="jmperdigo" />
+      <node id="raulmiguelezcan" label="raulmiguelezcan" />
+      <node id="AidaGascon" label="AidaGascon" />
+      <node id="junquibus" label="junquibus" />
+      <node id="iec" label="iec" />
+      <node id="erichpunti" label="erichpunti" />
+      <node id="AGE_Comunicacio" label="AGE_Comunicacio" />
+      <node id="corriereny" label="corriereny" />
+      <node id="ramon_sole" label="ramon_sole" />
+      <node id="lolagarciagar" label="lolagarciagar" />
+      <node id="Edward_hugh" label="Edward_hugh" />
+      <node id="polmor96" label="polmor96" />
+      <node id="TeresaJorda" label="TeresaJorda" />
+      <node id="jsando70" label="jsando70" />
+      <node id="disseny_web" label="disseny_web" />
+      <node id="Gironanoticies" label="Gironanoticies" />
+      <node id="jaume__mas" label="jaume__mas" />
+      <node id="bisbeTaltavull" label="bisbeTaltavull" />
+      <node id="CatalanData" label="CatalanData" />
+      <node id="Dia_Como_Hoy" label="Dia_Como_Hoy" />
+      <node id="JoanRCP" label="JoanRCP" />
+      <node id="eligirona" label="eligirona" />
+      <node id="marphille" label="marphille" />
+      <node id="nuriaclotet" label="nuriaclotet" />
+      <node id="joanmiretm" label="joanmiretm" />
+      <node id="JoanLaportaFCB" label="JoanLaportaFCB" />
+      <node id="paulajarrin" label="paulajarrin" />
+      <node id="CCatalaNegocis" label="CCatalaNegocis" />
+      <node id="ElisendaPerez" label="ElisendaPerez" />
+      <node id="RamonCarner" label="RamonCarner" />
+      <node id="amazingmap" label="amazingmap" />
+      <node id="Palomas_Alejand" label="Palomas_Alejand" />
+      <node id="ramon_pellicer" label="ramon_pellicer" />
+      <node id="gerardquintana" label="gerardquintana" />
+      <node id="joanaortega" label="joanaortega" />
+      <node id="fabianmohedano" label="fabianmohedano" />
+      <node id="trodriguezpujol" label="trodriguezpujol" />
+      <node id="edans" label="edans" />
+      <node id="joanfoguet" label="joanfoguet" />
+      <node id="mariallado" label="mariallado" />
+      <node id="raquelmateos" label="raquelmateos" />
+      <node id="JosepGraupera" label="JosepGraupera" />
+      <node id="joanguirado" label="joanguirado" />
+      <node id="salvatoredvita" label="salvatoredvita" />
+      <node id="OriolPanades" label="OriolPanades" />
+      <node id="rosaliavt" label="rosaliavt" />
+      <node id="EU_Commission" label="EU_Commission" />
+      <node id="omnium" label="omnium" />
+      <node id="joanm63" label="joanm63" />
+      <node id="AnnaMuroR" label="AnnaMuroR" />
+      <node id="Sergimas" label="Sergimas" />
+      <node id="TheEuros" label="TheEuros" />
+      <node id="AlvarLlobet" label="AlvarLlobet" />
+      <node id="aribassols" label="aribassols" />
+      <node id="elspetsoficial" label="elspetsoficial" />
+      <node id="socialistes_cat" label="socialistes_cat" />
+      <node id="cnnbrk" label="cnnbrk" />
+      <node id="MaiteAymerich" label="MaiteAymerich" />
+      <node id="RaquelSansDuran" label="RaquelSansDuran" />
+      <node id="OriMarch" label="OriMarch" />
+      <node id="jorgebenaiges" label="jorgebenaiges" />
+      <node id="MonicaSabata" label="MonicaSabata" />
+      <node id="acampadajove" label="acampadajove" />
+      <node id="murielcasals" label="murielcasals" />
+      <node id="davidheras" label="davidheras" />
+      <node id="MiquelMacia" label="MiquelMacia" />
+      <node id="JFabregaColomer" label="JFabregaColomer" />
+      <node id="MainatJM" label="MainatJM" />
+      <node id="esAdir" label="esAdir" />
+      <node id="JB_ComManager" label="JB_ComManager" />
+      <node id="eurovote" label="eurovote" />
+      <node id="montse__garcia" label="montse__garcia" />
+      <node id="lluisbrunet" label="lluisbrunet" />
+      <node id="eBermejo" label="eBermejo" />
+      <node id="rogermelcior" label="rogermelcior" />
+      <node id="cescpoch" label="cescpoch" />
+      <node id="SitaSP" label="SitaSP" />
+      <node id="SalvaMolina_COM" label="SalvaMolina_COM" />
+      <node id="twanoniem_bot" label="twanoniem_bot" />
+      <node id="carlasignorile" label="carlasignorile" />
+      <node id="gebelque" label="gebelque" />
+      <node id="JunckerEU" label="JunckerEU" />
+      <node id="toni_comin" label="toni_comin" />
+      <node id="guardian" label="guardian" />
+      <node id="jordimolinera" label="jordimolinera" />
+      <node id="RogerPala" label="RogerPala" />
+      <node id="ChakirelHomrani" label="ChakirelHomrani" />
+      <node id="CamiBonsHomes" label="CamiBonsHomes" />
+      <node id="angelsmcastells" label="angelsmcastells" />
+      <node id="mercellopis" label="mercellopis" />
+      <node id="ERCbcn" label="ERCbcn" />
+      <node id="francesccanosa" label="francesccanosa" />
+      <node id="ERC_economia" label="ERC_economia" />
+      <node id="naxei" label="naxei" />
+      <node id="elsmatins" label="elsmatins" />
+      <node id="alvaromillan" label="alvaromillan" />
+      <node id="JordiEroles" label="JordiEroles" />
+      <node id="isaacalbert" label="isaacalbert" />
+      <node id="ambfilosofia" label="ambfilosofia" />
+      <node id="csolaniubo" label="csolaniubo" />
+      <node id="Renovat" label="Renovat" />
+      <node id="IndEnCastellano" label="IndEnCastellano" />
+      <node id="JordiBartomeus" label="JordiBartomeus" />
+      <node id="PacoRodriguez66" label="PacoRodriguez66" />
+      <node id="PujolJaume" label="PujolJaume" />
+      <node id="soniola" label="soniola" />
+      <node id="julia_otero" label="julia_otero" />
+      <node id="CorbachoLH" label="CorbachoLH" />
+      <node id="MontserratOlive" label="MontserratOlive" />
+      <node id="JoanTarda" label="JoanTarda" />
+      <node id="FrancescCano" label="FrancescCano" />
+      <node id="BerraondoXavi" label="BerraondoXavi" />
+      <node id="popArb" label="popArb" />
+      <node id="clara_segura" label="clara_segura" />
+      <node id="GrupManel" label="GrupManel" />
+      <node id="Txellricart" label="Txellricart" />
+      <node id="eloybcn74" label="eloybcn74" />
+      <node id="pacomarhuenda" label="pacomarhuenda" />
+      <node id="msanglas" label="msanglas" />
+      <node id="NousIndependent" label="NousIndependent" />
+      <node id="MoritzBarcelona" label="MoritzBarcelona" />
+      <node id="Davizgonrub" label="Davizgonrub" />
+      <node id="sergimarcen" label="sergimarcen" />
+      <node id="fricandomatiner" label="fricandomatiner" />
+      <node id="joanignasielena" label="joanignasielena" />
+      <node id="fonamental" label="fonamental" />
+      <node id="oscarperis" label="oscarperis" />
+      <node id="danigimenu" label="danigimenu" />
+      <node id="rbarres" label="rbarres" />
+      <node id="cferrerp" label="cferrerp" />
+      <node id="ClipsterBCN" label="ClipsterBCN" />
+      <node id="lamarta" label="lamarta" />
+      <node id="alexsalmonbcn" label="alexsalmonbcn" />
+      <node id="ariserrallonga" label="ariserrallonga" />
+      <node id="fleishmanEU" label="fleishmanEU" />
+      <node id="asier_gomez" label="asier_gomez" />
+      <node id="paulkrugman" label="paulkrugman" />
+      <node id="AnimaNaturalis" label="AnimaNaturalis" />
+      <node id="lluissoler" label="lluissoler" />
+      <node id="didacperez" label="didacperez" />
+      <node id="marcmenchen" label="marcmenchen" />
+      <node id="albertitu" label="albertitu" />
+      <node id="narcispresas" label="narcispresas" />
+      <node id="NuriaVentura" label="NuriaVentura" />
+      <node id="EnricJuliana" label="EnricJuliana" />
+      <node id="pere_navarro" label="pere_navarro" />
+      <node id="caroltelechea" label="caroltelechea" />
+      <node id="joanqs" label="joanqs" />
+      <node id="CalpenaEnric" label="CalpenaEnric" />
+      <node id="Mingogg" label="Mingogg" />
+      <node id="concurscastells" label="concurscastells" />
+      <node id="SalvadorMestre" label="SalvadorMestre" />
+      <node id="GemmaUrgell" label="GemmaUrgell" />
+      <node id="Xavier_Pujol" label="Xavier_Pujol" />
+      <node id="TianRiba" label="TianRiba" />
+      <node id="dolorscamats" label="dolorscamats" />
+      <node id="elDebat_La1" label="elDebat_La1" />
+      <node id="pensadlo" label="pensadlo" />
+      <node id="economistescat" label="economistescat" />
+      <node id="jesusferre" label="jesusferre" />
+      <node id="PetrolisIndep" label="PetrolisIndep" />
+      <node id="pvallesc" label="pvallesc" />
+      <node id="ABalletbo" label="ABalletbo" />
+      <node id="Quel_Esteve" label="Quel_Esteve" />
+      <node id="aviodepaper1" label="aviodepaper1" />
+      <node id="Jordidelrio" label="Jordidelrio" />
+      <node id="SantiBalmesSoy" label="SantiBalmesSoy" />
+      <node id="27etmoi" label="27etmoi" />
+      <node id="Pontifex" label="Pontifex" />
+      <node id="tongercore" label="tongercore" />
+      <node id="ehbildu" label="ehbildu" />
+      <node id="lizcastro" label="lizcastro" />
+      <node id="gothalo" label="gothalo" />
+      <node id="jordibarbeta" label="jordibarbeta" />
+      <node id="gabrielrufian" label="gabrielrufian" />
+      <node id="Fleck75" label="Fleck75" />
+      <node id="mimacost" label="mimacost" />
+      <node id="Orgalime" label="Orgalime" />
+      <node id="elprogramadear" label="elprogramadear" />
+      <node id="antonibassas" label="antonibassas" />
+      <node id="Cesk86" label="Cesk86" />
+      <node id="montseolivav" label="montseolivav" />
+      <node id="albaverges" label="albaverges" />
+      <node id="npini" label="npini" />
+      <node id="albertdones" label="albertdones" />
+      <node id="l_hemicicle" label="l_hemicicle" />
+      <node id="BillGates" label="BillGates" />
+      <node id="betvallcorba" label="betvallcorba" />
+      <node id="xaviroger" label="xaviroger" />
+      <node id="ERC_la_Roca" label="ERC_la_Roca" />
+      <node id="miquelmiralles" label="miquelmiralles" />
+      <node id="peresabat" label="peresabat" />
+      <node id="laurapelay" label="laurapelay" />
+      <node id="miPujol" label="miPujol" />
+      <node id="ERC_CanetdeMar" label="ERC_CanetdeMar" />
+      <node id="davidberga" label="davidberga" />
+      <node id="Act_on_Acta" label="Act_on_Acta" />
+      <node id="silvia_alri" label="silvia_alri" />
+      <node id="NanduJubany" label="NanduJubany" />
+      <node id="elopezdomenech" label="elopezdomenech" />
+      <node id="elperiodico_cat" label="elperiodico_cat" />
+      <node id="congres_tic" label="congres_tic" />
+      <node id="pereculell" label="pereculell" />
+      <node id="arnaumatadc" label="arnaumatadc" />
+      <node id="CTecno" label="CTecno" />
+      <node id="isaacperaire" label="isaacperaire" />
+      <node id="PauVilassar" label="PauVilassar" />
+      <node id="SSantiagosegura" label="SSantiagosegura" />
+      <node id="CatalunyaRadio" label="CatalunyaRadio" />
+      <node id="sanchezcastejon" label="sanchezcastejon" />
+      <node id="OscarAndreu" label="OscarAndreu" />
+      <node id="EA3RKR" label="EA3RKR" />
+      <node id="philmusical" label="philmusical" />
+      <node id="ramontm" label="ramontm" />
+      <node id="Verushkamixina" label="Verushkamixina" />
+      <node id="RocioCarmonaF" label="RocioCarmonaF" />
+      <node id="bomberscat" label="bomberscat" />
+      <node id="pzf" label="pzf" />
+      <node id="xavipat" label="xavipat" />
+      <node id="Ricardmartinezm" label="Ricardmartinezm" />
+      <node id="rogersv" label="rogersv" />
+      <node id="bernatpicornell" label="bernatpicornell" />
+      <node id="verified" label="verified" />
+      <node id="jlcleries" label="jlcleries" />
+      <node id="1714tv" label="1714tv" />
+      <node id="bpedeval" label="bpedeval" />
+      <node id="jordicabre" label="jordicabre" />
+      <node id="ariadnaoltra" label="ariadnaoltra" />
+      <node id="maldekstra" label="maldekstra" />
+      <node id="Rogerbuch" label="Rogerbuch" />
+      <node id="jpuigcorbe" label="jpuigcorbe" />
+      <node id="dani_pernas" label="dani_pernas" />
+      <node id="perearagones" label="perearagones" />
+      <node id="AlexFenoll" label="AlexFenoll" />
+      <node id="agenciaacn" label="agenciaacn" />
+      <node id="albertjunca" label="albertjunca" />
+      <node id="grecfestivalbcn" label="grecfestivalbcn" />
+      <node id="janquim" label="janquim" />
+      <node id="avilagrann" label="avilagrann" />
+      <node id="NewEconomyForum" label="NewEconomyForum" />
+      <node id="ignasitort" label="ignasitort" />
+      <node id="enoticiescat" label="enoticiescat" />
+      <node id="enderrock" label="enderrock" />
+      <node id="AlfredBosch" label="AlfredBosch" />
+      <node id="Odtor" label="Odtor" />
+      <node id="CescOliva" label="CescOliva" />
+      <node id="jrosell" label="jrosell" />
+      <node id="lancel_cat" label="lancel_cat" />
+      <node id="Rogergrimau" label="Rogergrimau" />
+      <node id="jorqueracaselas" label="jorqueracaselas" />
+      <node id="SergiTarres" label="SergiTarres" />
+      <node id="davidcompanyon" label="davidcompanyon" />
+      <node id="capsigranya" label="capsigranya" />
+      <node id="MiquelAD" label="MiquelAD" />
+      <node id="ACDretsCivils" label="ACDretsCivils" />
+      <node id="monri02" label="monri02" />
+      <node id="MD_Navarro" label="MD_Navarro" />
+      <node id="gallaguer" label="gallaguer" />
+      <node id="xevigenero" label="xevigenero" />
+      <node id="specvlvm" label="specvlvm" />
+      <node id="montserratcarul" label="montserratcarul" />
+      <node id="salvadorcardus" label="salvadorcardus" />
+      <node id="c_oriach" label="c_oriach" />
+      <node id="ictlogist" label="ictlogist" />
+      <node id="jordicrisol" label="jordicrisol" />
+      <node id="ristomejide" label="ristomejide" />
+      <node id="MartinSchulz" label="MartinSchulz" />
+      <node id="rispau" label="rispau" />
+      <node id="FLGFamiliesLGTB" label="FLGFamiliesLGTB" />
+      <node id="CaixaEnginyers" label="CaixaEnginyers" />
+      <node id="marcargemi" label="marcargemi" />
+      <node id="jcsanglas" label="jcsanglas" />
+      <node id="BibianaBallbe" label="BibianaBallbe" />
+      <node id="Parlimag" label="Parlimag" />
+      <node id="Twitpuntcat" label="Twitpuntcat" />
+      <node id="HistoryInPics" label="HistoryInPics" />
+      <node id="EstimoCatalunya" label="EstimoCatalunya" />
+      <node id="cristian_agudo" label="cristian_agudo" />
+      <node id="SeleccionsCAT" label="SeleccionsCAT" />
+      <node id="montsepalau" label="montsepalau" />
+      <node id="poloniatv3" label="poloniatv3" />
+      <node id="anioliver" label="anioliver" />
+      <node id="ebenach" label="ebenach" />
+      <node id="AIReF_es" label="AIReF_es" />
+      <node id="alazrac" label="alazrac" />
+      <node id="silviamartinez" label="silviamartinez" />
+      <node id="leixcuberes" label="leixcuberes" />
+      <node id="racocatala" label="racocatala" />
+      <node id="Cesc537" label="Cesc537" />
+      <node id="protascat" label="protascat" />
+      <node id="Verds" label="Verds" />
+      <node id="HiginiaRoig" label="HiginiaRoig" />
+      <node id="toniaira" label="toniaira" />
+      <node id="Ferrancm" label="Ferrancm" />
+      <node id="365d365e" label="365d365e" />
+      <node id="jfg1978" label="jfg1978" />
+      <node id="marcelivirgili" label="marcelivirgili" />
+      <node id="antoniobanos_" label="antoniobanos_" />
+      <node id="Villasfg" label="Villasfg" />
+      <node id="SIAmetlla" label="SIAmetlla" />
+      <node id="emparmoliner" label="emparmoliner" />
+      <node id="el_candidat" label="el_candidat" />
+      <node id="maiolroger" label="maiolroger" />
+      <node id="ERCViladecans" label="ERCViladecans" />
+      <node id="jordims93" label="jordims93" />
+      <node id="EnricRimbau" label="EnricRimbau" />
+      <node id="kirk_n_mccoy" label="kirk_n_mccoy" />
+      <node id="mirodavid" label="mirodavid" />
+      <node id="treballcat" label="treballcat" />
+      <node id="joseprodrigo" label="joseprodrigo" />
+      <node id="albertmulero" label="albertmulero" />
+      <node id="francescsoler" label="francescsoler" />
+      <node id="marta_all" label="marta_all" />
+      <node id="BornCC" label="BornCC" />
+      <node id="capdevilajoan" label="capdevilajoan" />
+      <node id="OneEyeOpen" label="OneEyeOpen" />
+      <node id="rogermilego" label="rogermilego" />
+      <node id="sarahmorriseuro" label="sarahmorriseuro" />
+      <node id="ealkartasuna" label="ealkartasuna" />
+      <node id="davidminoves" label="davidminoves" />
+      <node id="pauricoma" label="pauricoma" />
+      <node id="gbonaventura" label="gbonaventura" />
+      <node id="martarovira" label="martarovira" />
+      <node id="carme_capdevila" label="carme_capdevila" />
+      <node id="jorditurull" label="jorditurull" />
+      <node id="HandbolStVicenc" label="HandbolStVicenc" />
+      <node id="JosepMUreta" label="JosepMUreta" />
+      <node id="RicRuizGarzon" label="RicRuizGarzon" />
+      <node id="alexdauden" label="alexdauden" />
+      <node id="DannyRichman" label="DannyRichman" />
+      <node id="peremarticolom" label="peremarticolom" />
+      <node id="pia_bosch" label="pia_bosch" />
+      <node id="llasjordi" label="llasjordi" />
+      <node id="EduPiera" label="EduPiera" />
+      <node id="Dionis7vetes" label="Dionis7vetes" />
+      <node id="LoJoan" label="LoJoan" />
+      <node id="EU_MED" label="EU_MED" />
+      <node id="josepmadalmau" label="josepmadalmau" />
+      <node id="Puig_Albert" label="Puig_Albert" />
+      <node id="exteriorscat" label="exteriorscat" />
+      <node id="lopesita" label="lopesita" />
+      <node id="neustomas" label="neustomas" />
+      <node id="xavisarria" label="xavisarria" />
+      <node id="marzoar" label="marzoar" />
+      <node id="vnutchkoff" label="vnutchkoff" />
+      <node id="jandreud" label="jandreud" />
+      <node id="Xixella" label="Xixella" />
+      <node id="ilugonzalez" label="ilugonzalez" />
+      <node id="JoanMarin" label="JoanMarin" />
+      <node id="valex_cat" label="valex_cat" />
+      <node id="josu_sallent" label="josu_sallent" />
+      <node id="botigallibertat" label="botigallibertat" />
+      <node id="sbagudanch" label="sbagudanch" />
+      <node id="rbesac" label="rbesac" />
+      <node id="Buenafuente" label="Buenafuente" />
+      <node id="miriamhatibi" label="miriamhatibi" />
+      <node id="casesmartin" label="casesmartin" />
+      <node id="bbt016" label="bbt016" />
+      <node id="xaviflorensa" label="xaviflorensa" />
+      <node id="albertpons3" label="albertpons3" />
+      <node id="bernatff" label="bernatff" />
+      <node id="AlynSmith" label="AlynSmith" />
+      <node id="EconBizFin" label="EconBizFin" />
+      <node id="daniel1714" label="daniel1714" />
+      <node id="rossierra" label="rossierra" />
+      <node id="gerardcoca" label="gerardcoca" />
+      <node id="vicepresicat" label="vicepresicat" />
+      <node id="bielbarcelo" label="bielbarcelo" />
+      <node id="gerardgomezf" label="gerardgomezf" />
+      <node id="catalunyaopina" label="catalunyaopina" />
+      <node id="FeliuVentura" label="FeliuVentura" />
+      <node id="jordiborda" label="jordiborda" />
+      <node id="sergifigueres" label="sergifigueres" />
+      <node id="rcampanera" label="rcampanera" />
+      <node id="perezesquerdo" label="perezesquerdo" />
+      <node id="Habla_Ingles" label="Habla_Ingles" />
+      <node id="montserrat_tura" label="montserrat_tura" />
+      <node id="boixserra" label="boixserra" />
+      <node id="epaluzie" label="epaluzie" />
+      <node id="eduardvoltas" label="eduardvoltas" />
+      <node id="masdeu24" label="masdeu24" />
+      <node id="david_bassa" label="david_bassa" />
+      <node id="ERCPalafolls" label="ERCPalafolls" />
+      <node id="marett" label="marett" />
+      <node id="montseforcadell" label="montseforcadell" />
+      <node id="jordiporta" label="jordiporta" />
+      <node id="ggeorgginacc" label="ggeorgginacc" />
+      <node id="jordifinestres" label="jordifinestres" />
+      <node id="XAVIERMORENO" label="XAVIERMORENO" />
+      <node id="AnnaSimo" label="AnnaSimo" />
+      <node id="Eloi_Alcaide" label="Eloi_Alcaide" />
+      <node id="PrufiJaume" label="PrufiJaume" />
+      <node id="Cris_Puig" label="Cris_Puig" />
+      <node id="robertfabregat" label="robertfabregat" />
+      <node id="CarmendelRiego" label="CarmendelRiego" />
+      <node id="Pumocat" label="Pumocat" />
+      <node id="formenteril" label="formenteril" />
+      <node id="ganyet" label="ganyet" />
+      <node id="erc_obonesvalls" label="erc_obonesvalls" />
+      <node id="Arcadi42" label="Arcadi42" />
+      <node id="ravigrau" label="ravigrau" />
+      <node id="mancalero1" label="mancalero1" />
+      <node id="OlorizJoan" label="OlorizJoan" />
+      <node id="RafaeldeRibot" label="RafaeldeRibot" />
+      <node id="mfornells" label="mfornells" />
+      <node id="MarcelSinyol" label="MarcelSinyol" />
+      <node id="ProponAEuropa" label="ProponAEuropa" />
+      <node id="ChachoAlmaraz" label="ChachoAlmaraz" />
+      <node id="lenz_adam" label="lenz_adam" />
+      <node id="catalaneconomy" label="catalaneconomy" />
+      <node id="Mangelferres" label="Mangelferres" />
+      <node id="joventBarcelona" label="joventBarcelona" />
+      <node id="mmmatas" label="mmmatas" />
+      <node id="EvaPiquer" label="EvaPiquer" />
+      <node id="comunllum" label="comunllum" />
+      <node id="Eva_Gene" label="Eva_Gene" />
+      <node id="sorluciacaram" label="sorluciacaram" />
+      <node id="AgustiColomines" label="AgustiColomines" />
+      <node id="illorente" label="illorente" />
+      <node id="AgustiAlcoberro" label="AgustiAlcoberro" />
+      <node id="agustibenedito" label="agustibenedito" />
+      <node id="laurajuanola" label="laurajuanola" />
+      <node id="oriol_gt" label="oriol_gt" />
+      <node id="BetonaComin" label="BetonaComin" />
+      <node id="pereboschcuenca" label="pereboschcuenca" />
+      <node id="JosepBargallo" label="JosepBargallo" />
+      <node id="usvolemacasa" label="usvolemacasa" />
+      <node id="danicfo" label="danicfo" />
+      <node id="Drago_Capital" label="Drago_Capital" />
+      <node id="sapienscat" label="sapienscat" />
+      <node id="PereMas" label="PereMas" />
+      <node id="SalvadorSala" label="SalvadorSala" />
+      <node id="MishimaBCN" label="MishimaBCN" />
+      <node id="DavMa" label="DavMa" />
+      <node id="JESTEVETRIAS" label="JESTEVETRIAS" />
+      <node id="krlsprts" label="krlsprts" />
+      <node id="washingtonpost" label="washingtonpost" />
+      <node id="BBCBreaking" label="BBCBreaking" />
+      <node id="VivianeRedingEU" label="VivianeRedingEU" />
+      <node id="estercapella" label="estercapella" />
+      <node id="ICTINEU3" label="ICTINEU3" />
+      <node id="toniartero" label="toniartero" />
+      <node id="Mas_Enfurecido" label="Mas_Enfurecido" />
+      <node id="10Mil_CAT" label="10Mil_CAT" />
+      <node id="rosenfeld_anna" label="rosenfeld_anna" />
+      <node id="Raulmuto" label="Raulmuto" />
+      <node id="luisdeval" label="luisdeval" />
+      <node id="ceskfreixas" label="ceskfreixas" />
+      <node id="gemmagaldon" label="gemmagaldon" />
+      <node id="PepaBueno" label="PepaBueno" />
+      <node id="Sperezcruz" label="Sperezcruz" />
+      <node id="prouespoli" label="prouespoli" />
+      <node id="MIQUELLARA" label="MIQUELLARA" />
+      <node id="_anapastor_" label="_anapastor_" />
+      <node id="marcnoel2009" label="marcnoel2009" />
+      <node id="sninobecerra" label="sninobecerra" />
+      <node id="JordiCorrons" label="JordiCorrons" />
+      <node id="rechebloc" label="rechebloc" />
+      <node id="KRLS" label="KRLS" />
+      <node id="vilapou" label="vilapou" />
+      <node id="historia_SXX" label="historia_SXX" />
+      <node id="SocCatLlib" label="SocCatLlib" />
+      <node id="isabelruapires" label="isabelruapires" />
+      <node id="joanaroig07" label="joanaroig07" />
+      <node id="diariARA" label="diariARA" />
+      <node id="radiosvh902" label="radiosvh902" />
+      <node id="jaumellm" label="jaumellm" />
+      <node id="junqueras" label="junqueras" />
+      <node id="VilaWeb" label="VilaWeb" />
+      <node id="Idelgape" label="Idelgape" />
+      <node id="cfbaez" label="cfbaez" />
+      <node id="jordisolef" label="jordisolef" />
+      <node id="eduardorepi" label="eduardorepi" />
+      <node id="paullonch" label="paullonch" />
+      <node id="AgustiBordas" label="AgustiBordas" />
+      <node id="trinamilan" label="trinamilan" />
+      <node id="SilviabelB" label="SilviabelB" />
+      <node id="TimeOutBCN" label="TimeOutBCN" />
+      <node id="Tomaperez" label="Tomaperez" />
+      <node id="bulmamaresme" label="bulmamaresme" />
+      <node id="DavidPujolB" label="DavidPujolB" />
+      <node id="xaviermir" label="xaviermir" />
+      <node id="OlgaPalahi" label="OlgaPalahi" />
+      <node id="jordisalvia" label="jordisalvia" />
+      <node id="antonigarcia" label="antonigarcia" />
+      <node id="albertcuesta" label="albertcuesta" />
+      <node id="elnoiroig" label="elnoiroig" />
+      <node id="mnoguer" label="mnoguer" />
+      <node id="MacarenaRG" label="MacarenaRG" />
+      <node id="ManuGuix" label="ManuGuix" />
+      <node id="alexandrelopez" label="alexandrelopez" />
+      <node id="SobiranistesCat" label="SobiranistesCat" />
+      <node id="vullunfestuc" label="vullunfestuc" />
+      <node id="AlexisMariM" label="AlexisMariM" />
+      <node id="BernatDedeu" label="BernatDedeu" />
+      <node id="HotelPalmBeach" label="HotelPalmBeach" />
+      <node id="adriaduarte87" label="adriaduarte87" />
+      <node id="eu09twitlife" label="eu09twitlife" />
+      <node id="MilagrosPrezOli" label="MilagrosPrezOli" />
+      <node id="Lobisome" label="Lobisome" />
+      <node id="FrancescRibot" label="FrancescRibot" />
+      <node id="frmiralles" label="frmiralles" />
+      <node id="rogertugas" label="rogertugas" />
+      <node id="marsebogo" label="marsebogo" />
+      <node id="javiermolto" label="javiermolto" />
+      <node id="DianaRibaGiner" label="DianaRibaGiner" />
+      <node id="martanaval" label="martanaval" />
+      <node id="IndepCast" label="IndepCast" />
+      <node id="NUET" label="NUET" />
+      <node id="JonInarritu" label="JonInarritu" />
+      <node id="JuntsPelSi" label="JuntsPelSi" />
+      <node id="musicalpesto" label="musicalpesto" />
+      <node id="CNN" label="CNN" />
+      <node id="espremulla" label="espremulla" />
+      <node id="Nmartinblanco" label="Nmartinblanco" />
+      <node id="sklares" label="sklares" />
+      <node id="MiquelSVH" label="MiquelSVH" />
+      <node id="ClubEscacsValls" label="ClubEscacsValls" />
+      <node id="xgraset" label="xgraset" />
+      <node id="EFAparty" label="EFAparty" />
+      <node id="norl" label="norl" />
+      <node id="GuillemRecolons" label="GuillemRecolons" />
+      <node id="rbert77" label="rbert77" />
+      <node id="holoturoideu" label="holoturoideu" />
+      <node id="albertprat" label="albertprat" />
+      <node id="SOMHITOTS" label="SOMHITOTS" />
+      <node id="JnnDiaz" label="JnnDiaz" />
+      <node id="miquelcalcada" label="miquelcalcada" />
+      <node id="ninagsabates" label="ninagsabates" />
+      <node id="andreu_morera" label="andreu_morera" />
+      <node id="Anna_Teixi" label="Anna_Teixi" />
+      <node id="amicsdelesarts" label="amicsdelesarts" />
+      <node id="jordiar" label="jordiar" />
+      <node id="tonialba" label="tonialba" />
+      <node id="TMarin1" label="TMarin1" />
+    </nodes>
+    <edges>
+      <edge id="0" source="PatrickVedel" target="junqueras" />
+      <edge id="1" source="ariadnajou" target="junqueras" />
+      <edge id="2" source="jrcasals" target="junqueras" />
+      <edge id="3" source="Josep_Huguet" target="junqueras" />
+      <edge id="4" source="pepgaspar" target="junqueras" />
+      <edge id="5" source="euronews" target="junqueras" />
+      <edge id="6" source="xarop" target="junqueras" />
+      <edge id="7" source="BelZaballa" target="junqueras" />
+      <edge id="8" source="estemon" target="junqueras" />
+      <edge id="9" source="martasugranyes1" target="junqueras" />
+      <edge id="10" source="ferranmascarell" target="junqueras" />
+      <edge id="11" source="XabiBarrena" target="junqueras" />
+      <edge id="12" source="ercmataro" target="junqueras" />
+      <edge id="13" source="peremolto" target="junqueras" />
+      <edge id="14" source="paucc" target="junqueras" />
+      <edge id="15" source="Laksmiz" target="junqueras" />
+      <edge id="16" source="pgomezinglada" target="junqueras" />
+      <edge id="17" source="oriolllado" target="junqueras" />
+      <edge id="18" source="debatedela1_tve" target="junqueras" />
+      <edge id="19" source="flag_guy" target="junqueras" />
+      <edge id="20" source="CivitiMarti" target="junqueras" />
+      <edge id="21" source="XSalaimartin" target="junqueras" />
+      <edge id="22" source="MarcColomer" target="junqueras" />
+      <edge id="23" source="jllisterri" target="junqueras" />
+      <edge id="24" source="rac1" target="junqueras" />
+      <edge id="25" source="Marta_Sibina" target="junqueras" />
+      <edge id="26" source="CatalunyaSi" target="junqueras" />
+      <edge id="27" source="salutcat" target="junqueras" />
+      <edge id="28" source="natalia_garriga" target="junqueras" />
+      <edge id="29" source="CollectiuEmma" target="junqueras" />
+      <edge id="30" source="iponsmelis" target="junqueras" />
+      <edge id="31" source="joancgallego" target="junqueras" />
+      <edge id="32" source="marcvidal" target="junqueras" />
+      <edge id="33" source="violantml" target="junqueras" />
+      <edge id="34" source="Esquerra_ERC" target="junqueras" />
+      <edge id="35" source="laiamaimo" target="junqueras" />
+      <edge id="36" source="NilPapiol" target="junqueras" />
+      <edge id="37" source="lacuinavermella" target="junqueras" />
+      <edge id="38" source="tribunacat" target="junqueras" />
+      <edge id="39" source="jprat" target="junqueras" />
+      <edge id="40" source="sermt" target="junqueras" />
+      <edge id="41" source="QuicoSalles" target="junqueras" />
+      <edge id="42" source="ERC_lgtb" target="junqueras" />
+      <edge id="43" source="jdorcacosta" target="junqueras" />
+      <edge id="44" source="paucomes" target="junqueras" />
+      <edge id="45" source="enpeyu" target="junqueras" />
+      <edge id="46" source="camilros" target="junqueras" />
+      <edge id="47" source="jmones" target="junqueras" />
+      <edge id="48" source="govern" target="junqueras" />
+      <edge id="49" source="elclauercat" target="junqueras" />
+      <edge id="50" source="patolucas48" target="junqueras" />
+      <edge id="51" source="elinebreda" target="junqueras" />
+      <edge id="52" source="ierrejon" target="junqueras" />
+      <edge id="53" source="jovellado" target="junqueras" />
+      <edge id="54" source="miLLoringlix" target="junqueras" />
+      <edge id="55" source="angelrosdomingo" target="junqueras" />
+      <edge id="56" source="cristinagallach" target="junqueras" />
+      <edge id="57" source="sergisabria" target="junqueras" />
+      <edge id="58" source="quimarrufat" target="junqueras" />
+      <edge id="59" source="CdEconomia" target="junqueras" />
+      <edge id="60" source="Antonia_Font" target="junqueras" />
+      <edge id="61" source="quimcosta" target="junqueras" />
+      <edge id="62" source="Tweetelect09" target="junqueras" />
+      <edge id="63" source="silviasfg" target="junqueras" />
+      <edge id="64" source="cantalozella" target="junqueras" />
+      <edge id="65" source="RosaAmorosC" target="junqueras" />
+      <edge id="66" source="BernatGimeno" target="junqueras" />
+      <edge id="67" source="trinitro" target="junqueras" />
+      <edge id="68" source="FreeJunqueras" target="junqueras" />
+      <edge id="69" source="Malalt9" target="junqueras" />
+      <edge id="70" source="nadalrafel" target="junqueras" />
+      <edge id="71" source="AinaVS" target="junqueras" />
+      <edge id="72" source="OscarReinaGilen" target="junqueras" />
+      <edge id="73" source="elmonarac1" target="junqueras" />
+      <edge id="74" source="TheEconomist" target="junqueras" />
+      <edge id="75" source="portdebarcelona" target="junqueras" />
+      <edge id="76" source="laxarxaradio" target="junqueras" />
+      <edge id="77" source="joseantich" target="junqueras" />
+      <edge id="78" source="jordievole" target="junqueras" />
+      <edge id="79" source="gcapdevila" target="junqueras" />
+      <edge id="80" source="bernatsole" target="junqueras" />
+      <edge id="81" source="esquerraLH" target="junqueras" />
+      <edge id="82" source="Marc_es" target="junqueras" />
+      <edge id="83" source="JordiVeraGarcia" target="junqueras" />
+      <edge id="84" source="SalvadorSedo" target="junqueras" />
+      <edge id="85" source="PereCardus" target="junqueras" />
+      <edge id="86" source="rafagarridov" target="junqueras" />
+      <edge id="87" source="lbassets" target="junqueras" />
+      <edge id="88" source="joancarlesperis" target="junqueras" />
+      <edge id="89" source="AjuntamentSVH" target="junqueras" />
+      <edge id="90" source="YolandaArtigas1" target="junqueras" />
+      <edge id="91" source="rogertorrent" target="junqueras" />
+      <edge id="92" source="joanfmira" target="junqueras" />
+      <edge id="93" source="dolorsbassac" target="junqueras" />
+      <edge id="94" source="acaradeperro" target="junqueras" />
+      <edge id="95" source="Desayunos_tve" target="junqueras" />
+      <edge id="96" source="afalguera" target="junqueras" />
+      <edge id="97" source="jduch" target="junqueras" />
+      <edge id="98" source="ricard_checa" target="junqueras" />
+      <edge id="99" source="mapallares" target="junqueras" />
+      <edge id="100" source="dnicatala" target="junqueras" />
+      <edge id="101" source="marie_kapretz" target="junqueras" />
+      <edge id="102" source="jordigarcia" target="junqueras" />
+      <edge id="103" source="RamonCreixell" target="junqueras" />
+      <edge id="104" source="llremola" target="junqueras" />
+      <edge id="105" source="mariadolorsa" target="junqueras" />
+      <edge id="106" source="matthewtree" target="junqueras" />
+      <edge id="107" source="bernatsalbanya" target="junqueras" />
+      <edge id="108" source="lligalletres" target="junqueras" />
+      <edge id="109" source="jordicentelles" target="junqueras" />
+      <edge id="110" source="bordegassos" target="junqueras" />
+      <edge id="111" source="QuimTorraiPla" target="junqueras" />
+      <edge id="112" source="julifernandez" target="junqueras" />
+      <edge id="113" source="toniclapes" target="junqueras" />
+      <edge id="114" source="Pauzurano" target="junqueras" />
+      <edge id="115" source="auronplay" target="junqueras" />
+      <edge id="116" source="venturamoriscot" target="junqueras" />
+      <edge id="117" source="balakius" target="junqueras" />
+      <edge id="118" source="eyndePenal" target="junqueras" />
+      <edge id="119" source="xuriguera" target="junqueras" />
+      <edge id="120" source="heroneta" target="junqueras" />
+      <edge id="121" source="JoventRepublica" target="junqueras" />
+      <edge id="122" source="ramontremosa" target="junqueras" />
+      <edge id="123" source="albertmontagut" target="junqueras" />
+      <edge id="124" source="marcbataller" target="junqueras" />
+      <edge id="125" source="masesa72" target="junqueras" />
+      <edge id="126" source="delaTorre_V" target="junqueras" />
+      <edge id="127" source="QuimMonzo" target="junqueras" />
+      <edge id="128" source="saulgordillo" target="junqueras" />
+      <edge id="129" source="Cortadelles" target="junqueras" />
+      <edge id="130" source="IosudelaTorre" target="junqueras" />
+      <edge id="131" source="jordiportabella" target="junqueras" />
+      <edge id="132" source="lemondefr" target="junqueras" />
+      <edge id="133" source="YesScotland" target="junqueras" />
+      <edge id="134" source="bruno_oro" target="junqueras" />
+      <edge id="135" source="ERC_INTL" target="junqueras" />
+      <edge id="136" source="fmarcalvaro" target="junqueras" />
+      <edge id="137" source="llenguacat" target="junqueras" />
+      <edge id="138" source="MariaMerceRoca" target="junqueras" />
+      <edge id="139" source="JosepGinesta" target="junqueras" />
+      <edge id="140" source="esquerratortosa" target="junqueras" />
+      <edge id="141" source="tunisocatala" target="junqueras" />
+      <edge id="142" source="seniarco" target="junqueras" />
+      <edge id="143" source="joancroca" target="junqueras" />
+      <edge id="144" source="JoelJoanJuve" target="junqueras" />
+      <edge id="145" source="jordi_bertran" target="junqueras" />
+      <edge id="146" source="lluispastor" target="junqueras" />
+      <edge id="147" source="FerranEspada" target="junqueras" />
+      <edge id="148" source="airllimos" target="junqueras" />
+      <edge id="149" source="justomolinero" target="junqueras" />
+      <edge id="150" source="Cuponeo" target="junqueras" />
+      <edge id="151" source="jordicalvis" target="junqueras" />
+      <edge id="152" source="VictorCervello" target="junqueras" />
+      <edge id="153" source="ForcadellCarme" target="junqueras" />
+      <edge id="154" source="teresavallverdu" target="junqueras" />
+      <edge id="155" source="enricxicoy" target="junqueras" />
+      <edge id="156" source="DavidPrat" target="junqueras" />
+      <edge id="157" source="EduardSuarez" target="junqueras" />
+      <edge id="158" source="angcastineira" target="junqueras" />
+      <edge id="159" source="oriolbausa" target="junqueras" />
+      <edge id="160" source="MeritxellSerret" target="junqueras" />
+      <edge id="161" source="esquerrapv" target="junqueras" />
+      <edge id="162" source="mferres" target="junqueras" />
+      <edge id="163" source="marinageli" target="junqueras" />
+      <edge id="164" source="EuropesHistory" target="junqueras" />
+      <edge id="165" source="fabricatele" target="junqueras" />
+      <edge id="166" source="yuribcn" target="junqueras" />
+      <edge id="167" source="davidpoblador" target="junqueras" />
+      <edge id="168" source="GreensEP" target="junqueras" />
+      <edge id="169" source="meiusferres" target="junqueras" />
+      <edge id="170" source="conmemora" target="junqueras" />
+      <edge id="171" source="Apujolmas" target="junqueras" />
+      <edge id="172" source="JaumeFreixes" target="junqueras" />
+      <edge id="173" source="roccasagran" target="junqueras" />
+      <edge id="174" source="jordiborras" target="junqueras" />
+      <edge id="175" source="cupnacional" target="junqueras" />
+      <edge id="176" source="SPIEGEL_Top" target="junqueras" />
+      <edge id="177" source="lauramintegi" target="junqueras" />
+      <edge id="178" source="isonapassola" target="junqueras" />
+      <edge id="179" source="Teleroma56" target="junqueras" />
+      <edge id="180" source="datiu_etic" target="junqueras" />
+      <edge id="181" source="enricsierra" target="junqueras" />
+      <edge id="182" source="q_vila" target="junqueras" />
+      <edge id="183" source="Xicots" target="junqueras" />
+      <edge id="184" source="AnnaAroca" target="junqueras" />
+      <edge id="185" source="ocellz" target="junqueras" />
+      <edge id="186" source="AJEnglish" target="junqueras" />
+      <edge id="187" source="JoseMontillaA" target="junqueras" />
+      <edge id="188" source="esallent" target="junqueras" />
+      <edge id="189" source="KSMKilianSebria" target="junqueras" />
+      <edge id="190" source="CarlesCaballero" target="junqueras" />
+      <edge id="191" source="pimec" target="junqueras" />
+      <edge id="192" source="gcalvetbarot" target="junqueras" />
+      <edge id="193" source="FLSida" target="junqueras" />
+      <edge id="194" source="xavierbosch" target="junqueras" />
+      <edge id="195" source="lalectora" target="junqueras" />
+      <edge id="196" source="europatweets" target="junqueras" />
+      <edge id="197" source="cbuesa" target="junqueras" />
+      <edge id="198" source="ModernetdeMerda" target="junqueras" />
+      <edge id="199" source="albertbatalla" target="junqueras" />
+      <edge id="200" source="albertsaezc" target="junqueras" />
+      <edge id="201" source="TeresaForcadesF" target="junqueras" />
+      <edge id="202" source="lluis_llach" target="junqueras" />
+      <edge id="203" source="jcasulleras" target="junqueras" />
+      <edge id="204" source="_Maria_Dantas_" target="junqueras" />
+      <edge id="205" source="vpartal" target="junqueras" />
+      <edge id="206" source="jcoscu" target="junqueras" />
+      <edge id="207" source="MireiaMiquel" target="junqueras" />
+      <edge id="208" source="nuriaparlon" target="junqueras" />
+      <edge id="209" source="pauihumor" target="junqueras" />
+      <edge id="210" source="OscarBardaji" target="junqueras" />
+      <edge id="211" source="miqueliceta" target="junqueras" />
+      <edge id="212" source="MICKYAMBROA" target="junqueras" />
+      <edge id="213" source="lluislorenzo" target="junqueras" />
+      <edge id="214" source="RogerHeredia83" target="junqueras" />
+      <edge id="215" source="oriol_bossa" target="junqueras" />
+      <edge id="216" source="AlbaBalcells" target="junqueras" />
+      <edge id="217" source="RaholaOficial" target="junqueras" />
+      <edge id="218" source="medri" target="junqueras" />
+      <edge id="219" source="kilianj" target="junqueras" />
+      <edge id="220" source="f_lluisllach" target="junqueras" />
+      <edge id="221" source="Barclays" target="junqueras" />
+      <edge id="222" source="RTeulet" target="junqueras" />
+      <edge id="223" source="oriolmollet" target="junqueras" />
+      <edge id="224" source="Carmesd" target="junqueras" />
+      <edge id="225" source="AlTama81" target="junqueras" />
+      <edge id="226" source="Amazing_Maps" target="junqueras" />
+      <edge id="227" source="txearana" target="junqueras" />
+      <edge id="228" source="Carles_Ribera" target="junqueras" />
+      <edge id="229" source="jaumecollboni" target="junqueras" />
+      <edge id="230" source="jordiromaguera" target="junqueras" />
+      <edge id="231" source="PachecoJpacheco" target="junqueras" />
+      <edge id="232" source="Pep_Salas" target="junqueras" />
+      <edge id="233" source="xqum" target="junqueras" />
+      <edge id="234" source="AlvaroHerraiz" target="junqueras" />
+      <edge id="235" source="JordiMedi" target="junqueras" />
+      <edge id="236" source="ericvinaixa" target="junqueras" />
+      <edge id="237" source="maticatradio" target="junqueras" />
+      <edge id="238" source="324_politica" target="junqueras" />
+      <edge id="239" source="vctrjmnz" target="junqueras" />
+      <edge id="240" source="ClemenPedret" target="junqueras" />
+      <edge id="241" source="bernatcostas" target="junqueras" />
+      <edge id="242" source="XSerraima" target="junqueras" />
+      <edge id="243" source="carlescosta_" target="junqueras" />
+      <edge id="244" source="mariaxinxo" target="junqueras" />
+      <edge id="245" source="JJSaezDomper" target="junqueras" />
+      <edge id="246" source="AlJazeera" target="junqueras" />
+      <edge id="247" source="UnaiSordo" target="junqueras" />
+      <edge id="248" source="AIRJAG" target="junqueras" />
+      <edge id="249" source="Aracelisegarra" target="junqueras" />
+      <edge id="250" source="rvilablareix" target="junqueras" />
+      <edge id="251" source="MarquesAgnes" target="junqueras" />
+      <edge id="252" source="LlSalvado" target="junqueras" />
+      <edge id="253" source="banzy" target="junqueras" />
+      <edge id="254" source="ivanaranda" target="junqueras" />
+      <edge id="255" source="CarlesMundo" target="junqueras" />
+      <edge id="256" source="CanRocaCeller" target="junqueras" />
+      <edge id="257" source="laiabonetrull" target="junqueras" />
+      <edge id="258" source="JpDemocracia" target="junqueras" />
+      <edge id="259" source="AdaColau" target="junqueras" />
+      <edge id="260" source="jmtresserras" target="junqueras" />
+      <edge id="261" source="jmsarri" target="junqueras" />
+      <edge id="262" source="ARApolitica" target="junqueras" />
+      <edge id="263" source="TribunadeGirona" target="junqueras" />
+      <edge id="264" source="totsxtots" target="junqueras" />
+      <edge id="265" source="soniapereda" target="junqueras" />
+      <edge id="266" source="oraclecatradio" target="junqueras" />
+      <edge id="267" source="queconovell" target="junqueras" />
+      <edge id="268" source="xavialtadill" target="junqueras" />
+      <edge id="269" source="monicaoltra" target="junqueras" />
+      <edge id="270" source="stopmaremortum" target="junqueras" />
+      <edge id="271" source="socjordiduran" target="junqueras" />
+      <edge id="272" source="FinancialTimes" target="junqueras" />
+      <edge id="273" source="josepix" target="junqueras" />
+      <edge id="274" source="TIME" target="junqueras" />
+      <edge id="275" source="mvilarnau" target="junqueras" />
+      <edge id="276" source="dcruzf" target="junqueras" />
+      <edge id="277" source="florejachs" target="junqueras" />
+      <edge id="278" source="anasurra" target="junqueras" />
+      <edge id="279" source="Fenix11_23" target="junqueras" />
+      <edge id="280" source="carlescampuzano" target="junqueras" />
+      <edge id="281" source="AOtero" target="junqueras" />
+      <edge id="282" source="assemblea" target="junqueras" />
+      <edge id="283" source="Dallonses" target="junqueras" />
+      <edge id="284" source="Toni_Cruanyes" target="junqueras" />
+      <edge id="285" source="MrCove" target="junqueras" />
+      <edge id="286" source="albertcaste" target="junqueras" />
+      <edge id="287" source="SVHxIND" target="junqueras" />
+      <edge id="288" source="diariandreuenc" target="junqueras" />
+      <edge id="289" source="emergenciescat" target="junqueras" />
+      <edge id="290" source="spector34" target="junqueras" />
+      <edge id="291" source="rafahomet" target="junqueras" />
+      <edge id="292" source="elpuntavui" target="junqueras" />
+      <edge id="293" source="lluisju" target="junqueras" />
+      <edge id="294" source="madeinfarreni" target="junqueras" />
+      <edge id="295" source="MariusCarol" target="junqueras" />
+      <edge id="296" source="pboschcuenca" target="junqueras" />
+      <edge id="297" source="vsalaf" target="junqueras" />
+      <edge id="298" source="NovullpagaraEsp" target="junqueras" />
+      <edge id="299" source="escolarocioSVH" target="junqueras" />
+      <edge id="300" source="carmecolomina" target="junqueras" />
+      <edge id="301" source="francescribera" target="junqueras" />
+      <edge id="302" source="PatronalCecot" target="junqueras" />
+      <edge id="303" source="MargaretFerrier" target="junqueras" />
+      <edge id="304" source="fjirla" target="junqueras" />
+      <edge id="305" source="Laiaortiz" target="junqueras" />
+      <edge id="306" source="SintesOlivella" target="junqueras" />
+      <edge id="307" source="davidmillan" target="junqueras" />
+      <edge id="308" source="alfonsnic" target="junqueras" />
+      <edge id="309" source="olloren" target="junqueras" />
+      <edge id="310" source="quimnadal" target="junqueras" />
+      <edge id="311" source="xavicoral" target="junqueras" />
+      <edge id="312" source="FCBbasket" target="junqueras" />
+      <edge id="313" source="LauraBorras" target="junqueras" />
+      <edge id="314" source="oriol2929" target="junqueras" />
+      <edge id="315" source="rociomsampere" target="junqueras" />
+      <edge id="316" source="bfarriol" target="junqueras" />
+      <edge id="317" source="cicrblanquerna" target="junqueras" />
+      <edge id="318" source="davidmarti" target="junqueras" />
+      <edge id="319" source="Joanridao" target="junqueras" />
+      <edge id="320" source="espevalls" target="junqueras" />
+      <edge id="321" source="bcndecideix" target="junqueras" />
+      <edge id="322" source="lluisrecoder" target="junqueras" />
+      <edge id="323" source="MaryLouMcDonald" target="junqueras" />
+      <edge id="324" source="jcuixart" target="junqueras" />
+      <edge id="325" source="perezlozano" target="junqueras" />
+      <edge id="326" source="marccrosas" target="junqueras" />
+      <edge id="327" source="gamisans" target="junqueras" />
+      <edge id="328" source="TheEULobby" target="junqueras" />
+      <edge id="329" source="LeoAnselmi" target="junqueras" />
+      <edge id="330" source="TxeluiM" target="junqueras" />
+      <edge id="331" source="ICFOnians" target="junqueras" />
+      <edge id="332" source="xavicma" target="junqueras" />
+      <edge id="333" source="Fotlipou" target="junqueras" />
+      <edge id="334" source="XAVI_ALCALDE" target="junqueras" />
+      <edge id="335" source="FreeRovira" target="junqueras" />
+      <edge id="336" source="Khalilbcn" target="junqueras" />
+      <edge id="337" source="soler_toni" target="junqueras" />
+      <edge id="338" source="MiquelEstruch" target="junqueras" />
+      <edge id="339" source="bernacho" target="junqueras" />
+      <edge id="340" source="RivaPaterson" target="junqueras" />
+      <edge id="341" source="Kikedeloscaste1" target="junqueras" />
+      <edge id="342" source="meteocat" target="junqueras" />
+      <edge id="343" source="maorgo32" target="junqueras" />
+      <edge id="344" source="JaumeBarbera" target="junqueras" />
+      <edge id="345" source="jmterricabras" target="junqueras" />
+      <edge id="346" source="JovesValls" target="junqueras" />
+      <edge id="347" source="carallots" target="junqueras" />
+      <edge id="348" source="rosalizandra" target="junqueras" />
+      <edge id="349" source="eloi_pv" target="junqueras" />
+      <edge id="350" source="ammiarmin" target="junqueras" />
+      <edge id="351" source="samuelf" target="junqueras" />
+      <edge id="352" source="revistamongolia" target="junqueras" />
+      <edge id="353" source="JordiGraupera" target="junqueras" />
+      <edge id="354" source="CatalaCorrecte" target="junqueras" />
+      <edge id="355" source="narcissastre" target="junqueras" />
+      <edge id="356" source="AlbanoDante76" target="junqueras" />
+      <edge id="357" source="CridaDemocracia" target="junqueras" />
+      <edge id="358" source="CastellaToni" target="junqueras" />
+      <edge id="359" source="franc_comino" target="junqueras" />
+      <edge id="360" source="JordiMayoral" target="junqueras" />
+      <edge id="361" source="CarlesGPY" target="junqueras" />
+      <edge id="362" source="CarlesTT" target="junqueras" />
+      <edge id="363" source="elpuntaldia" target="junqueras" />
+      <edge id="364" source="martigironell" target="junqueras" />
+      <edge id="365" source="ujgirona" target="junqueras" />
+      <edge id="366" source="undaqui" target="junqueras" />
+      <edge id="367" source="m_doncel" target="junqueras" />
+      <edge id="368" source="AntoniGutierrez" target="junqueras" />
+      <edge id="369" source="inogues" target="junqueras" />
+      <edge id="370" source="icvviladecans" target="junqueras" />
+      <edge id="371" source="DaniMateoAgain" target="junqueras" />
+      <edge id="372" source="AgustiMasana" target="junqueras" />
+      <edge id="373" source="abertzale" target="junqueras" />
+      <edge id="374" source="montserrat_sm" target="junqueras" />
+      <edge id="375" source="Pacoescribano" target="junqueras" />
+      <edge id="376" source="ernestmaragall" target="junqueras" />
+      <edge id="377" source="kikemollet" target="junqueras" />
+      <edge id="378" source="batiscafu" target="junqueras" />
+      <edge id="379" source="EnSerrallonga" target="junqueras" />
+      <edge id="380" source="ManuelCuyas" target="junqueras" />
+      <edge id="381" source="salvadorcot" target="junqueras" />
+      <edge id="382" source="hospitalclinic" target="junqueras" />
+      <edge id="383" source="pere_pou" target="junqueras" />
+      <edge id="384" source="oleguerserra" target="junqueras" />
+      <edge id="385" source="igpagan" target="junqueras" />
+      <edge id="386" source="gallifantes" target="junqueras" />
+      <edge id="387" source="NicolaSturgeon" target="junqueras" />
+      <edge id="388" source="PereCullell" target="junqueras" />
+      <edge id="389" source="xbundo" target="junqueras" />
+      <edge id="390" source="xaviolivella" target="junqueras" />
+      <edge id="391" source="PZilgalvis" target="junqueras" />
+      <edge id="392" source="JoanCuevas" target="junqueras" />
+      <edge id="393" source="antonimoga" target="junqueras" />
+      <edge id="394" source="patriciaplaja" target="junqueras" />
+      <edge id="395" source="LaVanguardia" target="junqueras" />
+      <edge id="396" source="PrimaRiesgoBot" target="junqueras" />
+      <edge id="397" source="sergidelosrios" target="junqueras" />
+      <edge id="398" source="CharlesMichel" target="junqueras" />
+      <edge id="399" source="hooligags" target="junqueras" />
+      <edge id="400" source="sergipicazo" target="junqueras" />
+      <edge id="401" source="VineCreators" target="junqueras" />
+      <edge id="402" source="jdiazmallo" target="junqueras" />
+      <edge id="403" source="MontseVendrell" target="junqueras" />
+      <edge id="404" source="barahonaraul" target="junqueras" />
+      <edge id="405" source="GerardFernndez1" target="junqueras" />
+      <edge id="406" source="jmllg" target="junqueras" />
+      <edge id="407" source="loveoflesbian" target="junqueras" />
+      <edge id="408" source="CxEP2014" target="junqueras" />
+      <edge id="409" source="anasabartes" target="junqueras" />
+      <edge id="410" source="think09" target="junqueras" />
+      <edge id="411" source="hootsuite" target="junqueras" />
+      <edge id="412" source="UNICEF" target="junqueras" />
+      <edge id="413" source="salvadoralsius" target="junqueras" />
+      <edge id="414" source="martiteres" target="junqueras" />
+      <edge id="415" source="xevimontoya" target="junqueras" />
+      <edge id="416" source="presscambrabcn" target="junqueras" />
+      <edge id="417" source="immabramona" target="junqueras" />
+      <edge id="418" source="mercajordi" target="junqueras" />
+      <edge id="419" source="marinallansana" target="junqueras" />
+      <edge id="420" source="vergonyaN2" target="junqueras" />
+      <edge id="421" source="albertsagues" target="junqueras" />
+      <edge id="422" source="jorllompart" target="junqueras" />
+      <edge id="423" source="xantallavina" target="junqueras" />
+      <edge id="424" source="AngusRobertson" target="junqueras" />
+      <edge id="425" source="robertferrando" target="junqueras" />
+      <edge id="426" source="davidplanella" target="junqueras" />
+      <edge id="427" source="naciodigital" target="junqueras" />
+      <edge id="428" source="marta_mestre" target="junqueras" />
+      <edge id="429" source="oriolblanc" target="junqueras" />
+      <edge id="430" source="oriolilla" target="junqueras" />
+      <edge id="431" source="CharlesMDang" target="junqueras" />
+      <edge id="432" source="AssangeDefence" target="junqueras" />
+      <edge id="433" source="joanparratena" target="junqueras" />
+      <edge id="434" source="taptotrack" target="junqueras" />
+      <edge id="435" source="NuriaPicas" target="junqueras" />
+      <edge id="436" source="Jorbet2" target="junqueras" />
+      <edge id="437" source="pepem50" target="junqueras" />
+      <edge id="438" source="somlaFabrica" target="junqueras" />
+      <edge id="439" source="ricardgoma" target="junqueras" />
+      <edge id="440" source="GPFLUX" target="junqueras" />
+      <edge id="441" source="nataliamasguix" target="junqueras" />
+      <edge id="442" source="guillemclapes" target="junqueras" />
+      <edge id="443" source="faixedas" target="junqueras" />
+      <edge id="444" source="neusmunte" target="junqueras" />
+      <edge id="445" source="RogerMasOficial" target="junqueras" />
+      <edge id="446" source="ThIsCatalonia" target="junqueras" />
+      <edge id="447" source="elmarkusss180" target="junqueras" />
+      <edge id="448" source="GabrielFerDiaz" target="junqueras" />
+      <edge id="449" source="pgoma" target="junqueras" />
+      <edge id="450" source="ivanmedinaIM" target="junqueras" />
+      <edge id="451" source="bacupflaixbac" target="junqueras" />
+      <edge id="452" source="parlamentcat" target="junqueras" />
+      <edge id="453" source="jaumecabre47" target="junqueras" />
+      <edge id="454" source="cesciglesies" target="junqueras" />
+      <edge id="455" source="bcnxjunqueras" target="junqueras" />
+      <edge id="456" source="jordimunozm" target="junqueras" />
+      <edge id="457" source="ManuelMilian" target="junqueras" />
+      <edge id="458" source="didacgp" target="junqueras" />
+      <edge id="459" source="iaia_toneta" target="junqueras" />
+      <edge id="460" source="_FLAIRE" target="junqueras" />
+      <edge id="461" source="JuntsxSVH" target="junqueras" />
+      <edge id="462" source="FeriaDeAbrilCat" target="junqueras" />
+      <edge id="463" source="turquieLEXPRESS" target="junqueras" />
+      <edge id="464" source="icv_prat" target="junqueras" />
+      <edge id="465" source="ntouzon" target="junqueras" />
+      <edge id="466" source="salvagarcia" target="junqueras" />
+      <edge id="467" source="JunquerasRovira" target="junqueras" />
+      <edge id="468" source="aidamboix" target="junqueras" />
+      <edge id="469" source="MWCapital" target="junqueras" />
+      <edge id="470" source="rmnahar" target="junqueras" />
+      <edge id="471" source="RamblaBTV" target="junqueras" />
+      <edge id="472" source="EPCatalunya" target="junqueras" />
+      <edge id="473" source="raulromeva" target="junqueras" />
+      <edge id="474" source="EoinRyanDublin" target="junqueras" />
+      <edge id="475" source="Strisce" target="junqueras" />
+      <edge id="476" source="jordisanchezp" target="junqueras" />
+      <edge id="477" source="arnau_sanz" target="junqueras" />
+      <edge id="478" source="rcassany" target="junqueras" />
+      <edge id="479" source="DolorsValls" target="junqueras" />
+      <edge id="480" source="antonireig" target="junqueras" />
+      <edge id="481" source="jm_clavero" target="junqueras" />
+      <edge id="482" source="SerraJaume" target="junqueras" />
+      <edge id="483" source="afuguet" target="junqueras" />
+      <edge id="484" source="elsuplement" target="junqueras" />
+      <edge id="485" source="JanneRiitakorpi" target="junqueras" />
+      <edge id="486" source="iescolar" target="junqueras" />
+      <edge id="487" source="SomEnergia" target="junqueras" />
+      <edge id="488" source="susmartis" target="junqueras" />
+      <edge id="489" source="wagensberg" target="junqueras" />
+      <edge id="490" source="SergiSoliBros" target="junqueras" />
+      <edge id="491" source="mdolors" target="junqueras" />
+      <edge id="492" source="josepm_medina" target="junqueras" />
+      <edge id="493" source="oriolsagrera" target="junqueras" />
+      <edge id="494" source="EliBorreda" target="junqueras" />
+      <edge id="495" source="AnnaFiguera" target="junqueras" />
+      <edge id="496" source="herrerajoan" target="junqueras" />
+      <edge id="497" source="helenaRac1" target="junqueras" />
+      <edge id="498" source="elpatidescobert" target="junqueras" />
+      <edge id="499" source="NewsNeus" target="junqueras" />
+      <edge id="500" source="aguileramaite" target="junqueras" />
+      <edge id="501" source="martavilaltat" target="junqueras" />
+      <edge id="502" source="adamdeosdad" target="junqueras" />
+      <edge id="503" source="elconvidatTV3" target="junqueras" />
+      <edge id="504" source="JordiBianciotto" target="junqueras" />
+      <edge id="505" source="SoniaDomenech1" target="junqueras" />
+      <edge id="506" source="mireiapellicer" target="junqueras" />
+      <edge id="507" source="DcaValle" target="junqueras" />
+      <edge id="508" source="sergipino" target="junqueras" />
+      <edge id="509" source="MacacoMusic" target="junqueras" />
+      <edge id="510" source="ferranet2" target="junqueras" />
+      <edge id="511" source="francescabad" target="junqueras" />
+      <edge id="512" source="LaNitA8tv" target="junqueras" />
+      <edge id="513" source="Fantassin" target="junqueras" />
+      <edge id="514" source="oriolamat" target="junqueras" />
+      <edge id="515" source="marcpuigperez" target="junqueras" />
+      <edge id="516" source="susanaenrich" target="junqueras" />
+      <edge id="517" source="AnnaSantG" target="junqueras" />
+      <edge id="518" source="ernestcodina" target="junqueras" />
+      <edge id="519" source="jofrellombart" target="junqueras" />
+      <edge id="520" source="BassaMontse" target="junqueras" />
+      <edge id="521" source="ferransoriano" target="junqueras" />
+      <edge id="522" source="alexmiquel" target="junqueras" />
+      <edge id="523" source="mossos" target="junqueras" />
+      <edge id="524" source="LleirDaban" target="junqueras" />
+      <edge id="525" source="Autenticscat" target="junqueras" />
+      <edge id="526" source="lluisbou" target="junqueras" />
+      <edge id="527" source="SimonManleyFCO" target="junqueras" />
+      <edge id="528" source="ccoocatalunya" target="junqueras" />
+      <edge id="529" source="MarcCandela" target="junqueras" />
+      <edge id="530" source="serracasals" target="junqueras" />
+      <edge id="531" source="TaxistesIndepes" target="junqueras" />
+      <edge id="532" source="carlesmartinezq" target="junqueras" />
+      <edge id="533" source="fdomiri" target="junqueras" />
+      <edge id="534" source="riki_kampru" target="junqueras" />
+      <edge id="535" source="llfoix" target="junqueras" />
+      <edge id="536" source="iuforn" target="junqueras" />
+      <edge id="537" source="HistoriaEnFotos" target="junqueras" />
+      <edge id="538" source="josericov" target="junqueras" />
+      <edge id="539" source="gemmaclarisso" target="junqueras" />
+      <edge id="540" source="finaroig" target="junqueras" />
+      <edge id="541" source="adriabofill" target="junqueras" />
+      <edge id="542" source="Enric_Hernandez" target="junqueras" />
+      <edge id="543" source="BarackObama" target="junqueras" />
+      <edge id="544" source="fperezlara" target="junqueras" />
+      <edge id="545" source="jordibaste" target="junqueras" />
+      <edge id="546" source="BartomeuA" target="junqueras" />
+      <edge id="547" source="aramateix" target="junqueras" />
+      <edge id="548" source="arnaucasadevall" target="junqueras" />
+      <edge id="549" source="lombarte84" target="junqueras" />
+      <edge id="550" source="MireiaMarti" target="junqueras" />
+      <edge id="551" source="KMSxlaLLIBERTAT" target="junqueras" />
+      <edge id="552" source="_Sara_Gonzalez_" target="junqueras" />
+      <edge id="553" source="MrOlivet" target="junqueras" />
+      <edge id="554" source="Carlos_Latre" target="junqueras" />
+      <edge id="555" source="setzejutges" target="junqueras" />
+      <edge id="556" source="radioteletaxi" target="junqueras" />
+      <edge id="557" source="sumate_asoc" target="junqueras" />
+      <edge id="558" source="blligadas" target="junqueras" />
+      <edge id="559" source="emergenciesSVH" target="junqueras" />
+      <edge id="560" source="Taula3sector" target="junqueras" />
+      <edge id="561" source="cbassaganya" target="junqueras" />
+      <edge id="562" source="miestrado" target="junqueras" />
+      <edge id="563" source="xaviertrias" target="junqueras" />
+      <edge id="564" source="xarnegosperlain" target="junqueras" />
+      <edge id="565" source="Miquel_Pueyo" target="junqueras" />
+      <edge id="566" source="paupresas" target="junqueras" />
+      <edge id="567" source="davidPdM2015" target="junqueras" />
+      <edge id="568" source="nytimes" target="junqueras" />
+      <edge id="569" source="tbigorra" target="junqueras" />
+      <edge id="570" source="somhicat" target="junqueras" />
+      <edge id="571" source="fernandezdeu" target="junqueras" />
+      <edge id="572" source="NOSTRESINYO" target="junqueras" />
+      <edge id="573" source="quimforn" target="junqueras" />
+      <edge id="574" source="rapitenc1" target="junqueras" />
+      <edge id="575" source="AlexSalmond" target="junqueras" />
+      <edge id="576" source="julidejdarmuoz" target="junqueras" />
+      <edge id="577" source="djkram" target="junqueras" />
+      <edge id="578" source="OriolAmoros" target="junqueras" />
+      <edge id="579" source="CarlesCuerva" target="junqueras" />
+      <edge id="580" source="theSNP" target="junqueras" />
+      <edge id="581" source="lluisgavalda" target="junqueras" />
+      <edge id="582" source="Mati4Bandes_Rne" target="junqueras" />
+      <edge id="583" source="ainaclotet" target="junqueras" />
+      <edge id="584" source="InesArrimadas" target="junqueras" />
+      <edge id="585" source="TVAnimalista" target="junqueras" />
+      <edge id="586" source="albert_om11" target="junqueras" />
+      <edge id="587" source="raulpresseguer" target="junqueras" />
+      <edge id="588" source="QuimMasferrer" target="junqueras" />
+      <edge id="589" source="Pablo_Iglesias_" target="junqueras" />
+      <edge id="590" source="tonaymemi" target="junqueras" />
+      <edge id="591" source="laura_rc" target="junqueras" />
+      <edge id="592" source="lobbyLEXPRESS" target="junqueras" />
+      <edge id="593" source="silviofalcon" target="junqueras" />
+      <edge id="594" source="polgoide" target="junqueras" />
+      <edge id="595" source="edugonzalez_" target="junqueras" />
+      <edge id="596" source="estopaoficial" target="junqueras" />
+      <edge id="597" source="JordiLon" target="junqueras" />
+      <edge id="598" source="EugeniaParejo" target="junqueras" />
+      <edge id="599" source="villacampa8" target="junqueras" />
+      <edge id="600" source="tv3cat" target="junqueras" />
+      <edge id="601" source="CarodRoviraJLl" target="junqueras" />
+      <edge id="602" source="abarnadas" target="junqueras" />
+      <edge id="603" source="AlbertVico" target="junqueras" />
+      <edge id="604" source="FHenriques" target="junqueras" />
+      <edge id="605" source="mireiamsolsona" target="junqueras" />
+      <edge id="606" source="anamirandapaz" target="junqueras" />
+      <edge id="607" source="JaviSilvaP" target="junqueras" />
+      <edge id="608" source="carlesgaldon" target="junqueras" />
+      <edge id="609" source="PabloZalba" target="junqueras" />
+      <edge id="610" source="mariusserra" target="junqueras" />
+      <edge id="611" source="monicamorros" target="junqueras" />
+      <edge id="612" source="astridalemany" target="junqueras" />
+      <edge id="613" source="lavallri" target="junqueras" />
+      <edge id="614" source="GabiMartnez" target="junqueras" />
+      <edge id="615" source="wattia_innova" target="junqueras" />
+      <edge id="616" source="andreufrancisco" target="junqueras" />
+      <edge id="617" source="AlexGutierrezM" target="junqueras" />
+      <edge id="618" source="ercsvh" target="junqueras" />
+      <edge id="619" source="helenamoline" target="junqueras" />
+      <edge id="620" source="EmpleoUGTMadrid" target="junqueras" />
+      <edge id="621" source="ugtcatalunya" target="junqueras" />
+      <edge id="622" source="Ignasiara" target="junqueras" />
+      <edge id="623" source="jordinamtnz" target="junqueras" />
+      <edge id="624" source="joan90plana" target="junqueras" />
+      <edge id="625" source="MarcaCiutat" target="junqueras" />
+      <edge id="626" source="CreusJordi" target="junqueras" />
+      <edge id="627" source="lolamsala" target="junqueras" />
+      <edge id="628" source="maneresdeviure" target="junqueras" />
+      <edge id="629" source="TwitterVideo" target="junqueras" />
+      <edge id="630" source="jmsardo" target="junqueras" />
+      <edge id="631" source="jmperdigo" target="junqueras" />
+      <edge id="632" source="raulmiguelezcan" target="junqueras" />
+      <edge id="633" source="AidaGascon" target="junqueras" />
+      <edge id="634" source="junquibus" target="junqueras" />
+      <edge id="635" source="iec" target="junqueras" />
+      <edge id="636" source="erichpunti" target="junqueras" />
+      <edge id="637" source="AGE_Comunicacio" target="junqueras" />
+      <edge id="638" source="corriereny" target="junqueras" />
+      <edge id="639" source="ramon_sole" target="junqueras" />
+      <edge id="640" source="lolagarciagar" target="junqueras" />
+      <edge id="641" source="Edward_hugh" target="junqueras" />
+      <edge id="642" source="polmor96" target="junqueras" />
+      <edge id="643" source="TeresaJorda" target="junqueras" />
+      <edge id="644" source="jsando70" target="junqueras" />
+      <edge id="645" source="disseny_web" target="junqueras" />
+      <edge id="646" source="Gironanoticies" target="junqueras" />
+      <edge id="647" source="jaume__mas" target="junqueras" />
+      <edge id="648" source="bisbeTaltavull" target="junqueras" />
+      <edge id="649" source="CatalanData" target="junqueras" />
+      <edge id="650" source="Dia_Como_Hoy" target="junqueras" />
+      <edge id="651" source="JoanRCP" target="junqueras" />
+      <edge id="652" source="eligirona" target="junqueras" />
+      <edge id="653" source="marphille" target="junqueras" />
+      <edge id="654" source="nuriaclotet" target="junqueras" />
+      <edge id="655" source="joanmiretm" target="junqueras" />
+      <edge id="656" source="JoanLaportaFCB" target="junqueras" />
+      <edge id="657" source="paulajarrin" target="junqueras" />
+      <edge id="658" source="CCatalaNegocis" target="junqueras" />
+      <edge id="659" source="ElisendaPerez" target="junqueras" />
+      <edge id="660" source="RamonCarner" target="junqueras" />
+      <edge id="661" source="amazingmap" target="junqueras" />
+      <edge id="662" source="Palomas_Alejand" target="junqueras" />
+      <edge id="663" source="ramon_pellicer" target="junqueras" />
+      <edge id="664" source="gerardquintana" target="junqueras" />
+      <edge id="665" source="joanaortega" target="junqueras" />
+      <edge id="666" source="fabianmohedano" target="junqueras" />
+      <edge id="667" source="trodriguezpujol" target="junqueras" />
+      <edge id="668" source="edans" target="junqueras" />
+      <edge id="669" source="joanfoguet" target="junqueras" />
+      <edge id="670" source="mariallado" target="junqueras" />
+      <edge id="671" source="raquelmateos" target="junqueras" />
+      <edge id="672" source="JosepGraupera" target="junqueras" />
+      <edge id="673" source="joanguirado" target="junqueras" />
+      <edge id="674" source="salvatoredvita" target="junqueras" />
+      <edge id="675" source="OriolPanades" target="junqueras" />
+      <edge id="676" source="rosaliavt" target="junqueras" />
+      <edge id="677" source="EU_Commission" target="junqueras" />
+      <edge id="678" source="omnium" target="junqueras" />
+      <edge id="679" source="joanm63" target="junqueras" />
+      <edge id="680" source="AnnaMuroR" target="junqueras" />
+      <edge id="681" source="Sergimas" target="junqueras" />
+      <edge id="682" source="TheEuros" target="junqueras" />
+      <edge id="683" source="AlvarLlobet" target="junqueras" />
+      <edge id="684" source="aribassols" target="junqueras" />
+      <edge id="685" source="elspetsoficial" target="junqueras" />
+      <edge id="686" source="socialistes_cat" target="junqueras" />
+      <edge id="687" source="cnnbrk" target="junqueras" />
+      <edge id="688" source="MaiteAymerich" target="junqueras" />
+      <edge id="689" source="RaquelSansDuran" target="junqueras" />
+      <edge id="690" source="OriMarch" target="junqueras" />
+      <edge id="691" source="jorgebenaiges" target="junqueras" />
+      <edge id="692" source="MonicaSabata" target="junqueras" />
+      <edge id="693" source="acampadajove" target="junqueras" />
+      <edge id="694" source="murielcasals" target="junqueras" />
+      <edge id="695" source="davidheras" target="junqueras" />
+      <edge id="696" source="MiquelMacia" target="junqueras" />
+      <edge id="697" source="JFabregaColomer" target="junqueras" />
+      <edge id="698" source="MainatJM" target="junqueras" />
+      <edge id="699" source="esAdir" target="junqueras" />
+      <edge id="700" source="JB_ComManager" target="junqueras" />
+      <edge id="701" source="eurovote" target="junqueras" />
+      <edge id="702" source="montse__garcia" target="junqueras" />
+      <edge id="703" source="lluisbrunet" target="junqueras" />
+      <edge id="704" source="eBermejo" target="junqueras" />
+      <edge id="705" source="rogermelcior" target="junqueras" />
+      <edge id="706" source="cescpoch" target="junqueras" />
+      <edge id="707" source="SitaSP" target="junqueras" />
+      <edge id="708" source="SalvaMolina_COM" target="junqueras" />
+      <edge id="709" source="twanoniem_bot" target="junqueras" />
+      <edge id="710" source="carlasignorile" target="junqueras" />
+      <edge id="711" source="gebelque" target="junqueras" />
+      <edge id="712" source="JunckerEU" target="junqueras" />
+      <edge id="713" source="toni_comin" target="junqueras" />
+      <edge id="714" source="guardian" target="junqueras" />
+      <edge id="715" source="jordimolinera" target="junqueras" />
+      <edge id="716" source="RogerPala" target="junqueras" />
+      <edge id="717" source="ChakirelHomrani" target="junqueras" />
+      <edge id="718" source="CamiBonsHomes" target="junqueras" />
+      <edge id="719" source="angelsmcastells" target="junqueras" />
+      <edge id="720" source="mercellopis" target="junqueras" />
+      <edge id="721" source="ERCbcn" target="junqueras" />
+      <edge id="722" source="francesccanosa" target="junqueras" />
+      <edge id="723" source="ERC_economia" target="junqueras" />
+      <edge id="724" source="naxei" target="junqueras" />
+      <edge id="725" source="elsmatins" target="junqueras" />
+      <edge id="726" source="alvaromillan" target="junqueras" />
+      <edge id="727" source="JordiEroles" target="junqueras" />
+      <edge id="728" source="isaacalbert" target="junqueras" />
+      <edge id="729" source="ambfilosofia" target="junqueras" />
+      <edge id="730" source="csolaniubo" target="junqueras" />
+      <edge id="731" source="Renovat" target="junqueras" />
+      <edge id="732" source="IndEnCastellano" target="junqueras" />
+      <edge id="733" source="JordiBartomeus" target="junqueras" />
+      <edge id="734" source="PacoRodriguez66" target="junqueras" />
+      <edge id="735" source="PujolJaume" target="junqueras" />
+      <edge id="736" source="soniola" target="junqueras" />
+      <edge id="737" source="julia_otero" target="junqueras" />
+      <edge id="738" source="CorbachoLH" target="junqueras" />
+      <edge id="739" source="MontserratOlive" target="junqueras" />
+      <edge id="740" source="JoanTarda" target="junqueras" />
+      <edge id="741" source="FrancescCano" target="junqueras" />
+      <edge id="742" source="BerraondoXavi" target="junqueras" />
+      <edge id="743" source="popArb" target="junqueras" />
+      <edge id="744" source="clara_segura" target="junqueras" />
+      <edge id="745" source="GrupManel" target="junqueras" />
+      <edge id="746" source="Txellricart" target="junqueras" />
+      <edge id="747" source="eloybcn74" target="junqueras" />
+      <edge id="748" source="pacomarhuenda" target="junqueras" />
+      <edge id="749" source="msanglas" target="junqueras" />
+      <edge id="750" source="NousIndependent" target="junqueras" />
+      <edge id="751" source="MoritzBarcelona" target="junqueras" />
+      <edge id="752" source="Davizgonrub" target="junqueras" />
+      <edge id="753" source="sergimarcen" target="junqueras" />
+      <edge id="754" source="fricandomatiner" target="junqueras" />
+      <edge id="755" source="joanignasielena" target="junqueras" />
+      <edge id="756" source="fonamental" target="junqueras" />
+      <edge id="757" source="oscarperis" target="junqueras" />
+      <edge id="758" source="danigimenu" target="junqueras" />
+      <edge id="759" source="rbarres" target="junqueras" />
+      <edge id="760" source="cferrerp" target="junqueras" />
+      <edge id="761" source="ClipsterBCN" target="junqueras" />
+      <edge id="762" source="lamarta" target="junqueras" />
+      <edge id="763" source="alexsalmonbcn" target="junqueras" />
+      <edge id="764" source="ariserrallonga" target="junqueras" />
+      <edge id="765" source="fleishmanEU" target="junqueras" />
+      <edge id="766" source="asier_gomez" target="junqueras" />
+      <edge id="767" source="paulkrugman" target="junqueras" />
+      <edge id="768" source="AnimaNaturalis" target="junqueras" />
+      <edge id="769" source="lluissoler" target="junqueras" />
+      <edge id="770" source="didacperez" target="junqueras" />
+      <edge id="771" source="marcmenchen" target="junqueras" />
+      <edge id="772" source="albertitu" target="junqueras" />
+      <edge id="773" source="narcispresas" target="junqueras" />
+      <edge id="774" source="NuriaVentura" target="junqueras" />
+      <edge id="775" source="EnricJuliana" target="junqueras" />
+      <edge id="776" source="pere_navarro" target="junqueras" />
+      <edge id="777" source="caroltelechea" target="junqueras" />
+      <edge id="778" source="joanqs" target="junqueras" />
+      <edge id="779" source="CalpenaEnric" target="junqueras" />
+      <edge id="780" source="Mingogg" target="junqueras" />
+      <edge id="781" source="concurscastells" target="junqueras" />
+      <edge id="782" source="SalvadorMestre" target="junqueras" />
+      <edge id="783" source="GemmaUrgell" target="junqueras" />
+      <edge id="784" source="Xavier_Pujol" target="junqueras" />
+      <edge id="785" source="TianRiba" target="junqueras" />
+      <edge id="786" source="dolorscamats" target="junqueras" />
+      <edge id="787" source="elDebat_La1" target="junqueras" />
+      <edge id="788" source="pensadlo" target="junqueras" />
+      <edge id="789" source="economistescat" target="junqueras" />
+      <edge id="790" source="jesusferre" target="junqueras" />
+      <edge id="791" source="PetrolisIndep" target="junqueras" />
+      <edge id="792" source="pvallesc" target="junqueras" />
+      <edge id="793" source="ABalletbo" target="junqueras" />
+      <edge id="794" source="Quel_Esteve" target="junqueras" />
+      <edge id="795" source="aviodepaper1" target="junqueras" />
+      <edge id="796" source="Jordidelrio" target="junqueras" />
+      <edge id="797" source="SantiBalmesSoy" target="junqueras" />
+      <edge id="798" source="27etmoi" target="junqueras" />
+      <edge id="799" source="Pontifex" target="junqueras" />
+      <edge id="800" source="tongercore" target="junqueras" />
+      <edge id="801" source="ehbildu" target="junqueras" />
+      <edge id="802" source="lizcastro" target="junqueras" />
+      <edge id="803" source="gothalo" target="junqueras" />
+      <edge id="804" source="jordibarbeta" target="junqueras" />
+      <edge id="805" source="gabrielrufian" target="junqueras" />
+      <edge id="806" source="Fleck75" target="junqueras" />
+      <edge id="807" source="mimacost" target="junqueras" />
+      <edge id="808" source="Orgalime" target="junqueras" />
+      <edge id="809" source="elprogramadear" target="junqueras" />
+      <edge id="810" source="antonibassas" target="junqueras" />
+      <edge id="811" source="Cesk86" target="junqueras" />
+      <edge id="812" source="montseolivav" target="junqueras" />
+      <edge id="813" source="albaverges" target="junqueras" />
+      <edge id="814" source="npini" target="junqueras" />
+      <edge id="815" source="albertdones" target="junqueras" />
+      <edge id="816" source="l_hemicicle" target="junqueras" />
+      <edge id="817" source="BillGates" target="junqueras" />
+      <edge id="818" source="betvallcorba" target="junqueras" />
+      <edge id="819" source="xaviroger" target="junqueras" />
+      <edge id="820" source="ERC_la_Roca" target="junqueras" />
+      <edge id="821" source="miquelmiralles" target="junqueras" />
+      <edge id="822" source="peresabat" target="junqueras" />
+      <edge id="823" source="laurapelay" target="junqueras" />
+      <edge id="824" source="miPujol" target="junqueras" />
+      <edge id="825" source="ERC_CanetdeMar" target="junqueras" />
+      <edge id="826" source="davidberga" target="junqueras" />
+      <edge id="827" source="Act_on_Acta" target="junqueras" />
+      <edge id="828" source="silvia_alri" target="junqueras" />
+      <edge id="829" source="NanduJubany" target="junqueras" />
+      <edge id="830" source="elopezdomenech" target="junqueras" />
+      <edge id="831" source="elperiodico_cat" target="junqueras" />
+      <edge id="832" source="congres_tic" target="junqueras" />
+      <edge id="833" source="pereculell" target="junqueras" />
+      <edge id="834" source="arnaumatadc" target="junqueras" />
+      <edge id="835" source="CTecno" target="junqueras" />
+      <edge id="836" source="isaacperaire" target="junqueras" />
+      <edge id="837" source="PauVilassar" target="junqueras" />
+      <edge id="838" source="SSantiagosegura" target="junqueras" />
+      <edge id="839" source="CatalunyaRadio" target="junqueras" />
+      <edge id="840" source="sanchezcastejon" target="junqueras" />
+      <edge id="841" source="OscarAndreu" target="junqueras" />
+      <edge id="842" source="EA3RKR" target="junqueras" />
+      <edge id="843" source="philmusical" target="junqueras" />
+      <edge id="844" source="ramontm" target="junqueras" />
+      <edge id="845" source="Verushkamixina" target="junqueras" />
+      <edge id="846" source="RocioCarmonaF" target="junqueras" />
+      <edge id="847" source="bomberscat" target="junqueras" />
+      <edge id="848" source="pzf" target="junqueras" />
+      <edge id="849" source="xavipat" target="junqueras" />
+      <edge id="850" source="Ricardmartinezm" target="junqueras" />
+      <edge id="851" source="rogersv" target="junqueras" />
+      <edge id="852" source="bernatpicornell" target="junqueras" />
+      <edge id="853" source="verified" target="junqueras" />
+      <edge id="854" source="jlcleries" target="junqueras" />
+      <edge id="855" source="1714tv" target="junqueras" />
+      <edge id="856" source="bpedeval" target="junqueras" />
+      <edge id="857" source="jordicabre" target="junqueras" />
+      <edge id="858" source="ariadnaoltra" target="junqueras" />
+      <edge id="859" source="maldekstra" target="junqueras" />
+      <edge id="860" source="Rogerbuch" target="junqueras" />
+      <edge id="861" source="jpuigcorbe" target="junqueras" />
+      <edge id="862" source="dani_pernas" target="junqueras" />
+      <edge id="863" source="perearagones" target="junqueras" />
+      <edge id="864" source="AlexFenoll" target="junqueras" />
+      <edge id="865" source="agenciaacn" target="junqueras" />
+      <edge id="866" source="albertjunca" target="junqueras" />
+      <edge id="867" source="grecfestivalbcn" target="junqueras" />
+      <edge id="868" source="janquim" target="junqueras" />
+      <edge id="869" source="avilagrann" target="junqueras" />
+      <edge id="870" source="NewEconomyForum" target="junqueras" />
+      <edge id="871" source="ignasitort" target="junqueras" />
+      <edge id="872" source="enoticiescat" target="junqueras" />
+      <edge id="873" source="enderrock" target="junqueras" />
+      <edge id="874" source="AlfredBosch" target="junqueras" />
+      <edge id="875" source="Odtor" target="junqueras" />
+      <edge id="876" source="CescOliva" target="junqueras" />
+      <edge id="877" source="jrosell" target="junqueras" />
+      <edge id="878" source="lancel_cat" target="junqueras" />
+      <edge id="879" source="Rogergrimau" target="junqueras" />
+      <edge id="880" source="jorqueracaselas" target="junqueras" />
+      <edge id="881" source="SergiTarres" target="junqueras" />
+      <edge id="882" source="davidcompanyon" target="junqueras" />
+      <edge id="883" source="capsigranya" target="junqueras" />
+      <edge id="884" source="MiquelAD" target="junqueras" />
+      <edge id="885" source="ACDretsCivils" target="junqueras" />
+      <edge id="886" source="monri02" target="junqueras" />
+      <edge id="887" source="MD_Navarro" target="junqueras" />
+      <edge id="888" source="gallaguer" target="junqueras" />
+      <edge id="889" source="xevigenero" target="junqueras" />
+      <edge id="890" source="specvlvm" target="junqueras" />
+      <edge id="891" source="montserratcarul" target="junqueras" />
+      <edge id="892" source="salvadorcardus" target="junqueras" />
+      <edge id="893" source="c_oriach" target="junqueras" />
+      <edge id="894" source="ictlogist" target="junqueras" />
+      <edge id="895" source="jordicrisol" target="junqueras" />
+      <edge id="896" source="ristomejide" target="junqueras" />
+      <edge id="897" source="MartinSchulz" target="junqueras" />
+      <edge id="898" source="rispau" target="junqueras" />
+      <edge id="899" source="FLGFamiliesLGTB" target="junqueras" />
+      <edge id="900" source="CaixaEnginyers" target="junqueras" />
+      <edge id="901" source="marcargemi" target="junqueras" />
+      <edge id="902" source="jcsanglas" target="junqueras" />
+      <edge id="903" source="BibianaBallbe" target="junqueras" />
+      <edge id="904" source="Parlimag" target="junqueras" />
+      <edge id="905" source="Twitpuntcat" target="junqueras" />
+      <edge id="906" source="HistoryInPics" target="junqueras" />
+      <edge id="907" source="EstimoCatalunya" target="junqueras" />
+      <edge id="908" source="cristian_agudo" target="junqueras" />
+      <edge id="909" source="SeleccionsCAT" target="junqueras" />
+      <edge id="910" source="montsepalau" target="junqueras" />
+      <edge id="911" source="poloniatv3" target="junqueras" />
+      <edge id="912" source="anioliver" target="junqueras" />
+      <edge id="913" source="ebenach" target="junqueras" />
+      <edge id="914" source="AIReF_es" target="junqueras" />
+      <edge id="915" source="alazrac" target="junqueras" />
+      <edge id="916" source="silviamartinez" target="junqueras" />
+      <edge id="917" source="leixcuberes" target="junqueras" />
+      <edge id="918" source="racocatala" target="junqueras" />
+      <edge id="919" source="Cesc537" target="junqueras" />
+      <edge id="920" source="protascat" target="junqueras" />
+      <edge id="921" source="Verds" target="junqueras" />
+      <edge id="922" source="HiginiaRoig" target="junqueras" />
+      <edge id="923" source="toniaira" target="junqueras" />
+      <edge id="924" source="Ferrancm" target="junqueras" />
+      <edge id="925" source="365d365e" target="junqueras" />
+      <edge id="926" source="jfg1978" target="junqueras" />
+      <edge id="927" source="marcelivirgili" target="junqueras" />
+      <edge id="928" source="antoniobanos_" target="junqueras" />
+      <edge id="929" source="Villasfg" target="junqueras" />
+      <edge id="930" source="SIAmetlla" target="junqueras" />
+      <edge id="931" source="emparmoliner" target="junqueras" />
+      <edge id="932" source="el_candidat" target="junqueras" />
+      <edge id="933" source="maiolroger" target="junqueras" />
+      <edge id="934" source="ERCViladecans" target="junqueras" />
+      <edge id="935" source="jordims93" target="junqueras" />
+      <edge id="936" source="EnricRimbau" target="junqueras" />
+      <edge id="937" source="kirk_n_mccoy" target="junqueras" />
+      <edge id="938" source="mirodavid" target="junqueras" />
+      <edge id="939" source="treballcat" target="junqueras" />
+      <edge id="940" source="joseprodrigo" target="junqueras" />
+      <edge id="941" source="albertmulero" target="junqueras" />
+      <edge id="942" source="francescsoler" target="junqueras" />
+      <edge id="943" source="marta_all" target="junqueras" />
+      <edge id="944" source="BornCC" target="junqueras" />
+      <edge id="945" source="capdevilajoan" target="junqueras" />
+      <edge id="946" source="OneEyeOpen" target="junqueras" />
+      <edge id="947" source="rogermilego" target="junqueras" />
+      <edge id="948" source="sarahmorriseuro" target="junqueras" />
+      <edge id="949" source="ealkartasuna" target="junqueras" />
+      <edge id="950" source="davidminoves" target="junqueras" />
+      <edge id="951" source="pauricoma" target="junqueras" />
+      <edge id="952" source="gbonaventura" target="junqueras" />
+      <edge id="953" source="martarovira" target="junqueras" />
+      <edge id="954" source="carme_capdevila" target="junqueras" />
+      <edge id="955" source="jorditurull" target="junqueras" />
+      <edge id="956" source="HandbolStVicenc" target="junqueras" />
+      <edge id="957" source="JosepMUreta" target="junqueras" />
+      <edge id="958" source="RicRuizGarzon" target="junqueras" />
+      <edge id="959" source="alexdauden" target="junqueras" />
+      <edge id="960" source="DannyRichman" target="junqueras" />
+      <edge id="961" source="peremarticolom" target="junqueras" />
+      <edge id="962" source="pia_bosch" target="junqueras" />
+      <edge id="963" source="llasjordi" target="junqueras" />
+      <edge id="964" source="EduPiera" target="junqueras" />
+      <edge id="965" source="Dionis7vetes" target="junqueras" />
+      <edge id="966" source="LoJoan" target="junqueras" />
+      <edge id="967" source="EU_MED" target="junqueras" />
+      <edge id="968" source="josepmadalmau" target="junqueras" />
+      <edge id="969" source="Puig_Albert" target="junqueras" />
+      <edge id="970" source="exteriorscat" target="junqueras" />
+      <edge id="971" source="lopesita" target="junqueras" />
+      <edge id="972" source="neustomas" target="junqueras" />
+      <edge id="973" source="xavisarria" target="junqueras" />
+      <edge id="974" source="marzoar" target="junqueras" />
+      <edge id="975" source="vnutchkoff" target="junqueras" />
+      <edge id="976" source="jandreud" target="junqueras" />
+      <edge id="977" source="Xixella" target="junqueras" />
+      <edge id="978" source="ilugonzalez" target="junqueras" />
+      <edge id="979" source="JoanMarin" target="junqueras" />
+      <edge id="980" source="valex_cat" target="junqueras" />
+      <edge id="981" source="josu_sallent" target="junqueras" />
+      <edge id="982" source="botigallibertat" target="junqueras" />
+      <edge id="983" source="sbagudanch" target="junqueras" />
+      <edge id="984" source="rbesac" target="junqueras" />
+      <edge id="985" source="Buenafuente" target="junqueras" />
+      <edge id="986" source="miriamhatibi" target="junqueras" />
+      <edge id="987" source="casesmartin" target="junqueras" />
+      <edge id="988" source="bbt016" target="junqueras" />
+      <edge id="989" source="xaviflorensa" target="junqueras" />
+      <edge id="990" source="albertpons3" target="junqueras" />
+      <edge id="991" source="bernatff" target="junqueras" />
+      <edge id="992" source="AlynSmith" target="junqueras" />
+      <edge id="993" source="EconBizFin" target="junqueras" />
+      <edge id="994" source="daniel1714" target="junqueras" />
+      <edge id="995" source="rossierra" target="junqueras" />
+      <edge id="996" source="gerardcoca" target="junqueras" />
+      <edge id="997" source="vicepresicat" target="junqueras" />
+      <edge id="998" source="bielbarcelo" target="junqueras" />
+      <edge id="999" source="gerardgomezf" target="junqueras" />
+      <edge id="1000" source="catalunyaopina" target="junqueras" />
+      <edge id="1001" source="FeliuVentura" target="junqueras" />
+      <edge id="1002" source="jordiborda" target="junqueras" />
+      <edge id="1003" source="sergifigueres" target="junqueras" />
+      <edge id="1004" source="rcampanera" target="junqueras" />
+      <edge id="1005" source="perezesquerdo" target="junqueras" />
+      <edge id="1006" source="Habla_Ingles" target="junqueras" />
+      <edge id="1007" source="montserrat_tura" target="junqueras" />
+      <edge id="1008" source="boixserra" target="junqueras" />
+      <edge id="1009" source="epaluzie" target="junqueras" />
+      <edge id="1010" source="eduardvoltas" target="junqueras" />
+      <edge id="1011" source="masdeu24" target="junqueras" />
+      <edge id="1012" source="david_bassa" target="junqueras" />
+      <edge id="1013" source="ERCPalafolls" target="junqueras" />
+      <edge id="1014" source="marett" target="junqueras" />
+      <edge id="1015" source="montseforcadell" target="junqueras" />
+      <edge id="1016" source="jordiporta" target="junqueras" />
+      <edge id="1017" source="ggeorgginacc" target="junqueras" />
+      <edge id="1018" source="jordifinestres" target="junqueras" />
+      <edge id="1019" source="XAVIERMORENO" target="junqueras" />
+      <edge id="1020" source="AnnaSimo" target="junqueras" />
+      <edge id="1021" source="Eloi_Alcaide" target="junqueras" />
+      <edge id="1022" source="PrufiJaume" target="junqueras" />
+      <edge id="1023" source="Cris_Puig" target="junqueras" />
+      <edge id="1024" source="robertfabregat" target="junqueras" />
+      <edge id="1025" source="CarmendelRiego" target="junqueras" />
+      <edge id="1026" source="Pumocat" target="junqueras" />
+      <edge id="1027" source="formenteril" target="junqueras" />
+      <edge id="1028" source="ganyet" target="junqueras" />
+      <edge id="1029" source="erc_obonesvalls" target="junqueras" />
+      <edge id="1030" source="Arcadi42" target="junqueras" />
+      <edge id="1031" source="ravigrau" target="junqueras" />
+      <edge id="1032" source="mancalero1" target="junqueras" />
+      <edge id="1033" source="OlorizJoan" target="junqueras" />
+      <edge id="1034" source="RafaeldeRibot" target="junqueras" />
+      <edge id="1035" source="mfornells" target="junqueras" />
+      <edge id="1036" source="MarcelSinyol" target="junqueras" />
+      <edge id="1037" source="ProponAEuropa" target="junqueras" />
+      <edge id="1038" source="ChachoAlmaraz" target="junqueras" />
+      <edge id="1039" source="lenz_adam" target="junqueras" />
+      <edge id="1040" source="catalaneconomy" target="junqueras" />
+      <edge id="1041" source="Mangelferres" target="junqueras" />
+      <edge id="1042" source="joventBarcelona" target="junqueras" />
+      <edge id="1043" source="mmmatas" target="junqueras" />
+      <edge id="1044" source="EvaPiquer" target="junqueras" />
+      <edge id="1045" source="comunllum" target="junqueras" />
+      <edge id="1046" source="Eva_Gene" target="junqueras" />
+      <edge id="1047" source="sorluciacaram" target="junqueras" />
+      <edge id="1048" source="AgustiColomines" target="junqueras" />
+      <edge id="1049" source="illorente" target="junqueras" />
+      <edge id="1050" source="AgustiAlcoberro" target="junqueras" />
+      <edge id="1051" source="agustibenedito" target="junqueras" />
+      <edge id="1052" source="laurajuanola" target="junqueras" />
+      <edge id="1053" source="oriol_gt" target="junqueras" />
+      <edge id="1054" source="BetonaComin" target="junqueras" />
+      <edge id="1055" source="pereboschcuenca" target="junqueras" />
+      <edge id="1056" source="JosepBargallo" target="junqueras" />
+      <edge id="1057" source="usvolemacasa" target="junqueras" />
+      <edge id="1058" source="danicfo" target="junqueras" />
+      <edge id="1059" source="Drago_Capital" target="junqueras" />
+      <edge id="1060" source="sapienscat" target="junqueras" />
+      <edge id="1061" source="PereMas" target="junqueras" />
+      <edge id="1062" source="SalvadorSala" target="junqueras" />
+      <edge id="1063" source="MishimaBCN" target="junqueras" />
+      <edge id="1064" source="DavMa" target="junqueras" />
+      <edge id="1065" source="JESTEVETRIAS" target="junqueras" />
+      <edge id="1066" source="krlsprts" target="junqueras" />
+      <edge id="1067" source="washingtonpost" target="junqueras" />
+      <edge id="1068" source="BBCBreaking" target="junqueras" />
+      <edge id="1069" source="VivianeRedingEU" target="junqueras" />
+      <edge id="1070" source="estercapella" target="junqueras" />
+      <edge id="1071" source="ICTINEU3" target="junqueras" />
+      <edge id="1072" source="toniartero" target="junqueras" />
+      <edge id="1073" source="Mas_Enfurecido" target="junqueras" />
+      <edge id="1074" source="10Mil_CAT" target="junqueras" />
+      <edge id="1075" source="rosenfeld_anna" target="junqueras" />
+      <edge id="1076" source="Raulmuto" target="junqueras" />
+      <edge id="1077" source="luisdeval" target="junqueras" />
+      <edge id="1078" source="ceskfreixas" target="junqueras" />
+      <edge id="1079" source="gemmagaldon" target="junqueras" />
+      <edge id="1080" source="PepaBueno" target="junqueras" />
+      <edge id="1081" source="Sperezcruz" target="junqueras" />
+      <edge id="1082" source="prouespoli" target="junqueras" />
+      <edge id="1083" source="MIQUELLARA" target="junqueras" />
+      <edge id="1084" source="_anapastor_" target="junqueras" />
+      <edge id="1085" source="marcnoel2009" target="junqueras" />
+      <edge id="1086" source="sninobecerra" target="junqueras" />
+      <edge id="1087" source="JordiCorrons" target="junqueras" />
+      <edge id="1088" source="rechebloc" target="junqueras" />
+      <edge id="1089" source="KRLS" target="junqueras" />
+      <edge id="1090" source="vilapou" target="junqueras" />
+      <edge id="1091" source="historia_SXX" target="junqueras" />
+      <edge id="1092" source="SocCatLlib" target="junqueras" />
+      <edge id="1093" source="isabelruapires" target="junqueras" />
+      <edge id="1094" source="joanaroig07" target="junqueras" />
+      <edge id="1095" source="diariARA" target="junqueras" />
+      <edge id="1096" source="radiosvh902" target="junqueras" />
+      <edge id="1097" source="jaumellm" target="junqueras" />
+      <edge id="1098" source="junqueras" target="VilaWeb" />
+      <edge id="1099" source="junqueras" target="Idelgape" />
+      <edge id="1100" source="junqueras" target="cfbaez" />
+      <edge id="1101" source="junqueras" target="jordisolef" />
+      <edge id="1102" source="junqueras" target="eduardorepi" />
+      <edge id="1103" source="junqueras" target="paullonch" />
+      <edge id="1104" source="junqueras" target="AgustiBordas" />
+      <edge id="1105" source="junqueras" target="trinamilan" />
+      <edge id="1106" source="junqueras" target="SilviabelB" />
+      <edge id="1107" source="junqueras" target="TimeOutBCN" />
+      <edge id="1108" source="junqueras" target="Tomaperez" />
+      <edge id="1109" source="junqueras" target="bulmamaresme" />
+      <edge id="1110" source="junqueras" target="DavidPujolB" />
+      <edge id="1111" source="junqueras" target="xaviermir" />
+      <edge id="1112" source="junqueras" target="OlgaPalahi" />
+      <edge id="1113" source="junqueras" target="jordisalvia" />
+      <edge id="1114" source="junqueras" target="antonigarcia" />
+      <edge id="1115" source="junqueras" target="albertcuesta" />
+      <edge id="1116" source="junqueras" target="elnoiroig" />
+      <edge id="1117" source="junqueras" target="mnoguer" />
+      <edge id="1118" source="junqueras" target="MacarenaRG" />
+      <edge id="1119" source="junqueras" target="ManuGuix" />
+      <edge id="1120" source="junqueras" target="alexandrelopez" />
+      <edge id="1121" source="junqueras" target="SobiranistesCat" />
+      <edge id="1122" source="junqueras" target="vullunfestuc" />
+      <edge id="1123" source="junqueras" target="AlexisMariM" />
+      <edge id="1124" source="junqueras" target="BernatDedeu" />
+      <edge id="1125" source="junqueras" target="HotelPalmBeach" />
+      <edge id="1126" source="junqueras" target="adriaduarte87" />
+      <edge id="1127" source="junqueras" target="eu09twitlife" />
+      <edge id="1128" source="junqueras" target="MilagrosPrezOli" />
+      <edge id="1129" source="junqueras" target="Lobisome" />
+      <edge id="1130" source="junqueras" target="FrancescRibot" />
+      <edge id="1131" source="junqueras" target="frmiralles" />
+      <edge id="1132" source="junqueras" target="rogertugas" />
+      <edge id="1133" source="junqueras" target="marsebogo" />
+      <edge id="1134" source="junqueras" target="javiermolto" />
+      <edge id="1135" source="junqueras" target="DianaRibaGiner" />
+      <edge id="1136" source="junqueras" target="martanaval" />
+      <edge id="1137" source="junqueras" target="IndepCast" />
+      <edge id="1138" source="junqueras" target="NUET" />
+      <edge id="1139" source="junqueras" target="JonInarritu" />
+      <edge id="1140" source="junqueras" target="JuntsPelSi" />
+      <edge id="1141" source="junqueras" target="musicalpesto" />
+      <edge id="1142" source="junqueras" target="CNN" />
+      <edge id="1143" source="junqueras" target="espremulla" />
+      <edge id="1144" source="junqueras" target="Nmartinblanco" />
+      <edge id="1145" source="junqueras" target="sklares" />
+      <edge id="1146" source="junqueras" target="MiquelSVH" />
+      <edge id="1147" source="junqueras" target="ClubEscacsValls" />
+      <edge id="1148" source="junqueras" target="xgraset" />
+      <edge id="1149" source="junqueras" target="EFAparty" />
+      <edge id="1150" source="junqueras" target="norl" />
+      <edge id="1151" source="junqueras" target="GuillemRecolons" />
+      <edge id="1152" source="junqueras" target="rbert77" />
+      <edge id="1153" source="junqueras" target="holoturoideu" />
+      <edge id="1154" source="junqueras" target="albertprat" />
+      <edge id="1155" source="junqueras" target="SOMHITOTS" />
+      <edge id="1156" source="junqueras" target="JnnDiaz" />
+      <edge id="1157" source="junqueras" target="miquelcalcada" />
+      <edge id="1158" source="junqueras" target="ninagsabates" />
+      <edge id="1159" source="junqueras" target="andreu_morera" />
+      <edge id="1160" source="junqueras" target="Anna_Teixi" />
+      <edge id="1161" source="junqueras" target="amicsdelesarts" />
+      <edge id="1162" source="junqueras" target="jordiar" />
+      <edge id="1163" source="junqueras" target="tonialba" />
+      <edge id="1164" source="junqueras" target="TMarin1" />
+    </edges>
+  </graph>
+</gexf>

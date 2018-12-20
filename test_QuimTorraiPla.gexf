@@ -1,0 +1,1854 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>20/12/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="jrcasals" label="jrcasals" />
+      <node id="BelZaballa" label="BelZaballa" />
+      <node id="TeresaAmat" label="TeresaAmat" />
+      <node id="dmontserratnono" label="dmontserratnono" />
+      <node id="ferranmascarell" label="ferranmascarell" />
+      <node id="xmiserachs" label="xmiserachs" />
+      <node id="PujolBonell" label="PujolBonell" />
+      <node id="assemblea" label="assemblea" />
+      <node id="francescd" label="francescd" />
+      <node id="CatorzeCat" label="CatorzeCat" />
+      <node id="XSalaimartin" label="XSalaimartin" />
+      <node id="bjornbcn" label="bjornbcn" />
+      <node id="AquestFrederic" label="AquestFrederic" />
+      <node id="rac1" label="rac1" />
+      <node id="bibiloni" label="bibiloni" />
+      <node id="MartaMadrenas" label="MartaMadrenas" />
+      <node id="openDemocracy" label="openDemocracy" />
+      <node id="xavierginesta" label="xavierginesta" />
+      <node id="ptorra" label="ptorra" />
+      <node id="miquelcalcada" label="miquelcalcada" />
+      <node id="CollectiuEmma" label="CollectiuEmma" />
+      <node id="aclapesf" label="aclapesf" />
+      <node id="Pous" label="Pous" />
+      <node id="joan_matamala" label="joan_matamala" />
+      <node id="peronelladarago" label="peronelladarago" />
+      <node id="sendaque" label="sendaque" />
+      <node id="vatuadeu" label="vatuadeu" />
+      <node id="catalan_gov" label="catalan_gov" />
+      <node id="Esquerra_ERC" label="Esquerra_ERC" />
+      <node id="optimotcat" label="optimotcat" />
+      <node id="BorjaBagunya" label="BorjaBagunya" />
+      <node id="ElBornCCM" label="ElBornCCM" />
+      <node id="cddrcat" label="cddrcat" />
+      <node id="aleixsarri" label="aleixsarri" />
+      <node id="omnium" label="omnium" />
+      <node id="mariusserra" label="mariusserra" />
+      <node id="damiacalvet" label="damiacalvet" />
+      <node id="xpagest" label="xpagest" />
+      <node id="andersivera" label="andersivera" />
+      <node id="xaviquinquilla" label="xaviquinquilla" />
+      <node id="gerardgomezf" label="gerardgomezf" />
+      <node id="mllordes" label="mllordes" />
+      <node id="marinallansana" label="marinallansana" />
+      <node id="Josep_Trigo" label="Josep_Trigo" />
+      <node id="jovellado" label="jovellado" />
+      <node id="jbadia16" label="jbadia16" />
+      <node id="sergisabria" label="sergisabria" />
+      <node id="AamerAnwar" label="AamerAnwar" />
+      <node id="GenisSinca" label="GenisSinca" />
+      <node id="PepxSole" label="PepxSole" />
+      <node id="fundacioemys" label="fundacioemys" />
+      <node id="catmemoria" label="catmemoria" />
+      <node id="josepmaguirre" label="josepmaguirre" />
+      <node id="marsal_llimona" label="marsal_llimona" />
+      <node id="nicolastomas" label="nicolastomas" />
+      <node id="FreeJunqueras" label="FreeJunqueras" />
+      <node id="ArbatPau" label="ArbatPau" />
+      <node id="JosepMLozano" label="JosepMLozano" />
+      <node id="nadalrafel" label="nadalrafel" />
+      <node id="itramselas" label="itramselas" />
+      <node id="Cafesdepatr" label="Cafesdepatr" />
+      <node id="Tuit_And_Shout" label="Tuit_And_Shout" />
+      <node id="elmonarac1" label="elmonarac1" />
+      <node id="ilnar_acoustic" label="ilnar_acoustic" />
+      <node id="joseantich" label="joseantich" />
+      <node id="gcapdevila" label="gcapdevila" />
+      <node id="jordinopca" label="jordinopca" />
+      <node id="yeyaboya" label="yeyaboya" />
+      <node id="AlbertBenzekry" label="AlbertBenzekry" />
+      <node id="jorditortosac" label="jorditortosac" />
+      <node id="hospitabulis" label="hospitabulis" />
+      <node id="mnunesal" label="mnunesal" />
+      <node id="kpeiro" label="kpeiro" />
+      <node id="MemoriaCat" label="MemoriaCat" />
+      <node id="rogertorrent" label="rogertorrent" />
+      <node id="dolorsbassac" label="dolorsbassac" />
+      <node id="EmiManz" label="EmiManz" />
+      <node id="openculture" label="openculture" />
+      <node id="Andreumasd" label="Andreumasd" />
+      <node id="abel_riu" label="abel_riu" />
+      <node id="albert_ciurana" label="albert_ciurana" />
+      <node id="MontseAyats" label="MontseAyats" />
+      <node id="Granollacs" label="Granollacs" />
+      <node id="LAIMPOSSIBLE_LL" label="LAIMPOSSIBLE_LL" />
+      <node id="mariadolorsa" label="mariadolorsa" />
+      <node id="anna_caula" label="anna_caula" />
+      <node id="overges" label="overges" />
+      <node id="albertbatet" label="albertbatet" />
+      <node id="mariarosapons" label="mariarosapons" />
+      <node id="AlexGutierrezM" label="AlexGutierrezM" />
+      <node id="tonistrubellt" label="tonistrubellt" />
+      <node id="QuimTorraiPla" label="QuimTorraiPla" />
+      <node id="macips01" label="macips01" />
+      <node id="AngladaMarti" label="AngladaMarti" />
+      <node id="josepmaria_aloy" label="josepmaria_aloy" />
+      <node id="alextortsagues" label="alextortsagues" />
+      <node id="joanm63" label="joanm63" />
+      <node id="ramontremosa" label="ramontremosa" />
+      <node id="marcbataller" label="marcbataller" />
+      <node id="guardian" label="guardian" />
+      <node id="RevistaEsguard" label="RevistaEsguard" />
+      <node id="324cat" label="324cat" />
+      <node id="QuimMonzo" label="QuimMonzo" />
+      <node id="BeyondBCN" label="BeyondBCN" />
+      <node id="jordialapreso" label="jordialapreso" />
+      <node id="david_bassa" label="david_bassa" />
+      <node id="oraclecatradio" label="oraclecatradio" />
+      <node id="JoanCCanela" label="JoanCCanela" />
+      <node id="MarcColomer" label="MarcColomer" />
+      <node id="antonibassas" label="antonibassas" />
+      <node id="oneslacultura" label="oneslacultura" />
+      <node id="JosepGinesta" label="JosepGinesta" />
+      <node id="JLluisG" label="JLluisG" />
+      <node id="tunisocatala" label="tunisocatala" />
+      <node id="Codi40" label="Codi40" />
+      <node id="JoelJoanJuve" label="JoelJoanJuve" />
+      <node id="negritasycursiv" label="negritasycursiv" />
+      <node id="FerranEspada" label="FerranEspada" />
+      <node id="AntoniPladevall" label="AntoniPladevall" />
+      <node id="joseprull" label="joseprull" />
+      <node id="jordicalvis" label="jordicalvis" />
+      <node id="ForcadellCarme" label="ForcadellCarme" />
+      <node id="aleixsalvans" label="aleixsalvans" />
+      <node id="tonialba" label="tonialba" />
+      <node id="MeritxellSerret" label="MeritxellSerret" />
+      <node id="xaviborrell" label="xaviborrell" />
+      <node id="mferres" label="mferres" />
+      <node id="gemmaruiz_" label="gemmaruiz_" />
+      <node id="CDR_Cassoles" label="CDR_Cassoles" />
+      <node id="FundacioCCC" label="FundacioCCC" />
+      <node id="Viquipedia" label="Viquipedia" />
+      <node id="CreusJordi" label="CreusJordi" />
+      <node id="Bernat_Deltell" label="Bernat_Deltell" />
+      <node id="lciuro" label="lciuro" />
+      <node id="gerardsese" label="gerardsese" />
+      <node id="bernatff" label="bernatff" />
+      <node id="Apujolmas" label="Apujolmas" />
+      <node id="OmniumIntl" label="OmniumIntl" />
+      <node id="MtnezdeBrea" label="MtnezdeBrea" />
+      <node id="lletres" label="lletres" />
+      <node id="miquelcolomert" label="miquelcolomert" />
+      <node id="luisarbuniel" label="luisarbuniel" />
+      <node id="PereMas" label="PereMas" />
+      <node id="miquel_noguera" label="miquel_noguera" />
+      <node id="AnnaAroca" label="AnnaAroca" />
+      <node id="untikes" label="untikes" />
+      <node id="carles_orriols" label="carles_orriols" />
+      <node id="jserracarne" label="jserracarne" />
+      <node id="saulgordillo" label="saulgordillo" />
+      <node id="mstrubell" label="mstrubell" />
+      <node id="albertcuesta" label="albertcuesta" />
+      <node id="gcalvetbarot" label="gcalvetbarot" />
+      <node id="JoanRubioBarris" label="JoanRubioBarris" />
+      <node id="PonsPereAntoni" label="PonsPereAntoni" />
+      <node id="AnnaSimo" label="AnnaSimo" />
+      <node id="toniterim" label="toniterim" />
+      <node id="bertatrullas" label="bertatrullas" />
+      <node id="empaperem" label="empaperem" />
+      <node id="albertbatalla" label="albertbatalla" />
+      <node id="albertsaezc" label="albertsaezc" />
+      <node id="lluis_llach" label="lluis_llach" />
+      <node id="Llegirencasdinc" label="Llegirencasdinc" />
+      <node id="vpartal" label="vpartal" />
+      <node id="QuicoSalles" label="QuicoSalles" />
+      <node id="mangelestrade" label="mangelestrade" />
+      <node id="Gemmaaguilera" label="Gemmaaguilera" />
+      <node id="llumenera" label="llumenera" />
+      <node id="LauraHuergaRV" label="LauraHuergaRV" />
+      <node id="nvblanch" label="nvblanch" />
+      <node id="Quimkong" label="Quimkong" />
+      <node id="RaholaOficial" label="RaholaOficial" />
+      <node id="jordifranc" label="jordifranc" />
+      <node id="BadiaJordi" label="BadiaJordi" />
+      <node id="toniclapes" label="toniclapes" />
+      <node id="GenisBarnosell" label="GenisBarnosell" />
+      <node id="jordicuminal" label="jordicuminal" />
+      <node id="Abel_Cutillas" label="Abel_Cutillas" />
+      <node id="txearana" label="txearana" />
+      <node id="carmevidal2" label="carmevidal2" />
+      <node id="ganyet" label="ganyet" />
+      <node id="jordirodo" label="jordirodo" />
+      <node id="Jaumeasens" label="Jaumeasens" />
+      <node id="jesculies" label="jesculies" />
+      <node id="Paperdevidre" label="Paperdevidre" />
+      <node id="roliver_" label="roliver_" />
+      <node id="ricardcastellet" label="ricardcastellet" />
+      <node id="maticatradio" label="maticatradio" />
+      <node id="MariaPalau75" label="MariaPalau75" />
+      <node id="ssolerg" label="ssolerg" />
+      <node id="IvanLQF" label="IvanLQF" />
+      <node id="albertmartnez" label="albertmartnez" />
+      <node id="lamira" label="lamira" />
+      <node id="ramonetros" label="ramonetros" />
+      <node id="quimcurbet" label="quimcurbet" />
+      <node id="Gazofilaci" label="Gazofilaci" />
+      <node id="octavi1" label="octavi1" />
+      <node id="rvilablareix" label="rvilablareix" />
+      <node id="MelciorComes" label="MelciorComes" />
+      <node id="LlSalvado" label="LlSalvado" />
+      <node id="neuslloveras" label="neuslloveras" />
+      <node id="SintesOlivella" label="SintesOlivella" />
+      <node id="quimnadal" label="quimnadal" />
+      <node id="AMAT_VIDAL" label="AMAT_VIDAL" />
+      <node id="davidmarti" label="davidmarti" />
+      <node id="caigueral" label="caigueral" />
+      <node id="jmtresserras" label="jmtresserras" />
+      <node id="Yeagov_CAT" label="Yeagov_CAT" />
+      <node id="xavieritja" label="xavieritja" />
+      <node id="albertmercade" label="albertmercade" />
+      <node id="silentmoviegifs" label="silentmoviegifs" />
+      <node id="JosepArnau" label="JosepArnau" />
+      <node id="solsona_marc" label="solsona_marc" />
+      <node id="ilergeta28" label="ilergeta28" />
+      <node id="replicanta_" label="replicanta_" />
+      <node id="EnricGoma" label="EnricGoma" />
+      <node id="Xavi_Castillo" label="Xavi_Castillo" />
+      <node id="catamcouncil" label="catamcouncil" />
+      <node id="anasurra" label="anasurra" />
+      <node id="SMarimonMolas" label="SMarimonMolas" />
+      <node id="carlescampuzano" label="carlescampuzano" />
+      <node id="iolandabatalle" label="iolandabatalle" />
+      <node id="RocaBatista" label="RocaBatista" />
+      <node id="jordigalves" label="jordigalves" />
+      <node id="jordiroura77" label="jordiroura77" />
+      <node id="mlasalas" label="mlasalas" />
+      <node id="emergenciescat" label="emergenciescat" />
+      <node id="philmusical" label="philmusical" />
+      <node id="oetxearte" label="oetxearte" />
+      <node id="elpuntavui" label="elpuntavui" />
+      <node id="jmvidalillanes" label="jmvidalillanes" />
+      <node id="RogerVinton" label="RogerVinton" />
+      <node id="tonipalmes" label="tonipalmes" />
+      <node id="pboschcuenca" label="pboschcuenca" />
+      <node id="marcmonells" label="marcmonells" />
+      <node id="oleguerserra" label="oleguerserra" />
+      <node id="xavialtadill" label="xavialtadill" />
+      <node id="Llibertferri" label="Llibertferri" />
+      <node id="Josepmcervera" label="Josepmcervera" />
+      <node id="didacboza" label="didacboza" />
+      <node id="OriolAmoros" label="OriolAmoros" />
+      <node id="TxusMedina" label="TxusMedina" />
+      <node id="CarlesMundo" label="CarlesMundo" />
+      <node id="lenz_adam" label="lenz_adam" />
+      <node id="rosamorla" label="rosamorla" />
+      <node id="arnau_torrente" label="arnau_torrente" />
+      <node id="JoancodinaRdC" label="JoancodinaRdC" />
+      <node id="Ignasiara" label="Ignasiara" />
+      <node id="LauraBorras" label="LauraBorras" />
+      <node id="aleixrenye" label="aleixrenye" />
+      <node id="govern" label="govern" />
+      <node id="peremarticolom" label="peremarticolom" />
+      <node id="ToporMarcela" label="ToporMarcela" />
+      <node id="Joanridao" label="Joanridao" />
+      <node id="ramirp" label="ramirp" />
+      <node id="ferrannett" label="ferrannett" />
+      <node id="ChavaSans" label="ChavaSans" />
+      <node id="xecspir" label="xecspir" />
+      <node id="OnaLlibres" label="OnaLlibres" />
+      <node id="joanpinyolcolom" label="joanpinyolcolom" />
+      <node id="UriS77" label="UriS77" />
+      <node id="Fotlipou" label="Fotlipou" />
+      <node id="VinosPijoan" label="VinosPijoan" />
+      <node id="marxal87" label="marxal87" />
+      <node id="faves_comptades" label="faves_comptades" />
+      <node id="cnacasol" label="cnacasol" />
+      <node id="openarms_fund" label="openarms_fund" />
+      <node id="LaSega1640" label="LaSega1640" />
+      <node id="evacalvet" label="evacalvet" />
+      <node id="PoesiaRepublica" label="PoesiaRepublica" />
+      <node id="lluismundet" label="lluismundet" />
+      <node id="CalDirHo" label="CalDirHo" />
+      <node id="MSorribesC" label="MSorribesC" />
+      <node id="qgrifell" label="qgrifell" />
+      <node id="la_llanca" label="la_llanca" />
+      <node id="RramonfRrf" label="RramonfRrf" />
+      <node id="elsuplement" label="elsuplement" />
+      <node id="jaumeferrerpuig" label="jaumeferrerpuig" />
+      <node id="osuanya" label="osuanya" />
+      <node id="MonDiari" label="MonDiari" />
+      <node id="LopezJaume" label="LopezJaume" />
+      <node id="La_Retaguardia" label="La_Retaguardia" />
+      <node id="jaumeclotet" label="jaumeclotet" />
+      <node id="maihaviaditque" label="maihaviaditque" />
+      <node id="CridaDemocracia" label="CridaDemocracia" />
+      <node id="boye_g" label="boye_g" />
+      <node id="lotigre" label="lotigre" />
+      <node id="mjculturania" label="mjculturania" />
+      <node id="Aballbona" label="Aballbona" />
+      <node id="jciurana" label="jciurana" />
+      <node id="Jaumaulet" label="Jaumaulet" />
+      <node id="irenemabellan" label="irenemabellan" />
+      <node id="hervassj" label="hervassj" />
+      <node id="joanpique1" label="joanpique1" />
+      <node id="victor_puig" label="victor_puig" />
+      <node id="Colonos_Cs" label="Colonos_Cs" />
+      <node id="josepalay" label="josepalay" />
+      <node id="davidminoves" label="davidminoves" />
+      <node id="ericviladrich" label="ericviladrich" />
+      <node id="auTICdidacta" label="auTICdidacta" />
+      <node id="herodot10" label="herodot10" />
+      <node id="Jordi_Sanuy" label="Jordi_Sanuy" />
+      <node id="cantalozella" label="cantalozella" />
+      <node id="jordicabre" label="jordicabre" />
+      <node id="ref1oct" label="ref1oct" />
+      <node id="ECampdepadros" label="ECampdepadros" />
+      <node id="ernestmaragall" label="ernestmaragall" />
+      <node id="DocumentaBCN" label="DocumentaBCN" />
+      <node id="RamonLlull_" label="RamonLlull_" />
+      <node id="queconovell" label="queconovell" />
+      <node id="quimserratoro" label="quimserratoro" />
+      <node id="salvadorcot" label="salvadorcot" />
+      <node id="DiariJornada" label="DiariJornada" />
+      <node id="Pesacapsada" label="Pesacapsada" />
+      <node id="ANC_Mossos" label="ANC_Mossos" />
+      <node id="guillemclapes" label="guillemclapes" />
+      <node id="epaluzie" label="epaluzie" />
+      <node id="gallifantes" label="gallifantes" />
+      <node id="JosepMPlanes" label="JosepMPlanes" />
+      <node id="VIAEmpresa" label="VIAEmpresa" />
+      <node id="xbundo" label="xbundo" />
+      <node id="llibresxllegir" label="llibresxllegir" />
+      <node id="BernatGimeno" label="BernatGimeno" />
+      <node id="AntoniGarrell" label="AntoniGarrell" />
+      <node id="espremulla" label="espremulla" />
+      <node id="HeroisIndepes" label="HeroisIndepes" />
+      <node id="j_galimatias" label="j_galimatias" />
+      <node id="laiabalcells" label="laiabalcells" />
+      <node id="LateHumans" label="LateHumans" />
+      <node id="MartiEstruch" label="MartiEstruch" />
+      <node id="pilarcalvo13" label="pilarcalvo13" />
+      <node id="EsterFranquesaB" label="EsterFranquesaB" />
+      <node id="Nisso" label="Nisso" />
+      <node id="Jordiboschdb" label="Jordiboschdb" />
+      <node id="esparver" label="esparver" />
+      <node id="nuriadgc" label="nuriadgc" />
+      <node id="salvadoralsius" label="salvadoralsius" />
+      <node id="coronelabarcelo" label="coronelabarcelo" />
+      <node id="EugeniaBroggi" label="EugeniaBroggi" />
+      <node id="MTudela" label="MTudela" />
+      <node id="vialliure" label="vialliure" />
+      <node id="joansafont" label="joansafont" />
+      <node id="Randstad_Empleo" label="Randstad_Empleo" />
+      <node id="xantallavina" label="xantallavina" />
+      <node id="salvagarcia" label="salvagarcia" />
+      <node id="ra_masr" label="ra_masr" />
+      <node id="naciodigital" label="naciodigital" />
+      <node id="campllibertat" label="campllibertat" />
+      <node id="asj_dasilva" label="asj_dasilva" />
+      <node id="jmgrau76" label="jmgrau76" />
+      <node id="KurdisCat" label="KurdisCat" />
+      <node id="enpeudepau" label="enpeudepau" />
+      <node id="lopezbofill" label="lopezbofill" />
+      <node id="Llibresxrep" label="Llibresxrep" />
+      <node id="AssangeDefence" label="AssangeDefence" />
+      <node id="Quimi_Portet" label="Quimi_Portet" />
+      <node id="ModernetdeMerda" label="ModernetdeMerda" />
+      <node id="BelOlid" label="BelOlid" />
+      <node id="b4lduf4" label="b4lduf4" />
+      <node id="AAC_GD" label="AAC_GD" />
+      <node id="Nuriaqn" label="Nuriaqn" />
+      <node id="alfrediniesta" label="alfrediniesta" />
+      <node id="pepgimeno" label="pepgimeno" />
+      <node id="GranRecapte" label="GranRecapte" />
+      <node id="velasc_alberto" label="velasc_alberto" />
+      <node id="neusmunte" label="neusmunte" />
+      <node id="VilaDelsLlibres" label="VilaDelsLlibres" />
+      <node id="FerranFaRun" label="FerranFaRun" />
+      <node id="encampanya" label="encampanya" />
+      <node id="m8m6j" label="m8m6j" />
+      <node id="ftenc" label="ftenc" />
+      <node id="parlamentcat" label="parlamentcat" />
+      <node id="CDRCatOficial" label="CDRCatOficial" />
+      <node id="nuvol_com" label="nuvol_com" />
+      <node id="lukanora" label="lukanora" />
+      <node id="bcndesapareguda" label="bcndesapareguda" />
+      <node id="omniumlaselva" label="omniumlaselva" />
+      <node id="Franel_Landau" label="Franel_Landau" />
+      <node id="PortuariosCNT" label="PortuariosCNT" />
+      <node id="DrRaulDM" label="DrRaulDM" />
+      <node id="iaia_toneta" label="iaia_toneta" />
+      <node id="La_Directa" label="La_Directa" />
+      <node id="primaries2019" label="primaries2019" />
+      <node id="rogervilapadro" label="rogervilapadro" />
+      <node id="AlvarLlobet" label="AlvarLlobet" />
+      <node id="Pompeu_Fabra" label="Pompeu_Fabra" />
+      <node id="IRuyra" label="IRuyra" />
+      <node id="xinoxano_cat" label="xinoxano_cat" />
+      <node id="vilallongapac" label="vilallongapac" />
+      <node id="OscarJaneCh" label="OscarJaneCh" />
+      <node id="raulromeva" label="raulromeva" />
+      <node id="VidalAragones" label="VidalAragones" />
+      <node id="jordisanchezp" label="jordisanchezp" />
+      <node id="jm_clavero" label="jm_clavero" />
+      <node id="Alffig" label="Alffig" />
+      <node id="kim_soler" label="kim_soler" />
+      <node id="davidtrepat" label="davidtrepat" />
+      <node id="RicardUstrell" label="RicardUstrell" />
+      <node id="ramonroyo" label="ramonroyo" />
+      <node id="joanmargall" label="joanmargall" />
+      <node id="PereCardus" label="PereCardus" />
+      <node id="maiolichinus" label="maiolichinus" />
+      <node id="enricanals" label="enricanals" />
+      <node id="MichaelAtwoodM" label="MichaelAtwoodM" />
+      <node id="IsabelSucunza" label="IsabelSucunza" />
+      <node id="wagensberg" label="wagensberg" />
+      <node id="HomeLent" label="HomeLent" />
+      <node id="TiGall" label="TiGall" />
+      <node id="llsalellasvilar" label="llsalellasvilar" />
+      <node id="AnnaFiguera" label="AnnaFiguera" />
+      <node id="SubalQuinina" label="SubalQuinina" />
+      <node id="ramontm" label="ramontm" />
+      <node id="eudaldcc" label="eudaldcc" />
+      <node id="CortadaJordi" label="CortadaJordi" />
+      <node id="montsegatell1" label="montsegatell1" />
+      <node id="MolonsAntoni" label="MolonsAntoni" />
+      <node id="ServidorsCat" label="ServidorsCat" />
+      <node id="krlsprts" label="krlsprts" />
+      <node id="Burkminster" label="Burkminster" />
+      <node id="joanjosepisern" label="joanjosepisern" />
+      <node id="Joan_Sales" label="Joan_Sales" />
+      <node id="francescabad" label="francescabad" />
+      <node id="oriolamat" label="oriolamat" />
+      <node id="llubura" label="llubura" />
+      <node id="elsa_artadi" label="elsa_artadi" />
+      <node id="AnyLlull" label="AnyLlull" />
+      <node id="denterd" label="denterd" />
+      <node id="AOSarria" label="AOSarria" />
+      <node id="ComiteLlibertat" label="ComiteLlibertat" />
+      <node id="mossos" label="mossos" />
+      <node id="marcelmauri" label="marcelmauri" />
+      <node id="peppuigiboix" label="peppuigiboix" />
+      <node id="Patrimonilit" label="Patrimonilit" />
+      <node id="josep_rius" label="josep_rius" />
+      <node id="jmangues" label="jmangues" />
+      <node id="MiquelBuch" label="MiquelBuch" />
+      <node id="CartesxRep" label="CartesxRep" />
+      <node id="DucMantua" label="DucMantua" />
+      <node id="JordiSerracant" label="JordiSerracant" />
+      <node id="meiusferres" label="meiusferres" />
+      <node id="AmadeuBrugues" label="AmadeuBrugues" />
+      <node id="xaiecologic" label="xaiecologic" />
+      <node id="mporrasmarti" label="mporrasmarti" />
+      <node id="quimmoreno" label="quimmoreno" />
+      <node id="DretsCat" label="DretsCat" />
+      <node id="jm_cabases" label="jm_cabases" />
+      <node id="LaCalders" label="LaCalders" />
+      <node id="CarmeMiroAlaix" label="CarmeMiroAlaix" />
+      <node id="guillemcarol" label="guillemcarol" />
+      <node id="salvadorcardus" label="salvadorcardus" />
+      <node id="setzejutges" label="setzejutges" />
+      <node id="HiginiaRoig" label="HiginiaRoig" />
+      <node id="sumate_asoc" label="sumate_asoc" />
+      <node id="tumultosvarios" label="tumultosvarios" />
+      <node id="immagallardo" label="immagallardo" />
+      <node id="pitudedeu" label="pitudedeu" />
+      <node id="cupnacional" label="cupnacional" />
+      <node id="nytimes" label="nytimes" />
+      <node id="andreubarnils" label="andreubarnils" />
+      <node id="miracvla" label="miracvla" />
+      <node id="quimforn" label="quimforn" />
+      <node id="VictorFdez_" label="VictorFdez_" />
+      <node id="Oriol67638017" label="Oriol67638017" />
+      <node id="julidejdarmuoz" label="julidejdarmuoz" />
+      <node id="marc_guerrero" label="marc_guerrero" />
+      <node id="miriamnoguerasM" label="miriamnoguerasM" />
+      <node id="BenetTatxo" label="BenetTatxo" />
+      <node id="jsantasusagna" label="jsantasusagna" />
+      <node id="CristinaTrias" label="CristinaTrias" />
+      <node id="EduardClavell" label="EduardClavell" />
+      <node id="XPadrissa" label="XPadrissa" />
+      <node id="CDRCabrils" label="CDRCabrils" />
+      <node id="LaRepublicaCat" label="LaRepublicaCat" />
+      <node id="ToniPousSaltor" label="ToniPousSaltor" />
+      <node id="cescesteve" label="cescesteve" />
+      <node id="xfahndrich" label="xfahndrich" />
+      <node id="FaberResidency" label="FaberResidency" />
+      <node id="xavierbosch" label="xavierbosch" />
+      <node id="pepmartorell" label="pepmartorell" />
+      <node id="pausa_cafesol" label="pausa_cafesol" />
+      <node id="JoanMayolGibert" label="JoanMayolGibert" />
+      <node id="josepvivesg" label="josepvivesg" />
+      <node id="MainarScanu" label="MainarScanu" />
+      <node id="CarodRoviraJLl" label="CarodRoviraJLl" />
+      <node id="BeatrizTalegon" label="BeatrizTalegon" />
+      <node id="2211Mes" label="2211Mes" />
+      <node id="SebastiaPortell" label="SebastiaPortell" />
+      <node id="versiorac1" label="versiorac1" />
+      <node id="arxiunacional" label="arxiunacional" />
+      <node id="oriolripoll" label="oriolripoll" />
+      <node id="elmatidigital" label="elmatidigital" />
+      <node id="Nurioriol" label="Nurioriol" />
+      <node id="OttoOzols" label="OttoOzols" />
+      <node id="joanrusinol" label="joanrusinol" />
+      <node id="lluistry" label="lluistry" />
+      <node id="carlesserra3" label="carlesserra3" />
+      <node id="amadalvarez" label="amadalvarez" />
+      <node id="jordimartideu" label="jordimartideu" />
+      <node id="drudibuixa" label="drudibuixa" />
+      <node id="jan_xc" label="jan_xc" />
+      <node id="oriolil" label="oriolil" />
+      <node id="gerardbat" label="gerardbat" />
+      <node id="KommunikaCat" label="KommunikaCat" />
+      <node id="martavilaltat" label="martavilaltat" />
+      <node id="CarmeFenoll" label="CarmeFenoll" />
+      <node id="MartiLloveras" label="MartiLloveras" />
+      <node id="ncadenes" label="ncadenes" />
+      <node id="iec" label="iec" />
+      <node id="lluisgibert" label="lluisgibert" />
+      <node id="Carles_Ribera" label="Carles_Ribera" />
+      <node id="byArguelles" label="byArguelles" />
+      <node id="TeresaJorda" label="TeresaJorda" />
+      <node id="AnnaForastier" label="AnnaForastier" />
+      <node id="sergipicazo" label="sergipicazo" />
+      <node id="odradek1" label="odradek1" />
+      <node id="Foreign_Cat" label="Foreign_Cat" />
+      <node id="dialecsost" label="dialecsost" />
+      <node id="JoanLaportaFCB" label="JoanLaportaFCB" />
+      <node id="Angels_Folch" label="Angels_Folch" />
+      <node id="Ferrancm" label="Ferrancm" />
+      <node id="Cat_Lliures" label="Cat_Lliures" />
+      <node id="joanqueralto" label="joanqueralto" />
+      <node id="torrentsramon" label="torrentsramon" />
+      <node id="Toni_Cruanyes" label="Toni_Cruanyes" />
+      <node id="newm161" label="newm161" />
+      <node id="Rondinaire_" label="Rondinaire_" />
+      <node id="pilarcarracelas" label="pilarcarracelas" />
+      <node id="alb_macviv" label="alb_macviv" />
+      <node id="el_sonat" label="el_sonat" />
+      <node id="ppamaso" label="ppamaso" />
+      <node id="PereGrauV" label="PereGrauV" />
+      <node id="RamonPique" label="RamonPique" />
+      <node id="Sistomatiques" label="Sistomatiques" />
+      <node id="RamonPardina" label="RamonPardina" />
+      <node id="mlluisvall" label="mlluisvall" />
+      <node id="perearagones" label="perearagones" />
+      <node id="RamonGallego5" label="RamonGallego5" />
+      <node id="9delpalau" label="9delpalau" />
+      <node id="mgabriela_serra" label="mgabriela_serra" />
+      <node id="ebotias" label="ebotias" />
+      <node id="enriccanela" label="enriccanela" />
+      <node id="BenEmmerson1" label="BenEmmerson1" />
+      <node id="barchinonadia" label="barchinonadia" />
+      <node id="caigueral2" label="caigueral2" />
+      <node id="jordiborras" label="jordiborras" />
+      <node id="OriMarch" label="OriMarch" />
+      <node id="JuntsXCat" label="JuntsXCat" />
+      <node id="murielcasals" label="murielcasals" />
+      <node id="MiquelMacia" label="MiquelMacia" />
+      <node id="MainatJM" label="MainatJM" />
+      <node id="andreu_rojals" label="andreu_rojals" />
+      <node id="marina_espasa" label="marina_espasa" />
+      <node id="nuriaiceta" label="nuriaiceta" />
+      <node id="jaume_pros" label="jaume_pros" />
+      <node id="angleeditorial" label="angleeditorial" />
+      <node id="JoanQueralt" label="JoanQueralt" />
+      <node id="EnricBda" label="EnricBda" />
+      <node id="AMI__cat" label="AMI__cat" />
+      <node id="bacalla_romesco" label="bacalla_romesco" />
+      <node id="jordiferreb" label="jordiferreb" />
+      <node id="gebelque" label="gebelque" />
+      <node id="Well086" label="Well086" />
+      <node id="toni_comin" label="toni_comin" />
+      <node id="neusmatamala" label="neusmatamala" />
+      <node id="ChakirelHomrani" label="ChakirelHomrani" />
+      <node id="angelsmcastells" label="angelsmcastells" />
+      <node id="Alex_Susanna" label="Alex_Susanna" />
+      <node id="JonTugores" label="JonTugores" />
+      <node id="GuillemTorra00" label="GuillemTorra00" />
+      <node id="TxellBonet" label="TxellBonet" />
+      <node id="angelschacon" label="angelschacon" />
+      <node id="JordiGraupera" label="JordiGraupera" />
+      <node id="trosich" label="trosich" />
+      <node id="rcodines" label="rcodines" />
+      <node id="jofrellombart" label="jofrellombart" />
+      <node id="m_guibernau" label="m_guibernau" />
+      <node id="JoanTarda" label="JoanTarda" />
+      <node id="Acontravent" label="Acontravent" />
+      <node id="elbenegre" label="elbenegre" />
+      <node id="jordisolef" label="jordisolef" />
+      <node id="fcesccruanyes" label="fcesccruanyes" />
+      <node id="strisciandel" label="strisciandel" />
+      <node id="jordisagu" label="jordisagu" />
+      <node id="clusells" label="clusells" />
+      <node id="aperezmir" label="aperezmir" />
+      <node id="Txite" label="Txite" />
+      <node id="jordimunell" label="jordimunell" />
+      <node id="marzoar" label="marzoar" />
+      <node id="AlexFenoll" label="AlexFenoll" />
+      <node id="josepcosta" label="josepcosta" />
+      <node id="UGTTarragona" label="UGTTarragona" />
+      <node id="apuente" label="apuente" />
+      <node id="francescmuntada" label="francescmuntada" />
+      <node id="ElTemps_cat" label="ElTemps_cat" />
+      <node id="vilallonga" label="vilallonga" />
+      <node id="cibernautajoan" label="cibernautajoan" />
+      <node id="ClipsterBCN" label="ClipsterBCN" />
+      <node id="bricelafontaine" label="bricelafontaine" />
+      <node id="lluisbou" label="lluisbou" />
+      <node id="soler_toni" label="soler_toni" />
+      <node id="illadelsllibres" label="illadelsllibres" />
+      <node id="jordi_pons" label="jordi_pons" />
+      <node id="Criticartt" label="Criticartt" />
+      <node id="JaumeNollaiMart" label="JaumeNollaiMart" />
+      <node id="Marc_Amat" label="Marc_Amat" />
+      <node id="jmximenis" label="jmximenis" />
+      <node id="quimdelgadobe" label="quimdelgadobe" />
+      <node id="CalpenaEnric" label="CalpenaEnric" />
+      <node id="avallenc" label="avallenc" />
+      <node id="tothistoria" label="tothistoria" />
+      <node id="OriolMalet" label="OriolMalet" />
+      <node id="ClaraPonsati" label="ClaraPonsati" />
+      <node id="antoniobanos_" label="antoniobanos_" />
+      <node id="TianRiba" label="TianRiba" />
+      <node id="ramoncotarelo" label="ramoncotarelo" />
+      <node id="lluisdomingo" label="lluisdomingo" />
+      <node id="EvaPiquer" label="EvaPiquer" />
+      <node id="pauetvidal" label="pauetvidal" />
+      <node id="JoanGFabra" label="JoanGFabra" />
+      <node id="manelR9" label="manelR9" />
+      <node id="0Seuba" label="0Seuba" />
+      <node id="oriolllado" label="oriolllado" />
+      <node id="AgustiBordas" label="AgustiBordas" />
+      <node id="BiblioCatalunya" label="BiblioCatalunya" />
+      <node id="OrestesMas" label="OrestesMas" />
+      <node id="jordicasadevall" label="jordicasadevall" />
+      <node id="lizcastro" label="lizcastro" />
+      <node id="FrancescSeres" label="FrancescSeres" />
+      <node id="gabrielrufian" label="gabrielrufian" />
+      <node id="JNCCiutatVella" label="JNCCiutatVella" />
+      <node id="albertllussa" label="albertllussa" />
+      <node id="alexsastre83" label="alexsastre83" />
+      <node id="maiolroger" label="maiolroger" />
+      <node id="nicolapadovan" label="nicolapadovan" />
+      <node id="imamis" label="imamis" />
+      <node id="pereprats" label="pereprats" />
+      <node id="Elviraduranc" label="Elviraduranc" />
+      <node id="npini" label="npini" />
+      <node id="jordimunozm" label="jordimunozm" />
+      <node id="HanselGretelBCN" label="HanselGretelBCN" />
+      <node id="Candeliano" label="Candeliano" />
+      <node id="marcarza" label="marcarza" />
+      <node id="iuforn" label="iuforn" />
+      <node id="FrancUllastre" label="FrancUllastre" />
+      <node id="MarcPifarre" label="MarcPifarre" />
+      <node id="joseppedrals" label="joseppedrals" />
+      <node id="BernatRuiz" label="BernatRuiz" />
+      <node id="BernatDesclot" label="BernatDesclot" />
+      <node id="JoanMagrane" label="JoanMagrane" />
+      <node id="SilviabelB" label="SilviabelB" />
+      <node id="nomos46" label="nomos46" />
+      <node id="Prof_TGSchulze" label="Prof_TGSchulze" />
+      <node id="IRLlull" label="IRLlull" />
+      <node id="mserracant" label="mserracant" />
+      <node id="isaacperaire" label="isaacperaire" />
+      <node id="kasalprim" label="kasalprim" />
+      <node id="beltadoX" label="beltadoX" />
+      <node id="CatalunyaRadio" label="CatalunyaRadio" />
+      <node id="peresalo68" label="peresalo68" />
+      <node id="albertpedret" label="albertpedret" />
+      <node id="OscarAndreu" label="OscarAndreu" />
+      <node id="JCarles_Navarro" label="JCarles_Navarro" />
+      <node id="JosepRoquetes" label="JosepRoquetes" />
+      <node id="casals_neus" label="casals_neus" />
+      <node id="NarcisGarolera" label="NarcisGarolera" />
+      <node id="maloslo69" label="maloslo69" />
+      <node id="RevistadeCat" label="RevistadeCat" />
+      <node id="CridaNacional" label="CridaNacional" />
+      <node id="jborrasarumi" label="jborrasarumi" />
+      <node id="MiquelBonet_" label="MiquelBonet_" />
+      <node id="JacmePoch" label="JacmePoch" />
+      <node id="CNICatalunya" label="CNICatalunya" />
+      <node id="jlcleries" label="jlcleries" />
+      <node id="PereGendrau" label="PereGendrau" />
+      <node id="bibliotequescat" label="bibliotequescat" />
+      <node id="AltresBcn" label="AltresBcn" />
+      <node id="raset_cat" label="raset_cat" />
+      <node id="Rogerbuch" label="Rogerbuch" />
+      <node id="RogerPala" label="RogerPala" />
+      <node id="RoserPPCC" label="RoserPPCC" />
+      <node id="tinavalles_" label="tinavalles_" />
+      <node id="cris_torrent" label="cris_torrent" />
+      <node id="Davizgonrub" label="Davizgonrub" />
+      <node id="agenciaacn" label="agenciaacn" />
+      <node id="CodinaPuig" label="CodinaPuig" />
+      <node id="salvem_pedra" label="salvem_pedra" />
+      <node id="MVilallonga" label="MVilallonga" />
+      <node id="janquim" label="janquim" />
+      <node id="SusodeToro1" label="SusodeToro1" />
+      <node id="JoanSole_" label="JoanSole_" />
+      <node id="cultura_cat" label="cultura_cat" />
+      <node id="gasparblancafor" label="gasparblancafor" />
+      <node id="ampique" label="ampique" />
+      <node id="Somiatwiter" label="Somiatwiter" />
+      <node id="lsala66pro" label="lsala66pro" />
+      <node id="DuarteCarles" label="DuarteCarles" />
+      <node id="pastacatalans" label="pastacatalans" />
+      <node id="westpapuamedia" label="westpapuamedia" />
+      <node id="aaltafaj" label="aaltafaj" />
+      <node id="ACDretsCivils" label="ACDretsCivils" />
+      <node id="CescaEsteve" label="CescaEsteve" />
+      <node id="francesccanosa" label="francesccanosa" />
+      <node id="aleixclario" label="aleixclario" />
+      <node id="JosepBargallo" label="JosepBargallo" />
+      <node id="ANC_Vic" label="ANC_Vic" />
+      <node id="GemmaGeis" label="GemmaGeis" />
+      <node id="CastellaToni" label="CastellaToni" />
+      <node id="ManuelCuyas" label="ManuelCuyas" />
+      <node id="ictlogist" label="ictlogist" />
+      <node id="xevialde" label="xevialde" />
+      <node id="jordiamat22" label="jordiamat22" />
+      <node id="OPonsatiMurla" label="OPonsatiMurla" />
+      <node id="EconomRosDavid" label="EconomRosDavid" />
+      <node id="xmenduina" label="xmenduina" />
+      <node id="Marc20F" label="Marc20F" />
+      <node id="bernatvilaro" label="bernatvilaro" />
+      <node id="egel71" label="egel71" />
+      <node id="jordigraur" label="jordigraur" />
+      <node id="andreu_gonzalez" label="andreu_gonzalez" />
+      <node id="FAQSTV3" label="FAQSTV3" />
+      <node id="LoPaudePonts" label="LoPaudePonts" />
+      <node id="Rincewindcat" label="Rincewindcat" />
+      <node id="JoanYeguas" label="JoanYeguas" />
+      <node id="e_sagrera" label="e_sagrera" />
+      <node id="pep_cruanyes" label="pep_cruanyes" />
+      <node id="sergicaldes" label="sergicaldes" />
+      <node id="Nollegiu" label="Nollegiu" />
+      <node id="jmreniu" label="jmreniu" />
+      <node id="minvill" label="minvill" />
+      <node id="mrierapla" label="mrierapla" />
+      <node id="XavierAntich" label="XavierAntich" />
+      <node id="toniaira" label="toniaira" />
+      <node id="AdriaAlsina" label="AdriaAlsina" />
+      <node id="edvilalta" label="edvilalta" />
+      <node id="JordiMarrugat" label="JordiMarrugat" />
+      <node id="Ignasi_Bonet_" label="Ignasi_Bonet_" />
+      <node id="FD_EC" label="FD_EC" />
+      <node id="angcastineira" label="angcastineira" />
+      <node id="pausolaysuar" label="pausolaysuar" />
+      <node id="emparmoliner" label="emparmoliner" />
+      <node id="BibliotequesBCN" label="BibliotequesBCN" />
+      <node id="jordicreixell" label="jordicreixell" />
+      <node id="RogerHeredia83" label="RogerHeredia83" />
+      <node id="FrancescViadel" label="FrancescViadel" />
+      <node id="elnacionalcat" label="elnacionalcat" />
+      <node id="JaumeAlonsoCuev" label="JaumeAlonsoCuev" />
+      <node id="mirodavid" label="mirodavid" />
+      <node id="GaloTuneu" label="GaloTuneu" />
+      <node id="vicenteguallart" label="vicenteguallart" />
+      <node id="carlesral" label="carlesral" />
+      <node id="notesVistes" label="notesVistes" />
+      <node id="smithsonian" label="smithsonian" />
+      <node id="LCTxInd" label="LCTxInd" />
+      <node id="capdevilajoan" label="capdevilajoan" />
+      <node id="DCondeminas" label="DCondeminas" />
+      <node id="unilateralcat" label="unilateralcat" />
+      <node id="CollaDeSabadell" label="CollaDeSabadell" />
+      <node id="MemoriaLlibres" label="MemoriaLlibres" />
+      <node id="JosepLluchPuig" label="JosepLluchPuig" />
+      <node id="Xaviercarmaniu" label="Xaviercarmaniu" />
+      <node id="jorditurull" label="jorditurull" />
+      <node id="geli_anna" label="geli_anna" />
+      <node id="llucsalellas" label="llucsalellas" />
+      <node id="altamiranoMLG" label="altamiranoMLG" />
+      <node id="SalaiCullell" label="SalaiCullell" />
+      <node id="albertcastellon" label="albertcastellon" />
+      <node id="RutaPompeuFabra" label="RutaPompeuFabra" />
+      <node id="DolorsFeliu" label="DolorsFeliu" />
+      <node id="Miquel_Pueyo" label="Miquel_Pueyo" />
+      <node id="publico_es" label="publico_es" />
+      <node id="neustomas" label="neustomas" />
+      <node id="rgsait" label="rgsait" />
+      <node id="FundBlasInfante" label="FundBlasInfante" />
+      <node id="LlibresdelSegle" label="LlibresdelSegle" />
+      <node id="112" label="112" />
+      <node id="valex_cat" label="valex_cat" />
+      <node id="joaneliesadell" label="joaneliesadell" />
+      <node id="Fotlipouweb" label="Fotlipouweb" />
+      <node id="mtpallares" label="mtpallares" />
+      <node id="marccastells" label="marccastells" />
+      <node id="JoanOliu" label="JoanOliu" />
+      <node id="joanmariapique" label="joanmariapique" />
+      <node id="XeniaBusse" label="XeniaBusse" />
+      <node id="antonisoy" label="antonisoy" />
+      <node id="LluisAgusti" label="LluisAgusti" />
+      <node id="unisxrepublica" label="unisxrepublica" />
+      <node id="roviramartinez" label="roviramartinez" />
+      <node id="ecasajoana" label="ecasajoana" />
+      <node id="elsomatent" label="elsomatent" />
+      <node id="boixserra" label="boixserra" />
+      <node id="Pdemocratacat" label="Pdemocratacat" />
+      <node id="anna_arque" label="anna_arque" />
+      <node id="eduardvoltas" label="eduardvoltas" />
+      <node id="ColominasQuim" label="ColominasQuim" />
+      <node id="senyorforns" label="senyorforns" />
+      <node id="RamonTorrents" label="RamonTorrents" />
+      <node id="Conf_Ratafia" label="Conf_Ratafia" />
+      <node id="IsidorMari" label="IsidorMari" />
+      <node id="jordifinestres" label="jordifinestres" />
+      <node id="mncsls" label="mncsls" />
+      <node id="jordicoronas" label="jordicoronas" />
+      <node id="jcasulleras" label="jcasulleras" />
+      <node id="Cris_Puig" label="Cris_Puig" />
+      <node id="martapascal" label="martapascal" />
+      <node id="mhistoriacat" label="mhistoriacat" />
+      <node id="PepRieraFont" label="PepRieraFont" />
+      <node id="LaRepCat" label="LaRepCat" />
+      <node id="SergiCastanye" label="SergiCastanye" />
+      <node id="monichern" label="monichern" />
+      <node id="puigtobella" label="puigtobella" />
+      <node id="ANC_Bombers" label="ANC_Bombers" />
+      <node id="jaumepadros" label="jaumepadros" />
+      <node id="AdriPujol" label="AdriPujol" />
+      <node id="IMatavera" label="IMatavera" />
+      <node id="jcuixart" label="jcuixart" />
+      <node id="ZaklinNastic" label="ZaklinNastic" />
+      <node id="Nataliadipp" label="Nataliadipp" />
+      <node id="belgranya" label="belgranya" />
+      <node id="Lespurnabloc" label="Lespurnabloc" />
+      <node id="llegirencatala" label="llegirencatala" />
+      <node id="casa_vicens" label="casa_vicens" />
+      <node id="CostaTrachsel" label="CostaTrachsel" />
+      <node id="joanfoguet" label="joanfoguet" />
+      <node id="Eva_Gene" label="Eva_Gene" />
+      <node id="SmithsonianFolk" label="SmithsonianFolk" />
+      <node id="AgustiColomines" label="AgustiColomines" />
+      <node id="xavialiaga" label="xavialiaga" />
+      <node id="eduardcabus" label="eduardcabus" />
+      <node id="orioldebalanzo" label="orioldebalanzo" />
+      <node id="marcsanjaume" label="marcsanjaume" />
+      <node id="AgustiAlcoberro" label="AgustiAlcoberro" />
+      <node id="Els_Jordis" label="Els_Jordis" />
+      <node id="ErnestoEkaizer" label="ErnestoEkaizer" />
+      <node id="historiadors20" label="historiadors20" />
+      <node id="agustibenedito" label="agustibenedito" />
+      <node id="NATi_Ortega_" label="NATi_Ortega_" />
+      <node id="BetonaComin" label="BetonaComin" />
+      <node id="PerotdeCalMil" label="PerotdeCalMil" />
+      <node id="NereaRodriguezD" label="NereaRodriguezD" />
+      <node id="usvolemacasa" label="usvolemacasa" />
+      <node id="annapinol_beta" label="annapinol_beta" />
+      <node id="jordigaseni" label="jordigaseni" />
+      <node id="gilbert_fo" label="gilbert_fo" />
+      <node id="Joaquimllorens" label="Joaquimllorens" />
+      <node id="jornalet" label="jornalet" />
+      <node id="BBCBreaking" label="BBCBreaking" />
+      <node id="estercapella" label="estercapella" />
+      <node id="PujolsFrancesc" label="PujolsFrancesc" />
+      <node id="elopezdomenech" label="elopezdomenech" />
+      <node id="jonsindreu" label="jonsindreu" />
+      <node id="JoanCostaiFont" label="JoanCostaiFont" />
+      <node id="EscriptorsAELC" label="EscriptorsAELC" />
+      <node id="calreflex" label="calreflex" />
+      <node id="RMazariegosR" label="RMazariegosR" />
+      <node id="LauraCendrs" label="LauraCendrs" />
+      <node id="Vadorgarbos" label="Vadorgarbos" />
+      <node id="MarionaIglesias" label="MarionaIglesias" />
+      <node id="torrajordi" label="torrajordi" />
+      <node id="Carles_Porta" label="Carles_Porta" />
+      <node id="JORDINADOR" label="JORDINADOR" />
+      <node id="elpatidescobert" label="elpatidescobert" />
+      <node id="KRLS" label="KRLS" />
+      <node id="perecsub" label="perecsub" />
+      <node id="xavi_pla" label="xavi_pla" />
+      <node id="quellegeixes" label="quellegeixes" />
+      <node id="centre_IRIDIA" label="centre_IRIDIA" />
+      <node id="XavierBoschG" label="XavierBoschG" />
+      <node id="diariARA" label="diariARA" />
+      <node id="PepMartiVall" label="PepMartiVall" />
+      <node id="OmplimBrux" label="OmplimBrux" />
+      <node id="junqueras" label="junqueras" />
+      <node id="premsahistoria" label="premsahistoria" />
+      <node id="CatalanCouncil" label="CatalanCouncil" />
+      <node id="2dabril" label="2dabril" />
+      <node id="jaumeponsalorda" label="jaumeponsalorda" />
+      <node id="vinyetp" label="vinyetp" />
+      <node id="Joanlluislluis" label="Joanlluislluis" />
+      <node id="Izaskunarretxe" label="Izaskunarretxe" />
+      <node id="Sergi_Bernal" label="Sergi_Bernal" />
+      <node id="PuigGordi" label="PuigGordi" />
+      <node id="AVivesT" label="AVivesT" />
+      <node id="miestheriosa" label="miestheriosa" />
+      <node id="AlfredBosch" label="AlfredBosch" />
+      <node id="CAPITA_ENCIAM_" label="CAPITA_ENCIAM_" />
+      <node id="DavictusCat" label="DavictusCat" />
+      <node id="JMatasD" label="JMatasD" />
+      <node id="PoliticayModa" label="PoliticayModa" />
+      <node id="IgnasiMoreta" label="IgnasiMoreta" />
+      <node id="batlle_e" label="batlle_e" />
+      <node id="tianbaenasan" label="tianbaenasan" />
+      <node id="tr3sc" label="tr3sc" />
+      <node id="MonicaSabata" label="MonicaSabata" />
+      <node id="tv3cat" label="tv3cat" />
+      <node id="Aurora_Madaula" label="Aurora_Madaula" />
+      <node id="XBescos" label="XBescos" />
+      <node id="laltraedi" label="laltraedi" />
+      <node id="BernatDedeu" label="BernatDedeu" />
+      <node id="DamiA" label="DamiA" />
+      <node id="GPursals" label="GPursals" />
+      <node id="joansalatorrent" label="joansalatorrent" />
+      <node id="AnyFabra" label="AnyFabra" />
+      <node id="Pereelcruel" label="Pereelcruel" />
+      <node id="albertsoleb" label="albertsoleb" />
+      <node id="USABobRiley" label="USABobRiley" />
+      <node id="CETC_IDEES" label="CETC_IDEES" />
+      <node id="JonInarritu" label="JonInarritu" />
+      <node id="ribas_xavi" label="ribas_xavi" />
+      <node id="apereirasole" label="apereirasole" />
+      <node id="JordiMataViadiu" label="JordiMataViadiu" />
+      <node id="jcorbalan" label="jcorbalan" />
+      <node id="xgraset" label="xgraset" />
+      <node id="bertifas" label="bertifas" />
+      <node id="lillousechi" label="lillousechi" />
+      <node id="ClaudiaRiusL" label="ClaudiaRiusL" />
+      <node id="martarovira" label="martarovira" />
+      <node id="JnnDiaz" label="JnnDiaz" />
+      <node id="Holaiquetal" label="Holaiquetal" />
+      <node id="NUET" label="NUET" />
+      <node id="ARAllegim" label="ARAllegim" />
+      <node id="IgorLlongueres" label="IgorLlongueres" />
+      <node id="FrancescGarc" label="FrancescGarc" />
+      <node id="assumpcas" label="assumpcas" />
+    </nodes>
+    <edges>
+      <edge id="0" source="jrcasals" target="QuimTorraiPla" />
+      <edge id="1" source="BelZaballa" target="QuimTorraiPla" />
+      <edge id="2" source="TeresaAmat" target="QuimTorraiPla" />
+      <edge id="3" source="dmontserratnono" target="QuimTorraiPla" />
+      <edge id="4" source="ferranmascarell" target="QuimTorraiPla" />
+      <edge id="5" source="xmiserachs" target="QuimTorraiPla" />
+      <edge id="6" source="PujolBonell" target="QuimTorraiPla" />
+      <edge id="7" source="assemblea" target="QuimTorraiPla" />
+      <edge id="8" source="francescd" target="QuimTorraiPla" />
+      <edge id="9" source="CatorzeCat" target="QuimTorraiPla" />
+      <edge id="10" source="XSalaimartin" target="QuimTorraiPla" />
+      <edge id="11" source="bjornbcn" target="QuimTorraiPla" />
+      <edge id="12" source="AquestFrederic" target="QuimTorraiPla" />
+      <edge id="13" source="rac1" target="QuimTorraiPla" />
+      <edge id="14" source="bibiloni" target="QuimTorraiPla" />
+      <edge id="15" source="MartaMadrenas" target="QuimTorraiPla" />
+      <edge id="16" source="openDemocracy" target="QuimTorraiPla" />
+      <edge id="17" source="xavierginesta" target="QuimTorraiPla" />
+      <edge id="18" source="ptorra" target="QuimTorraiPla" />
+      <edge id="19" source="miquelcalcada" target="QuimTorraiPla" />
+      <edge id="20" source="CollectiuEmma" target="QuimTorraiPla" />
+      <edge id="21" source="aclapesf" target="QuimTorraiPla" />
+      <edge id="22" source="Pous" target="QuimTorraiPla" />
+      <edge id="23" source="joan_matamala" target="QuimTorraiPla" />
+      <edge id="24" source="peronelladarago" target="QuimTorraiPla" />
+      <edge id="25" source="sendaque" target="QuimTorraiPla" />
+      <edge id="26" source="vatuadeu" target="QuimTorraiPla" />
+      <edge id="27" source="catalan_gov" target="QuimTorraiPla" />
+      <edge id="28" source="Esquerra_ERC" target="QuimTorraiPla" />
+      <edge id="29" source="optimotcat" target="QuimTorraiPla" />
+      <edge id="30" source="BorjaBagunya" target="QuimTorraiPla" />
+      <edge id="31" source="ElBornCCM" target="QuimTorraiPla" />
+      <edge id="32" source="cddrcat" target="QuimTorraiPla" />
+      <edge id="33" source="aleixsarri" target="QuimTorraiPla" />
+      <edge id="34" source="omnium" target="QuimTorraiPla" />
+      <edge id="35" source="mariusserra" target="QuimTorraiPla" />
+      <edge id="36" source="damiacalvet" target="QuimTorraiPla" />
+      <edge id="37" source="xpagest" target="QuimTorraiPla" />
+      <edge id="38" source="andersivera" target="QuimTorraiPla" />
+      <edge id="39" source="xaviquinquilla" target="QuimTorraiPla" />
+      <edge id="40" source="gerardgomezf" target="QuimTorraiPla" />
+      <edge id="41" source="mllordes" target="QuimTorraiPla" />
+      <edge id="42" source="marinallansana" target="QuimTorraiPla" />
+      <edge id="43" source="Josep_Trigo" target="QuimTorraiPla" />
+      <edge id="44" source="jovellado" target="QuimTorraiPla" />
+      <edge id="45" source="jbadia16" target="QuimTorraiPla" />
+      <edge id="46" source="sergisabria" target="QuimTorraiPla" />
+      <edge id="47" source="AamerAnwar" target="QuimTorraiPla" />
+      <edge id="48" source="GenisSinca" target="QuimTorraiPla" />
+      <edge id="49" source="PepxSole" target="QuimTorraiPla" />
+      <edge id="50" source="fundacioemys" target="QuimTorraiPla" />
+      <edge id="51" source="catmemoria" target="QuimTorraiPla" />
+      <edge id="52" source="josepmaguirre" target="QuimTorraiPla" />
+      <edge id="53" source="marsal_llimona" target="QuimTorraiPla" />
+      <edge id="54" source="nicolastomas" target="QuimTorraiPla" />
+      <edge id="55" source="FreeJunqueras" target="QuimTorraiPla" />
+      <edge id="56" source="ArbatPau" target="QuimTorraiPla" />
+      <edge id="57" source="JosepMLozano" target="QuimTorraiPla" />
+      <edge id="58" source="nadalrafel" target="QuimTorraiPla" />
+      <edge id="59" source="itramselas" target="QuimTorraiPla" />
+      <edge id="60" source="Cafesdepatr" target="QuimTorraiPla" />
+      <edge id="61" source="Tuit_And_Shout" target="QuimTorraiPla" />
+      <edge id="62" source="elmonarac1" target="QuimTorraiPla" />
+      <edge id="63" source="ilnar_acoustic" target="QuimTorraiPla" />
+      <edge id="64" source="joseantich" target="QuimTorraiPla" />
+      <edge id="65" source="gcapdevila" target="QuimTorraiPla" />
+      <edge id="66" source="jordinopca" target="QuimTorraiPla" />
+      <edge id="67" source="yeyaboya" target="QuimTorraiPla" />
+      <edge id="68" source="AlbertBenzekry" target="QuimTorraiPla" />
+      <edge id="69" source="jorditortosac" target="QuimTorraiPla" />
+      <edge id="70" source="hospitabulis" target="QuimTorraiPla" />
+      <edge id="71" source="mnunesal" target="QuimTorraiPla" />
+      <edge id="72" source="kpeiro" target="QuimTorraiPla" />
+      <edge id="73" source="MemoriaCat" target="QuimTorraiPla" />
+      <edge id="74" source="rogertorrent" target="QuimTorraiPla" />
+      <edge id="75" source="dolorsbassac" target="QuimTorraiPla" />
+      <edge id="76" source="EmiManz" target="QuimTorraiPla" />
+      <edge id="77" source="openculture" target="QuimTorraiPla" />
+      <edge id="78" source="Andreumasd" target="QuimTorraiPla" />
+      <edge id="79" source="abel_riu" target="QuimTorraiPla" />
+      <edge id="80" source="albert_ciurana" target="QuimTorraiPla" />
+      <edge id="81" source="MontseAyats" target="QuimTorraiPla" />
+      <edge id="82" source="Granollacs" target="QuimTorraiPla" />
+      <edge id="83" source="LAIMPOSSIBLE_LL" target="QuimTorraiPla" />
+      <edge id="84" source="mariadolorsa" target="QuimTorraiPla" />
+      <edge id="85" source="anna_caula" target="QuimTorraiPla" />
+      <edge id="86" source="overges" target="QuimTorraiPla" />
+      <edge id="87" source="albertbatet" target="QuimTorraiPla" />
+      <edge id="88" source="mariarosapons" target="QuimTorraiPla" />
+      <edge id="89" source="AlexGutierrezM" target="QuimTorraiPla" />
+      <edge id="90" source="tonistrubellt" target="QuimTorraiPla" />
+      <edge id="91" source="QuimTorraiPla" target="macips01" />
+      <edge id="92" source="QuimTorraiPla" target="AngladaMarti" />
+      <edge id="93" source="QuimTorraiPla" target="josepmaria_aloy" />
+      <edge id="94" source="QuimTorraiPla" target="alextortsagues" />
+      <edge id="95" source="QuimTorraiPla" target="joanm63" />
+      <edge id="96" source="QuimTorraiPla" target="ramontremosa" />
+      <edge id="97" source="QuimTorraiPla" target="marcbataller" />
+      <edge id="98" source="QuimTorraiPla" target="guardian" />
+      <edge id="99" source="QuimTorraiPla" target="RevistaEsguard" />
+      <edge id="100" source="QuimTorraiPla" target="324cat" />
+      <edge id="101" source="QuimTorraiPla" target="QuimMonzo" />
+      <edge id="102" source="QuimTorraiPla" target="BeyondBCN" />
+      <edge id="103" source="QuimTorraiPla" target="jordialapreso" />
+      <edge id="104" source="QuimTorraiPla" target="david_bassa" />
+      <edge id="105" source="QuimTorraiPla" target="oraclecatradio" />
+      <edge id="106" source="QuimTorraiPla" target="JoanCCanela" />
+      <edge id="107" source="QuimTorraiPla" target="MarcColomer" />
+      <edge id="108" source="QuimTorraiPla" target="antonibassas" />
+      <edge id="109" source="QuimTorraiPla" target="oneslacultura" />
+      <edge id="110" source="QuimTorraiPla" target="JosepGinesta" />
+      <edge id="111" source="QuimTorraiPla" target="JLluisG" />
+      <edge id="112" source="QuimTorraiPla" target="tunisocatala" />
+      <edge id="113" source="QuimTorraiPla" target="Codi40" />
+      <edge id="114" source="QuimTorraiPla" target="JoelJoanJuve" />
+      <edge id="115" source="QuimTorraiPla" target="negritasycursiv" />
+      <edge id="116" source="QuimTorraiPla" target="FerranEspada" />
+      <edge id="117" source="QuimTorraiPla" target="AntoniPladevall" />
+      <edge id="118" source="QuimTorraiPla" target="joseprull" />
+      <edge id="119" source="QuimTorraiPla" target="jordicalvis" />
+      <edge id="120" source="QuimTorraiPla" target="ForcadellCarme" />
+      <edge id="121" source="QuimTorraiPla" target="aleixsalvans" />
+      <edge id="122" source="QuimTorraiPla" target="tonialba" />
+      <edge id="123" source="QuimTorraiPla" target="MeritxellSerret" />
+      <edge id="124" source="QuimTorraiPla" target="xaviborrell" />
+      <edge id="125" source="QuimTorraiPla" target="mferres" />
+      <edge id="126" source="QuimTorraiPla" target="gemmaruiz_" />
+      <edge id="127" source="QuimTorraiPla" target="CDR_Cassoles" />
+      <edge id="128" source="QuimTorraiPla" target="FundacioCCC" />
+      <edge id="129" source="QuimTorraiPla" target="Viquipedia" />
+      <edge id="130" source="QuimTorraiPla" target="CreusJordi" />
+      <edge id="131" source="QuimTorraiPla" target="Bernat_Deltell" />
+      <edge id="132" source="QuimTorraiPla" target="lciuro" />
+      <edge id="133" source="QuimTorraiPla" target="gerardsese" />
+      <edge id="134" source="QuimTorraiPla" target="bernatff" />
+      <edge id="135" source="QuimTorraiPla" target="Apujolmas" />
+      <edge id="136" source="QuimTorraiPla" target="OmniumIntl" />
+      <edge id="137" source="QuimTorraiPla" target="MtnezdeBrea" />
+      <edge id="138" source="QuimTorraiPla" target="lletres" />
+      <edge id="139" source="QuimTorraiPla" target="miquelcolomert" />
+      <edge id="140" source="QuimTorraiPla" target="luisarbuniel" />
+      <edge id="141" source="QuimTorraiPla" target="PereMas" />
+      <edge id="142" source="QuimTorraiPla" target="miquel_noguera" />
+      <edge id="143" source="QuimTorraiPla" target="AnnaAroca" />
+      <edge id="144" source="QuimTorraiPla" target="untikes" />
+      <edge id="145" source="QuimTorraiPla" target="carles_orriols" />
+      <edge id="146" source="QuimTorraiPla" target="jserracarne" />
+      <edge id="147" source="QuimTorraiPla" target="saulgordillo" />
+      <edge id="148" source="QuimTorraiPla" target="mstrubell" />
+      <edge id="149" source="QuimTorraiPla" target="albertcuesta" />
+      <edge id="150" source="QuimTorraiPla" target="gcalvetbarot" />
+      <edge id="151" source="QuimTorraiPla" target="JoanRubioBarris" />
+      <edge id="152" source="QuimTorraiPla" target="PonsPereAntoni" />
+      <edge id="153" source="QuimTorraiPla" target="AnnaSimo" />
+      <edge id="154" source="QuimTorraiPla" target="toniterim" />
+      <edge id="155" source="QuimTorraiPla" target="bertatrullas" />
+      <edge id="156" source="QuimTorraiPla" target="empaperem" />
+      <edge id="157" source="QuimTorraiPla" target="albertbatalla" />
+      <edge id="158" source="QuimTorraiPla" target="albertsaezc" />
+      <edge id="159" source="QuimTorraiPla" target="lluis_llach" />
+      <edge id="160" source="QuimTorraiPla" target="Llegirencasdinc" />
+      <edge id="161" source="QuimTorraiPla" target="vpartal" />
+      <edge id="162" source="QuimTorraiPla" target="QuicoSalles" />
+      <edge id="163" source="QuimTorraiPla" target="mangelestrade" />
+      <edge id="164" source="QuimTorraiPla" target="Gemmaaguilera" />
+      <edge id="165" source="QuimTorraiPla" target="llumenera" />
+      <edge id="166" source="QuimTorraiPla" target="LauraHuergaRV" />
+      <edge id="167" source="QuimTorraiPla" target="nvblanch" />
+      <edge id="168" source="QuimTorraiPla" target="Quimkong" />
+      <edge id="169" source="QuimTorraiPla" target="RaholaOficial" />
+      <edge id="170" source="QuimTorraiPla" target="jordifranc" />
+      <edge id="171" source="QuimTorraiPla" target="BadiaJordi" />
+      <edge id="172" source="QuimTorraiPla" target="toniclapes" />
+      <edge id="173" source="QuimTorraiPla" target="GenisBarnosell" />
+      <edge id="174" source="QuimTorraiPla" target="jordicuminal" />
+      <edge id="175" source="QuimTorraiPla" target="Abel_Cutillas" />
+      <edge id="176" source="QuimTorraiPla" target="txearana" />
+      <edge id="177" source="QuimTorraiPla" target="carmevidal2" />
+      <edge id="178" source="QuimTorraiPla" target="ganyet" />
+      <edge id="179" source="QuimTorraiPla" target="jordirodo" />
+      <edge id="180" source="QuimTorraiPla" target="Jaumeasens" />
+      <edge id="181" source="QuimTorraiPla" target="jesculies" />
+      <edge id="182" source="QuimTorraiPla" target="Paperdevidre" />
+      <edge id="183" source="QuimTorraiPla" target="roliver_" />
+      <edge id="184" source="QuimTorraiPla" target="ricardcastellet" />
+      <edge id="185" source="QuimTorraiPla" target="maticatradio" />
+      <edge id="186" source="QuimTorraiPla" target="MariaPalau75" />
+      <edge id="187" source="QuimTorraiPla" target="ssolerg" />
+      <edge id="188" source="QuimTorraiPla" target="IvanLQF" />
+      <edge id="189" source="QuimTorraiPla" target="albertmartnez" />
+      <edge id="190" source="QuimTorraiPla" target="lamira" />
+      <edge id="191" source="QuimTorraiPla" target="ramonetros" />
+      <edge id="192" source="QuimTorraiPla" target="quimcurbet" />
+      <edge id="193" source="QuimTorraiPla" target="Gazofilaci" />
+      <edge id="194" source="QuimTorraiPla" target="octavi1" />
+      <edge id="195" source="QuimTorraiPla" target="rvilablareix" />
+      <edge id="196" source="QuimTorraiPla" target="MelciorComes" />
+      <edge id="197" source="QuimTorraiPla" target="LlSalvado" />
+      <edge id="198" source="QuimTorraiPla" target="neuslloveras" />
+      <edge id="199" source="QuimTorraiPla" target="SintesOlivella" />
+      <edge id="200" source="QuimTorraiPla" target="quimnadal" />
+      <edge id="201" source="QuimTorraiPla" target="AMAT_VIDAL" />
+      <edge id="202" source="QuimTorraiPla" target="davidmarti" />
+      <edge id="203" source="QuimTorraiPla" target="caigueral" />
+      <edge id="204" source="QuimTorraiPla" target="jmtresserras" />
+      <edge id="205" source="QuimTorraiPla" target="Yeagov_CAT" />
+      <edge id="206" source="QuimTorraiPla" target="xavieritja" />
+      <edge id="207" source="QuimTorraiPla" target="albertmercade" />
+      <edge id="208" source="QuimTorraiPla" target="silentmoviegifs" />
+      <edge id="209" source="QuimTorraiPla" target="JosepArnau" />
+      <edge id="210" source="QuimTorraiPla" target="solsona_marc" />
+      <edge id="211" source="QuimTorraiPla" target="ilergeta28" />
+      <edge id="212" source="QuimTorraiPla" target="replicanta_" />
+      <edge id="213" source="QuimTorraiPla" target="EnricGoma" />
+      <edge id="214" source="QuimTorraiPla" target="Xavi_Castillo" />
+      <edge id="215" source="QuimTorraiPla" target="catamcouncil" />
+      <edge id="216" source="QuimTorraiPla" target="anasurra" />
+      <edge id="217" source="QuimTorraiPla" target="SMarimonMolas" />
+      <edge id="218" source="QuimTorraiPla" target="carlescampuzano" />
+      <edge id="219" source="QuimTorraiPla" target="iolandabatalle" />
+      <edge id="220" source="QuimTorraiPla" target="RocaBatista" />
+      <edge id="221" source="QuimTorraiPla" target="jordigalves" />
+      <edge id="222" source="QuimTorraiPla" target="jordiroura77" />
+      <edge id="223" source="QuimTorraiPla" target="mlasalas" />
+      <edge id="224" source="QuimTorraiPla" target="emergenciescat" />
+      <edge id="225" source="QuimTorraiPla" target="philmusical" />
+      <edge id="226" source="QuimTorraiPla" target="oetxearte" />
+      <edge id="227" source="QuimTorraiPla" target="elpuntavui" />
+      <edge id="228" source="QuimTorraiPla" target="jmvidalillanes" />
+      <edge id="229" source="QuimTorraiPla" target="RogerVinton" />
+      <edge id="230" source="QuimTorraiPla" target="tonipalmes" />
+      <edge id="231" source="QuimTorraiPla" target="pboschcuenca" />
+      <edge id="232" source="QuimTorraiPla" target="marcmonells" />
+      <edge id="233" source="QuimTorraiPla" target="oleguerserra" />
+      <edge id="234" source="QuimTorraiPla" target="xavialtadill" />
+      <edge id="235" source="QuimTorraiPla" target="Llibertferri" />
+      <edge id="236" source="QuimTorraiPla" target="Josepmcervera" />
+      <edge id="237" source="QuimTorraiPla" target="didacboza" />
+      <edge id="238" source="QuimTorraiPla" target="OriolAmoros" />
+      <edge id="239" source="QuimTorraiPla" target="TxusMedina" />
+      <edge id="240" source="QuimTorraiPla" target="CarlesMundo" />
+      <edge id="241" source="QuimTorraiPla" target="lenz_adam" />
+      <edge id="242" source="QuimTorraiPla" target="rosamorla" />
+      <edge id="243" source="QuimTorraiPla" target="arnau_torrente" />
+      <edge id="244" source="QuimTorraiPla" target="JoancodinaRdC" />
+      <edge id="245" source="QuimTorraiPla" target="Ignasiara" />
+      <edge id="246" source="QuimTorraiPla" target="LauraBorras" />
+      <edge id="247" source="QuimTorraiPla" target="aleixrenye" />
+      <edge id="248" source="QuimTorraiPla" target="govern" />
+      <edge id="249" source="QuimTorraiPla" target="peremarticolom" />
+      <edge id="250" source="QuimTorraiPla" target="ToporMarcela" />
+      <edge id="251" source="QuimTorraiPla" target="Joanridao" />
+      <edge id="252" source="QuimTorraiPla" target="ramirp" />
+      <edge id="253" source="QuimTorraiPla" target="ferrannett" />
+      <edge id="254" source="QuimTorraiPla" target="ChavaSans" />
+      <edge id="255" source="QuimTorraiPla" target="xecspir" />
+      <edge id="256" source="QuimTorraiPla" target="OnaLlibres" />
+      <edge id="257" source="QuimTorraiPla" target="joanpinyolcolom" />
+      <edge id="258" source="QuimTorraiPla" target="UriS77" />
+      <edge id="259" source="QuimTorraiPla" target="Fotlipou" />
+      <edge id="260" source="QuimTorraiPla" target="VinosPijoan" />
+      <edge id="261" source="QuimTorraiPla" target="marxal87" />
+      <edge id="262" source="QuimTorraiPla" target="faves_comptades" />
+      <edge id="263" source="QuimTorraiPla" target="cnacasol" />
+      <edge id="264" source="QuimTorraiPla" target="openarms_fund" />
+      <edge id="265" source="QuimTorraiPla" target="LaSega1640" />
+      <edge id="266" source="QuimTorraiPla" target="evacalvet" />
+      <edge id="267" source="QuimTorraiPla" target="PoesiaRepublica" />
+      <edge id="268" source="QuimTorraiPla" target="lluismundet" />
+      <edge id="269" source="QuimTorraiPla" target="CalDirHo" />
+      <edge id="270" source="QuimTorraiPla" target="MSorribesC" />
+      <edge id="271" source="QuimTorraiPla" target="qgrifell" />
+      <edge id="272" source="QuimTorraiPla" target="la_llanca" />
+      <edge id="273" source="QuimTorraiPla" target="RramonfRrf" />
+      <edge id="274" source="QuimTorraiPla" target="elsuplement" />
+      <edge id="275" source="QuimTorraiPla" target="jaumeferrerpuig" />
+      <edge id="276" source="QuimTorraiPla" target="osuanya" />
+      <edge id="277" source="QuimTorraiPla" target="MonDiari" />
+      <edge id="278" source="QuimTorraiPla" target="LopezJaume" />
+      <edge id="279" source="QuimTorraiPla" target="La_Retaguardia" />
+      <edge id="280" source="QuimTorraiPla" target="jaumeclotet" />
+      <edge id="281" source="QuimTorraiPla" target="maihaviaditque" />
+      <edge id="282" source="QuimTorraiPla" target="CridaDemocracia" />
+      <edge id="283" source="QuimTorraiPla" target="boye_g" />
+      <edge id="284" source="QuimTorraiPla" target="lotigre" />
+      <edge id="285" source="QuimTorraiPla" target="mjculturania" />
+      <edge id="286" source="QuimTorraiPla" target="Aballbona" />
+      <edge id="287" source="QuimTorraiPla" target="jciurana" />
+      <edge id="288" source="QuimTorraiPla" target="Jaumaulet" />
+      <edge id="289" source="QuimTorraiPla" target="irenemabellan" />
+      <edge id="290" source="QuimTorraiPla" target="hervassj" />
+      <edge id="291" source="QuimTorraiPla" target="joanpique1" />
+      <edge id="292" source="QuimTorraiPla" target="victor_puig" />
+      <edge id="293" source="QuimTorraiPla" target="Colonos_Cs" />
+      <edge id="294" source="QuimTorraiPla" target="josepalay" />
+      <edge id="295" source="QuimTorraiPla" target="davidminoves" />
+      <edge id="296" source="QuimTorraiPla" target="ericviladrich" />
+      <edge id="297" source="QuimTorraiPla" target="auTICdidacta" />
+      <edge id="298" source="QuimTorraiPla" target="herodot10" />
+      <edge id="299" source="QuimTorraiPla" target="Jordi_Sanuy" />
+      <edge id="300" source="QuimTorraiPla" target="cantalozella" />
+      <edge id="301" source="QuimTorraiPla" target="jordicabre" />
+      <edge id="302" source="QuimTorraiPla" target="ref1oct" />
+      <edge id="303" source="QuimTorraiPla" target="ECampdepadros" />
+      <edge id="304" source="QuimTorraiPla" target="ernestmaragall" />
+      <edge id="305" source="QuimTorraiPla" target="DocumentaBCN" />
+      <edge id="306" source="QuimTorraiPla" target="RamonLlull_" />
+      <edge id="307" source="QuimTorraiPla" target="queconovell" />
+      <edge id="308" source="QuimTorraiPla" target="quimserratoro" />
+      <edge id="309" source="QuimTorraiPla" target="salvadorcot" />
+      <edge id="310" source="QuimTorraiPla" target="DiariJornada" />
+      <edge id="311" source="QuimTorraiPla" target="Pesacapsada" />
+      <edge id="312" source="QuimTorraiPla" target="ANC_Mossos" />
+      <edge id="313" source="QuimTorraiPla" target="guillemclapes" />
+      <edge id="314" source="QuimTorraiPla" target="epaluzie" />
+      <edge id="315" source="QuimTorraiPla" target="gallifantes" />
+      <edge id="316" source="QuimTorraiPla" target="JosepMPlanes" />
+      <edge id="317" source="QuimTorraiPla" target="VIAEmpresa" />
+      <edge id="318" source="QuimTorraiPla" target="xbundo" />
+      <edge id="319" source="QuimTorraiPla" target="llibresxllegir" />
+      <edge id="320" source="QuimTorraiPla" target="BernatGimeno" />
+      <edge id="321" source="QuimTorraiPla" target="AntoniGarrell" />
+      <edge id="322" source="QuimTorraiPla" target="espremulla" />
+      <edge id="323" source="QuimTorraiPla" target="HeroisIndepes" />
+      <edge id="324" source="QuimTorraiPla" target="j_galimatias" />
+      <edge id="325" source="QuimTorraiPla" target="laiabalcells" />
+      <edge id="326" source="QuimTorraiPla" target="LateHumans" />
+      <edge id="327" source="QuimTorraiPla" target="MartiEstruch" />
+      <edge id="328" source="QuimTorraiPla" target="pilarcalvo13" />
+      <edge id="329" source="QuimTorraiPla" target="EsterFranquesaB" />
+      <edge id="330" source="QuimTorraiPla" target="Nisso" />
+      <edge id="331" source="QuimTorraiPla" target="Jordiboschdb" />
+      <edge id="332" source="QuimTorraiPla" target="esparver" />
+      <edge id="333" source="QuimTorraiPla" target="nuriadgc" />
+      <edge id="334" source="QuimTorraiPla" target="salvadoralsius" />
+      <edge id="335" source="QuimTorraiPla" target="coronelabarcelo" />
+      <edge id="336" source="QuimTorraiPla" target="EugeniaBroggi" />
+      <edge id="337" source="QuimTorraiPla" target="MTudela" />
+      <edge id="338" source="QuimTorraiPla" target="vialliure" />
+      <edge id="339" source="QuimTorraiPla" target="joansafont" />
+      <edge id="340" source="QuimTorraiPla" target="Randstad_Empleo" />
+      <edge id="341" source="QuimTorraiPla" target="xantallavina" />
+      <edge id="342" source="QuimTorraiPla" target="salvagarcia" />
+      <edge id="343" source="QuimTorraiPla" target="ra_masr" />
+      <edge id="344" source="QuimTorraiPla" target="naciodigital" />
+      <edge id="345" source="QuimTorraiPla" target="campllibertat" />
+      <edge id="346" source="QuimTorraiPla" target="asj_dasilva" />
+      <edge id="347" source="QuimTorraiPla" target="jmgrau76" />
+      <edge id="348" source="QuimTorraiPla" target="KurdisCat" />
+      <edge id="349" source="QuimTorraiPla" target="enpeudepau" />
+      <edge id="350" source="QuimTorraiPla" target="lopezbofill" />
+      <edge id="351" source="QuimTorraiPla" target="Llibresxrep" />
+      <edge id="352" source="QuimTorraiPla" target="AssangeDefence" />
+      <edge id="353" source="QuimTorraiPla" target="Quimi_Portet" />
+      <edge id="354" source="QuimTorraiPla" target="ModernetdeMerda" />
+      <edge id="355" source="QuimTorraiPla" target="BelOlid" />
+      <edge id="356" source="QuimTorraiPla" target="b4lduf4" />
+      <edge id="357" source="QuimTorraiPla" target="AAC_GD" />
+      <edge id="358" source="QuimTorraiPla" target="Nuriaqn" />
+      <edge id="359" source="QuimTorraiPla" target="alfrediniesta" />
+      <edge id="360" source="QuimTorraiPla" target="pepgimeno" />
+      <edge id="361" source="QuimTorraiPla" target="GranRecapte" />
+      <edge id="362" source="QuimTorraiPla" target="velasc_alberto" />
+      <edge id="363" source="QuimTorraiPla" target="neusmunte" />
+      <edge id="364" source="QuimTorraiPla" target="VilaDelsLlibres" />
+      <edge id="365" source="QuimTorraiPla" target="FerranFaRun" />
+      <edge id="366" source="QuimTorraiPla" target="encampanya" />
+      <edge id="367" source="QuimTorraiPla" target="m8m6j" />
+      <edge id="368" source="QuimTorraiPla" target="ftenc" />
+      <edge id="369" source="QuimTorraiPla" target="parlamentcat" />
+      <edge id="370" source="QuimTorraiPla" target="CDRCatOficial" />
+      <edge id="371" source="QuimTorraiPla" target="nuvol_com" />
+      <edge id="372" source="QuimTorraiPla" target="lukanora" />
+      <edge id="373" source="QuimTorraiPla" target="bcndesapareguda" />
+      <edge id="374" source="QuimTorraiPla" target="omniumlaselva" />
+      <edge id="375" source="QuimTorraiPla" target="Franel_Landau" />
+      <edge id="376" source="QuimTorraiPla" target="PortuariosCNT" />
+      <edge id="377" source="QuimTorraiPla" target="DrRaulDM" />
+      <edge id="378" source="QuimTorraiPla" target="iaia_toneta" />
+      <edge id="379" source="QuimTorraiPla" target="La_Directa" />
+      <edge id="380" source="QuimTorraiPla" target="primaries2019" />
+      <edge id="381" source="QuimTorraiPla" target="rogervilapadro" />
+      <edge id="382" source="QuimTorraiPla" target="AlvarLlobet" />
+      <edge id="383" source="QuimTorraiPla" target="Pompeu_Fabra" />
+      <edge id="384" source="QuimTorraiPla" target="IRuyra" />
+      <edge id="385" source="QuimTorraiPla" target="xinoxano_cat" />
+      <edge id="386" source="QuimTorraiPla" target="vilallongapac" />
+      <edge id="387" source="QuimTorraiPla" target="OscarJaneCh" />
+      <edge id="388" source="QuimTorraiPla" target="raulromeva" />
+      <edge id="389" source="QuimTorraiPla" target="VidalAragones" />
+      <edge id="390" source="QuimTorraiPla" target="jordisanchezp" />
+      <edge id="391" source="QuimTorraiPla" target="jm_clavero" />
+      <edge id="392" source="QuimTorraiPla" target="Alffig" />
+      <edge id="393" source="QuimTorraiPla" target="kim_soler" />
+      <edge id="394" source="QuimTorraiPla" target="davidtrepat" />
+      <edge id="395" source="QuimTorraiPla" target="RicardUstrell" />
+      <edge id="396" source="QuimTorraiPla" target="ramonroyo" />
+      <edge id="397" source="QuimTorraiPla" target="joanmargall" />
+      <edge id="398" source="QuimTorraiPla" target="PereCardus" />
+      <edge id="399" source="QuimTorraiPla" target="maiolichinus" />
+      <edge id="400" source="QuimTorraiPla" target="enricanals" />
+      <edge id="401" source="QuimTorraiPla" target="MichaelAtwoodM" />
+      <edge id="402" source="QuimTorraiPla" target="IsabelSucunza" />
+      <edge id="403" source="QuimTorraiPla" target="wagensberg" />
+      <edge id="404" source="QuimTorraiPla" target="HomeLent" />
+      <edge id="405" source="QuimTorraiPla" target="TiGall" />
+      <edge id="406" source="QuimTorraiPla" target="llsalellasvilar" />
+      <edge id="407" source="QuimTorraiPla" target="AnnaFiguera" />
+      <edge id="408" source="QuimTorraiPla" target="SubalQuinina" />
+      <edge id="409" source="QuimTorraiPla" target="ramontm" />
+      <edge id="410" source="QuimTorraiPla" target="eudaldcc" />
+      <edge id="411" source="QuimTorraiPla" target="CortadaJordi" />
+      <edge id="412" source="QuimTorraiPla" target="montsegatell1" />
+      <edge id="413" source="QuimTorraiPla" target="MolonsAntoni" />
+      <edge id="414" source="QuimTorraiPla" target="ServidorsCat" />
+      <edge id="415" source="QuimTorraiPla" target="krlsprts" />
+      <edge id="416" source="QuimTorraiPla" target="Burkminster" />
+      <edge id="417" source="QuimTorraiPla" target="joanjosepisern" />
+      <edge id="418" source="QuimTorraiPla" target="Joan_Sales" />
+      <edge id="419" source="QuimTorraiPla" target="francescabad" />
+      <edge id="420" source="QuimTorraiPla" target="oriolamat" />
+      <edge id="421" source="QuimTorraiPla" target="llubura" />
+      <edge id="422" source="QuimTorraiPla" target="elsa_artadi" />
+      <edge id="423" source="QuimTorraiPla" target="AnyLlull" />
+      <edge id="424" source="QuimTorraiPla" target="denterd" />
+      <edge id="425" source="QuimTorraiPla" target="AOSarria" />
+      <edge id="426" source="QuimTorraiPla" target="ComiteLlibertat" />
+      <edge id="427" source="QuimTorraiPla" target="mossos" />
+      <edge id="428" source="QuimTorraiPla" target="marcelmauri" />
+      <edge id="429" source="QuimTorraiPla" target="peppuigiboix" />
+      <edge id="430" source="QuimTorraiPla" target="Patrimonilit" />
+      <edge id="431" source="QuimTorraiPla" target="josep_rius" />
+      <edge id="432" source="QuimTorraiPla" target="jmangues" />
+      <edge id="433" source="QuimTorraiPla" target="MiquelBuch" />
+      <edge id="434" source="QuimTorraiPla" target="CartesxRep" />
+      <edge id="435" source="QuimTorraiPla" target="DucMantua" />
+      <edge id="436" source="QuimTorraiPla" target="JordiSerracant" />
+      <edge id="437" source="QuimTorraiPla" target="meiusferres" />
+      <edge id="438" source="QuimTorraiPla" target="AmadeuBrugues" />
+      <edge id="439" source="QuimTorraiPla" target="xaiecologic" />
+      <edge id="440" source="QuimTorraiPla" target="mporrasmarti" />
+      <edge id="441" source="QuimTorraiPla" target="quimmoreno" />
+      <edge id="442" source="QuimTorraiPla" target="DretsCat" />
+      <edge id="443" source="QuimTorraiPla" target="jm_cabases" />
+      <edge id="444" source="QuimTorraiPla" target="LaCalders" />
+      <edge id="445" source="QuimTorraiPla" target="CarmeMiroAlaix" />
+      <edge id="446" source="QuimTorraiPla" target="guillemcarol" />
+      <edge id="447" source="QuimTorraiPla" target="salvadorcardus" />
+      <edge id="448" source="QuimTorraiPla" target="setzejutges" />
+      <edge id="449" source="QuimTorraiPla" target="HiginiaRoig" />
+      <edge id="450" source="QuimTorraiPla" target="sumate_asoc" />
+      <edge id="451" source="QuimTorraiPla" target="tumultosvarios" />
+      <edge id="452" source="QuimTorraiPla" target="immagallardo" />
+      <edge id="453" source="QuimTorraiPla" target="pitudedeu" />
+      <edge id="454" source="QuimTorraiPla" target="cupnacional" />
+      <edge id="455" source="QuimTorraiPla" target="nytimes" />
+      <edge id="456" source="QuimTorraiPla" target="andreubarnils" />
+      <edge id="457" source="QuimTorraiPla" target="miracvla" />
+      <edge id="458" source="QuimTorraiPla" target="quimforn" />
+      <edge id="459" source="QuimTorraiPla" target="VictorFdez_" />
+      <edge id="460" source="QuimTorraiPla" target="Oriol67638017" />
+      <edge id="461" source="QuimTorraiPla" target="julidejdarmuoz" />
+      <edge id="462" source="QuimTorraiPla" target="marc_guerrero" />
+      <edge id="463" source="QuimTorraiPla" target="miriamnoguerasM" />
+      <edge id="464" source="QuimTorraiPla" target="BenetTatxo" />
+      <edge id="465" source="QuimTorraiPla" target="jsantasusagna" />
+      <edge id="466" source="QuimTorraiPla" target="CristinaTrias" />
+      <edge id="467" source="QuimTorraiPla" target="EduardClavell" />
+      <edge id="468" source="QuimTorraiPla" target="XPadrissa" />
+      <edge id="469" source="QuimTorraiPla" target="CDRCabrils" />
+      <edge id="470" source="QuimTorraiPla" target="LaRepublicaCat" />
+      <edge id="471" source="QuimTorraiPla" target="ToniPousSaltor" />
+      <edge id="472" source="QuimTorraiPla" target="cescesteve" />
+      <edge id="473" source="QuimTorraiPla" target="xfahndrich" />
+      <edge id="474" source="QuimTorraiPla" target="FaberResidency" />
+      <edge id="475" source="QuimTorraiPla" target="xavierbosch" />
+      <edge id="476" source="QuimTorraiPla" target="pepmartorell" />
+      <edge id="477" source="QuimTorraiPla" target="pausa_cafesol" />
+      <edge id="478" source="QuimTorraiPla" target="JoanMayolGibert" />
+      <edge id="479" source="QuimTorraiPla" target="josepvivesg" />
+      <edge id="480" source="QuimTorraiPla" target="MainarScanu" />
+      <edge id="481" source="QuimTorraiPla" target="CarodRoviraJLl" />
+      <edge id="482" source="QuimTorraiPla" target="BeatrizTalegon" />
+      <edge id="483" source="QuimTorraiPla" target="2211Mes" />
+      <edge id="484" source="QuimTorraiPla" target="SebastiaPortell" />
+      <edge id="485" source="QuimTorraiPla" target="versiorac1" />
+      <edge id="486" source="QuimTorraiPla" target="arxiunacional" />
+      <edge id="487" source="QuimTorraiPla" target="oriolripoll" />
+      <edge id="488" source="QuimTorraiPla" target="elmatidigital" />
+      <edge id="489" source="QuimTorraiPla" target="Nurioriol" />
+      <edge id="490" source="QuimTorraiPla" target="OttoOzols" />
+      <edge id="491" source="QuimTorraiPla" target="joanrusinol" />
+      <edge id="492" source="QuimTorraiPla" target="lluistry" />
+      <edge id="493" source="QuimTorraiPla" target="carlesserra3" />
+      <edge id="494" source="QuimTorraiPla" target="amadalvarez" />
+      <edge id="495" source="QuimTorraiPla" target="jordimartideu" />
+      <edge id="496" source="QuimTorraiPla" target="drudibuixa" />
+      <edge id="497" source="QuimTorraiPla" target="jan_xc" />
+      <edge id="498" source="QuimTorraiPla" target="oriolil" />
+      <edge id="499" source="QuimTorraiPla" target="gerardbat" />
+      <edge id="500" source="QuimTorraiPla" target="KommunikaCat" />
+      <edge id="501" source="QuimTorraiPla" target="martavilaltat" />
+      <edge id="502" source="QuimTorraiPla" target="CarmeFenoll" />
+      <edge id="503" source="QuimTorraiPla" target="MartiLloveras" />
+      <edge id="504" source="QuimTorraiPla" target="ncadenes" />
+      <edge id="505" source="QuimTorraiPla" target="iec" />
+      <edge id="506" source="QuimTorraiPla" target="lluisgibert" />
+      <edge id="507" source="QuimTorraiPla" target="Carles_Ribera" />
+      <edge id="508" source="QuimTorraiPla" target="byArguelles" />
+      <edge id="509" source="QuimTorraiPla" target="TeresaJorda" />
+      <edge id="510" source="QuimTorraiPla" target="AnnaForastier" />
+      <edge id="511" source="QuimTorraiPla" target="sergipicazo" />
+      <edge id="512" source="QuimTorraiPla" target="odradek1" />
+      <edge id="513" source="QuimTorraiPla" target="Foreign_Cat" />
+      <edge id="514" source="QuimTorraiPla" target="dialecsost" />
+      <edge id="515" source="QuimTorraiPla" target="JoanLaportaFCB" />
+      <edge id="516" source="QuimTorraiPla" target="Angels_Folch" />
+      <edge id="517" source="QuimTorraiPla" target="Ferrancm" />
+      <edge id="518" source="QuimTorraiPla" target="Cat_Lliures" />
+      <edge id="519" source="QuimTorraiPla" target="joanqueralto" />
+      <edge id="520" source="QuimTorraiPla" target="torrentsramon" />
+      <edge id="521" source="QuimTorraiPla" target="Toni_Cruanyes" />
+      <edge id="522" source="QuimTorraiPla" target="newm161" />
+      <edge id="523" source="QuimTorraiPla" target="Rondinaire_" />
+      <edge id="524" source="QuimTorraiPla" target="pilarcarracelas" />
+      <edge id="525" source="QuimTorraiPla" target="alb_macviv" />
+      <edge id="526" source="QuimTorraiPla" target="el_sonat" />
+      <edge id="527" source="QuimTorraiPla" target="ppamaso" />
+      <edge id="528" source="QuimTorraiPla" target="PereGrauV" />
+      <edge id="529" source="QuimTorraiPla" target="RamonPique" />
+      <edge id="530" source="QuimTorraiPla" target="Sistomatiques" />
+      <edge id="531" source="QuimTorraiPla" target="RamonPardina" />
+      <edge id="532" source="QuimTorraiPla" target="mlluisvall" />
+      <edge id="533" source="QuimTorraiPla" target="perearagones" />
+      <edge id="534" source="QuimTorraiPla" target="RamonGallego5" />
+      <edge id="535" source="QuimTorraiPla" target="9delpalau" />
+      <edge id="536" source="QuimTorraiPla" target="mgabriela_serra" />
+      <edge id="537" source="QuimTorraiPla" target="ebotias" />
+      <edge id="538" source="QuimTorraiPla" target="enriccanela" />
+      <edge id="539" source="QuimTorraiPla" target="BenEmmerson1" />
+      <edge id="540" source="QuimTorraiPla" target="barchinonadia" />
+      <edge id="541" source="QuimTorraiPla" target="caigueral2" />
+      <edge id="542" source="QuimTorraiPla" target="jordiborras" />
+      <edge id="543" source="QuimTorraiPla" target="OriMarch" />
+      <edge id="544" source="QuimTorraiPla" target="JuntsXCat" />
+      <edge id="545" source="QuimTorraiPla" target="murielcasals" />
+      <edge id="546" source="QuimTorraiPla" target="MiquelMacia" />
+      <edge id="547" source="QuimTorraiPla" target="MainatJM" />
+      <edge id="548" source="QuimTorraiPla" target="andreu_rojals" />
+      <edge id="549" source="QuimTorraiPla" target="marina_espasa" />
+      <edge id="550" source="QuimTorraiPla" target="nuriaiceta" />
+      <edge id="551" source="QuimTorraiPla" target="jaume_pros" />
+      <edge id="552" source="QuimTorraiPla" target="angleeditorial" />
+      <edge id="553" source="QuimTorraiPla" target="JoanQueralt" />
+      <edge id="554" source="QuimTorraiPla" target="EnricBda" />
+      <edge id="555" source="QuimTorraiPla" target="AMI__cat" />
+      <edge id="556" source="QuimTorraiPla" target="bacalla_romesco" />
+      <edge id="557" source="QuimTorraiPla" target="jordiferreb" />
+      <edge id="558" source="QuimTorraiPla" target="gebelque" />
+      <edge id="559" source="QuimTorraiPla" target="Well086" />
+      <edge id="560" source="QuimTorraiPla" target="toni_comin" />
+      <edge id="561" source="QuimTorraiPla" target="neusmatamala" />
+      <edge id="562" source="QuimTorraiPla" target="ChakirelHomrani" />
+      <edge id="563" source="QuimTorraiPla" target="angelsmcastells" />
+      <edge id="564" source="QuimTorraiPla" target="Alex_Susanna" />
+      <edge id="565" source="QuimTorraiPla" target="JonTugores" />
+      <edge id="566" source="QuimTorraiPla" target="GuillemTorra00" />
+      <edge id="567" source="QuimTorraiPla" target="TxellBonet" />
+      <edge id="568" source="QuimTorraiPla" target="angelschacon" />
+      <edge id="569" source="QuimTorraiPla" target="JordiGraupera" />
+      <edge id="570" source="QuimTorraiPla" target="trosich" />
+      <edge id="571" source="QuimTorraiPla" target="rcodines" />
+      <edge id="572" source="QuimTorraiPla" target="jofrellombart" />
+      <edge id="573" source="QuimTorraiPla" target="m_guibernau" />
+      <edge id="574" source="QuimTorraiPla" target="JoanTarda" />
+      <edge id="575" source="QuimTorraiPla" target="Acontravent" />
+      <edge id="576" source="QuimTorraiPla" target="elbenegre" />
+      <edge id="577" source="QuimTorraiPla" target="jordisolef" />
+      <edge id="578" source="QuimTorraiPla" target="fcesccruanyes" />
+      <edge id="579" source="QuimTorraiPla" target="strisciandel" />
+      <edge id="580" source="QuimTorraiPla" target="jordisagu" />
+      <edge id="581" source="QuimTorraiPla" target="clusells" />
+      <edge id="582" source="QuimTorraiPla" target="aperezmir" />
+      <edge id="583" source="QuimTorraiPla" target="Txite" />
+      <edge id="584" source="QuimTorraiPla" target="jordimunell" />
+      <edge id="585" source="QuimTorraiPla" target="marzoar" />
+      <edge id="586" source="QuimTorraiPla" target="AlexFenoll" />
+      <edge id="587" source="QuimTorraiPla" target="josepcosta" />
+      <edge id="588" source="QuimTorraiPla" target="UGTTarragona" />
+      <edge id="589" source="QuimTorraiPla" target="apuente" />
+      <edge id="590" source="QuimTorraiPla" target="francescmuntada" />
+      <edge id="591" source="QuimTorraiPla" target="ElTemps_cat" />
+      <edge id="592" source="QuimTorraiPla" target="vilallonga" />
+      <edge id="593" source="QuimTorraiPla" target="cibernautajoan" />
+      <edge id="594" source="QuimTorraiPla" target="ClipsterBCN" />
+      <edge id="595" source="QuimTorraiPla" target="bricelafontaine" />
+      <edge id="596" source="QuimTorraiPla" target="lluisbou" />
+      <edge id="597" source="QuimTorraiPla" target="soler_toni" />
+      <edge id="598" source="QuimTorraiPla" target="illadelsllibres" />
+      <edge id="599" source="QuimTorraiPla" target="jordi_pons" />
+      <edge id="600" source="QuimTorraiPla" target="Criticartt" />
+      <edge id="601" source="QuimTorraiPla" target="JaumeNollaiMart" />
+      <edge id="602" source="QuimTorraiPla" target="Marc_Amat" />
+      <edge id="603" source="QuimTorraiPla" target="jmximenis" />
+      <edge id="604" source="QuimTorraiPla" target="quimdelgadobe" />
+      <edge id="605" source="QuimTorraiPla" target="CalpenaEnric" />
+      <edge id="606" source="QuimTorraiPla" target="avallenc" />
+      <edge id="607" source="QuimTorraiPla" target="tothistoria" />
+      <edge id="608" source="QuimTorraiPla" target="OriolMalet" />
+      <edge id="609" source="QuimTorraiPla" target="ClaraPonsati" />
+      <edge id="610" source="QuimTorraiPla" target="antoniobanos_" />
+      <edge id="611" source="QuimTorraiPla" target="TianRiba" />
+      <edge id="612" source="QuimTorraiPla" target="ramoncotarelo" />
+      <edge id="613" source="QuimTorraiPla" target="lluisdomingo" />
+      <edge id="614" source="QuimTorraiPla" target="EvaPiquer" />
+      <edge id="615" source="QuimTorraiPla" target="pauetvidal" />
+      <edge id="616" source="QuimTorraiPla" target="JoanGFabra" />
+      <edge id="617" source="QuimTorraiPla" target="manelR9" />
+      <edge id="618" source="QuimTorraiPla" target="0Seuba" />
+      <edge id="619" source="QuimTorraiPla" target="oriolllado" />
+      <edge id="620" source="QuimTorraiPla" target="AgustiBordas" />
+      <edge id="621" source="QuimTorraiPla" target="BiblioCatalunya" />
+      <edge id="622" source="QuimTorraiPla" target="OrestesMas" />
+      <edge id="623" source="QuimTorraiPla" target="jordicasadevall" />
+      <edge id="624" source="QuimTorraiPla" target="lizcastro" />
+      <edge id="625" source="QuimTorraiPla" target="FrancescSeres" />
+      <edge id="626" source="QuimTorraiPla" target="gabrielrufian" />
+      <edge id="627" source="QuimTorraiPla" target="JNCCiutatVella" />
+      <edge id="628" source="QuimTorraiPla" target="albertllussa" />
+      <edge id="629" source="QuimTorraiPla" target="alexsastre83" />
+      <edge id="630" source="QuimTorraiPla" target="maiolroger" />
+      <edge id="631" source="QuimTorraiPla" target="nicolapadovan" />
+      <edge id="632" source="QuimTorraiPla" target="imamis" />
+      <edge id="633" source="QuimTorraiPla" target="pereprats" />
+      <edge id="634" source="QuimTorraiPla" target="Elviraduranc" />
+      <edge id="635" source="QuimTorraiPla" target="npini" />
+      <edge id="636" source="QuimTorraiPla" target="jordimunozm" />
+      <edge id="637" source="QuimTorraiPla" target="HanselGretelBCN" />
+      <edge id="638" source="QuimTorraiPla" target="Candeliano" />
+      <edge id="639" source="QuimTorraiPla" target="marcarza" />
+      <edge id="640" source="QuimTorraiPla" target="iuforn" />
+      <edge id="641" source="QuimTorraiPla" target="FrancUllastre" />
+      <edge id="642" source="QuimTorraiPla" target="MarcPifarre" />
+      <edge id="643" source="QuimTorraiPla" target="joseppedrals" />
+      <edge id="644" source="QuimTorraiPla" target="BernatRuiz" />
+      <edge id="645" source="QuimTorraiPla" target="BernatDesclot" />
+      <edge id="646" source="QuimTorraiPla" target="JoanMagrane" />
+      <edge id="647" source="QuimTorraiPla" target="SilviabelB" />
+      <edge id="648" source="QuimTorraiPla" target="nomos46" />
+      <edge id="649" source="QuimTorraiPla" target="Prof_TGSchulze" />
+      <edge id="650" source="QuimTorraiPla" target="IRLlull" />
+      <edge id="651" source="QuimTorraiPla" target="mserracant" />
+      <edge id="652" source="QuimTorraiPla" target="isaacperaire" />
+      <edge id="653" source="QuimTorraiPla" target="kasalprim" />
+      <edge id="654" source="QuimTorraiPla" target="beltadoX" />
+      <edge id="655" source="QuimTorraiPla" target="CatalunyaRadio" />
+      <edge id="656" source="QuimTorraiPla" target="peresalo68" />
+      <edge id="657" source="QuimTorraiPla" target="albertpedret" />
+      <edge id="658" source="QuimTorraiPla" target="OscarAndreu" />
+      <edge id="659" source="QuimTorraiPla" target="JCarles_Navarro" />
+      <edge id="660" source="QuimTorraiPla" target="JosepRoquetes" />
+      <edge id="661" source="QuimTorraiPla" target="casals_neus" />
+      <edge id="662" source="QuimTorraiPla" target="NarcisGarolera" />
+      <edge id="663" source="QuimTorraiPla" target="maloslo69" />
+      <edge id="664" source="QuimTorraiPla" target="RevistadeCat" />
+      <edge id="665" source="QuimTorraiPla" target="CridaNacional" />
+      <edge id="666" source="QuimTorraiPla" target="jborrasarumi" />
+      <edge id="667" source="QuimTorraiPla" target="MiquelBonet_" />
+      <edge id="668" source="QuimTorraiPla" target="JacmePoch" />
+      <edge id="669" source="QuimTorraiPla" target="CNICatalunya" />
+      <edge id="670" source="QuimTorraiPla" target="jlcleries" />
+      <edge id="671" source="QuimTorraiPla" target="PereGendrau" />
+      <edge id="672" source="QuimTorraiPla" target="bibliotequescat" />
+      <edge id="673" source="QuimTorraiPla" target="AltresBcn" />
+      <edge id="674" source="QuimTorraiPla" target="raset_cat" />
+      <edge id="675" source="QuimTorraiPla" target="Rogerbuch" />
+      <edge id="676" source="QuimTorraiPla" target="RogerPala" />
+      <edge id="677" source="QuimTorraiPla" target="RoserPPCC" />
+      <edge id="678" source="QuimTorraiPla" target="tinavalles_" />
+      <edge id="679" source="QuimTorraiPla" target="cris_torrent" />
+      <edge id="680" source="QuimTorraiPla" target="Davizgonrub" />
+      <edge id="681" source="QuimTorraiPla" target="agenciaacn" />
+      <edge id="682" source="QuimTorraiPla" target="CodinaPuig" />
+      <edge id="683" source="QuimTorraiPla" target="salvem_pedra" />
+      <edge id="684" source="QuimTorraiPla" target="MVilallonga" />
+      <edge id="685" source="QuimTorraiPla" target="janquim" />
+      <edge id="686" source="QuimTorraiPla" target="SusodeToro1" />
+      <edge id="687" source="QuimTorraiPla" target="JoanSole_" />
+      <edge id="688" source="QuimTorraiPla" target="cultura_cat" />
+      <edge id="689" source="QuimTorraiPla" target="gasparblancafor" />
+      <edge id="690" source="QuimTorraiPla" target="ampique" />
+      <edge id="691" source="QuimTorraiPla" target="Somiatwiter" />
+      <edge id="692" source="QuimTorraiPla" target="lsala66pro" />
+      <edge id="693" source="QuimTorraiPla" target="DuarteCarles" />
+      <edge id="694" source="QuimTorraiPla" target="pastacatalans" />
+      <edge id="695" source="QuimTorraiPla" target="westpapuamedia" />
+      <edge id="696" source="QuimTorraiPla" target="aaltafaj" />
+      <edge id="697" source="QuimTorraiPla" target="ACDretsCivils" />
+      <edge id="698" source="QuimTorraiPla" target="CescaEsteve" />
+      <edge id="699" source="QuimTorraiPla" target="francesccanosa" />
+      <edge id="700" source="QuimTorraiPla" target="aleixclario" />
+      <edge id="701" source="QuimTorraiPla" target="JosepBargallo" />
+      <edge id="702" source="QuimTorraiPla" target="ANC_Vic" />
+      <edge id="703" source="QuimTorraiPla" target="GemmaGeis" />
+      <edge id="704" source="QuimTorraiPla" target="CastellaToni" />
+      <edge id="705" source="QuimTorraiPla" target="ManuelCuyas" />
+      <edge id="706" source="QuimTorraiPla" target="ictlogist" />
+      <edge id="707" source="QuimTorraiPla" target="xevialde" />
+      <edge id="708" source="QuimTorraiPla" target="jordiamat22" />
+      <edge id="709" source="QuimTorraiPla" target="OPonsatiMurla" />
+      <edge id="710" source="QuimTorraiPla" target="EconomRosDavid" />
+      <edge id="711" source="QuimTorraiPla" target="xmenduina" />
+      <edge id="712" source="QuimTorraiPla" target="Marc20F" />
+      <edge id="713" source="QuimTorraiPla" target="bernatvilaro" />
+      <edge id="714" source="QuimTorraiPla" target="egel71" />
+      <edge id="715" source="QuimTorraiPla" target="jordigraur" />
+      <edge id="716" source="QuimTorraiPla" target="andreu_gonzalez" />
+      <edge id="717" source="QuimTorraiPla" target="FAQSTV3" />
+      <edge id="718" source="QuimTorraiPla" target="LoPaudePonts" />
+      <edge id="719" source="QuimTorraiPla" target="Rincewindcat" />
+      <edge id="720" source="QuimTorraiPla" target="JoanYeguas" />
+      <edge id="721" source="QuimTorraiPla" target="e_sagrera" />
+      <edge id="722" source="QuimTorraiPla" target="pep_cruanyes" />
+      <edge id="723" source="QuimTorraiPla" target="sergicaldes" />
+      <edge id="724" source="QuimTorraiPla" target="Nollegiu" />
+      <edge id="725" source="QuimTorraiPla" target="jmreniu" />
+      <edge id="726" source="QuimTorraiPla" target="minvill" />
+      <edge id="727" source="QuimTorraiPla" target="mrierapla" />
+      <edge id="728" source="QuimTorraiPla" target="XavierAntich" />
+      <edge id="729" source="QuimTorraiPla" target="toniaira" />
+      <edge id="730" source="QuimTorraiPla" target="AdriaAlsina" />
+      <edge id="731" source="QuimTorraiPla" target="edvilalta" />
+      <edge id="732" source="QuimTorraiPla" target="JordiMarrugat" />
+      <edge id="733" source="QuimTorraiPla" target="Ignasi_Bonet_" />
+      <edge id="734" source="QuimTorraiPla" target="FD_EC" />
+      <edge id="735" source="QuimTorraiPla" target="angcastineira" />
+      <edge id="736" source="QuimTorraiPla" target="pausolaysuar" />
+      <edge id="737" source="QuimTorraiPla" target="emparmoliner" />
+      <edge id="738" source="QuimTorraiPla" target="BibliotequesBCN" />
+      <edge id="739" source="QuimTorraiPla" target="jordicreixell" />
+      <edge id="740" source="QuimTorraiPla" target="RogerHeredia83" />
+      <edge id="741" source="QuimTorraiPla" target="FrancescViadel" />
+      <edge id="742" source="QuimTorraiPla" target="elnacionalcat" />
+      <edge id="743" source="QuimTorraiPla" target="JaumeAlonsoCuev" />
+      <edge id="744" source="QuimTorraiPla" target="mirodavid" />
+      <edge id="745" source="QuimTorraiPla" target="GaloTuneu" />
+      <edge id="746" source="QuimTorraiPla" target="vicenteguallart" />
+      <edge id="747" source="QuimTorraiPla" target="carlesral" />
+      <edge id="748" source="QuimTorraiPla" target="notesVistes" />
+      <edge id="749" source="QuimTorraiPla" target="smithsonian" />
+      <edge id="750" source="QuimTorraiPla" target="LCTxInd" />
+      <edge id="751" source="QuimTorraiPla" target="capdevilajoan" />
+      <edge id="752" source="QuimTorraiPla" target="DCondeminas" />
+      <edge id="753" source="QuimTorraiPla" target="unilateralcat" />
+      <edge id="754" source="QuimTorraiPla" target="CollaDeSabadell" />
+      <edge id="755" source="QuimTorraiPla" target="MemoriaLlibres" />
+      <edge id="756" source="QuimTorraiPla" target="JosepLluchPuig" />
+      <edge id="757" source="QuimTorraiPla" target="Xaviercarmaniu" />
+      <edge id="758" source="QuimTorraiPla" target="jorditurull" />
+      <edge id="759" source="QuimTorraiPla" target="geli_anna" />
+      <edge id="760" source="QuimTorraiPla" target="llucsalellas" />
+      <edge id="761" source="QuimTorraiPla" target="altamiranoMLG" />
+      <edge id="762" source="QuimTorraiPla" target="SalaiCullell" />
+      <edge id="763" source="QuimTorraiPla" target="albertcastellon" />
+      <edge id="764" source="QuimTorraiPla" target="RutaPompeuFabra" />
+      <edge id="765" source="QuimTorraiPla" target="DolorsFeliu" />
+      <edge id="766" source="QuimTorraiPla" target="Miquel_Pueyo" />
+      <edge id="767" source="QuimTorraiPla" target="publico_es" />
+      <edge id="768" source="QuimTorraiPla" target="neustomas" />
+      <edge id="769" source="QuimTorraiPla" target="rgsait" />
+      <edge id="770" source="QuimTorraiPla" target="FundBlasInfante" />
+      <edge id="771" source="QuimTorraiPla" target="LlibresdelSegle" />
+      <edge id="772" source="QuimTorraiPla" target="112" />
+      <edge id="773" source="QuimTorraiPla" target="valex_cat" />
+      <edge id="774" source="QuimTorraiPla" target="joaneliesadell" />
+      <edge id="775" source="QuimTorraiPla" target="Fotlipouweb" />
+      <edge id="776" source="QuimTorraiPla" target="mtpallares" />
+      <edge id="777" source="QuimTorraiPla" target="marccastells" />
+      <edge id="778" source="QuimTorraiPla" target="JoanOliu" />
+      <edge id="779" source="QuimTorraiPla" target="joanmariapique" />
+      <edge id="780" source="QuimTorraiPla" target="XeniaBusse" />
+      <edge id="781" source="QuimTorraiPla" target="antonisoy" />
+      <edge id="782" source="QuimTorraiPla" target="LluisAgusti" />
+      <edge id="783" source="QuimTorraiPla" target="unisxrepublica" />
+      <edge id="784" source="QuimTorraiPla" target="roviramartinez" />
+      <edge id="785" source="QuimTorraiPla" target="ecasajoana" />
+      <edge id="786" source="QuimTorraiPla" target="elsomatent" />
+      <edge id="787" source="QuimTorraiPla" target="boixserra" />
+      <edge id="788" source="QuimTorraiPla" target="Pdemocratacat" />
+      <edge id="789" source="QuimTorraiPla" target="anna_arque" />
+      <edge id="790" source="QuimTorraiPla" target="eduardvoltas" />
+      <edge id="791" source="QuimTorraiPla" target="ColominasQuim" />
+      <edge id="792" source="QuimTorraiPla" target="senyorforns" />
+      <edge id="793" source="QuimTorraiPla" target="RamonTorrents" />
+      <edge id="794" source="QuimTorraiPla" target="Conf_Ratafia" />
+      <edge id="795" source="QuimTorraiPla" target="IsidorMari" />
+      <edge id="796" source="QuimTorraiPla" target="jordifinestres" />
+      <edge id="797" source="QuimTorraiPla" target="mncsls" />
+      <edge id="798" source="QuimTorraiPla" target="jordicoronas" />
+      <edge id="799" source="QuimTorraiPla" target="jcasulleras" />
+      <edge id="800" source="QuimTorraiPla" target="Cris_Puig" />
+      <edge id="801" source="QuimTorraiPla" target="martapascal" />
+      <edge id="802" source="QuimTorraiPla" target="mhistoriacat" />
+      <edge id="803" source="QuimTorraiPla" target="PepRieraFont" />
+      <edge id="804" source="QuimTorraiPla" target="LaRepCat" />
+      <edge id="805" source="QuimTorraiPla" target="SergiCastanye" />
+      <edge id="806" source="QuimTorraiPla" target="monichern" />
+      <edge id="807" source="QuimTorraiPla" target="puigtobella" />
+      <edge id="808" source="QuimTorraiPla" target="ANC_Bombers" />
+      <edge id="809" source="QuimTorraiPla" target="jaumepadros" />
+      <edge id="810" source="QuimTorraiPla" target="AdriPujol" />
+      <edge id="811" source="QuimTorraiPla" target="IMatavera" />
+      <edge id="812" source="QuimTorraiPla" target="jcuixart" />
+      <edge id="813" source="QuimTorraiPla" target="ZaklinNastic" />
+      <edge id="814" source="QuimTorraiPla" target="Nataliadipp" />
+      <edge id="815" source="QuimTorraiPla" target="belgranya" />
+      <edge id="816" source="QuimTorraiPla" target="Lespurnabloc" />
+      <edge id="817" source="QuimTorraiPla" target="llegirencatala" />
+      <edge id="818" source="QuimTorraiPla" target="casa_vicens" />
+      <edge id="819" source="QuimTorraiPla" target="CostaTrachsel" />
+      <edge id="820" source="QuimTorraiPla" target="joanfoguet" />
+      <edge id="821" source="QuimTorraiPla" target="Eva_Gene" />
+      <edge id="822" source="QuimTorraiPla" target="SmithsonianFolk" />
+      <edge id="823" source="QuimTorraiPla" target="AgustiColomines" />
+      <edge id="824" source="QuimTorraiPla" target="xavialiaga" />
+      <edge id="825" source="QuimTorraiPla" target="eduardcabus" />
+      <edge id="826" source="QuimTorraiPla" target="orioldebalanzo" />
+      <edge id="827" source="QuimTorraiPla" target="marcsanjaume" />
+      <edge id="828" source="QuimTorraiPla" target="AgustiAlcoberro" />
+      <edge id="829" source="QuimTorraiPla" target="Els_Jordis" />
+      <edge id="830" source="QuimTorraiPla" target="ErnestoEkaizer" />
+      <edge id="831" source="QuimTorraiPla" target="historiadors20" />
+      <edge id="832" source="QuimTorraiPla" target="agustibenedito" />
+      <edge id="833" source="QuimTorraiPla" target="NATi_Ortega_" />
+      <edge id="834" source="QuimTorraiPla" target="BetonaComin" />
+      <edge id="835" source="QuimTorraiPla" target="PerotdeCalMil" />
+      <edge id="836" source="QuimTorraiPla" target="NereaRodriguezD" />
+      <edge id="837" source="QuimTorraiPla" target="usvolemacasa" />
+      <edge id="838" source="QuimTorraiPla" target="annapinol_beta" />
+      <edge id="839" source="QuimTorraiPla" target="jordigaseni" />
+      <edge id="840" source="QuimTorraiPla" target="gilbert_fo" />
+      <edge id="841" source="QuimTorraiPla" target="Joaquimllorens" />
+      <edge id="842" source="QuimTorraiPla" target="jornalet" />
+      <edge id="843" source="QuimTorraiPla" target="BBCBreaking" />
+      <edge id="844" source="QuimTorraiPla" target="estercapella" />
+      <edge id="845" source="QuimTorraiPla" target="PujolsFrancesc" />
+      <edge id="846" source="QuimTorraiPla" target="elopezdomenech" />
+      <edge id="847" source="QuimTorraiPla" target="jonsindreu" />
+      <edge id="848" source="QuimTorraiPla" target="JoanCostaiFont" />
+      <edge id="849" source="QuimTorraiPla" target="EscriptorsAELC" />
+      <edge id="850" source="QuimTorraiPla" target="calreflex" />
+      <edge id="851" source="QuimTorraiPla" target="RMazariegosR" />
+      <edge id="852" source="QuimTorraiPla" target="LauraCendrs" />
+      <edge id="853" source="QuimTorraiPla" target="Vadorgarbos" />
+      <edge id="854" source="QuimTorraiPla" target="MarionaIglesias" />
+      <edge id="855" source="QuimTorraiPla" target="torrajordi" />
+      <edge id="856" source="QuimTorraiPla" target="Carles_Porta" />
+      <edge id="857" source="QuimTorraiPla" target="JORDINADOR" />
+      <edge id="858" source="QuimTorraiPla" target="elpatidescobert" />
+      <edge id="859" source="QuimTorraiPla" target="KRLS" />
+      <edge id="860" source="QuimTorraiPla" target="perecsub" />
+      <edge id="861" source="QuimTorraiPla" target="xavi_pla" />
+      <edge id="862" source="QuimTorraiPla" target="quellegeixes" />
+      <edge id="863" source="QuimTorraiPla" target="centre_IRIDIA" />
+      <edge id="864" source="QuimTorraiPla" target="XavierBoschG" />
+      <edge id="865" source="QuimTorraiPla" target="diariARA" />
+      <edge id="866" source="QuimTorraiPla" target="PepMartiVall" />
+      <edge id="867" source="QuimTorraiPla" target="OmplimBrux" />
+      <edge id="868" source="QuimTorraiPla" target="junqueras" />
+      <edge id="869" source="QuimTorraiPla" target="premsahistoria" />
+      <edge id="870" source="QuimTorraiPla" target="CatalanCouncil" />
+      <edge id="871" source="QuimTorraiPla" target="2dabril" />
+      <edge id="872" source="QuimTorraiPla" target="jaumeponsalorda" />
+      <edge id="873" source="QuimTorraiPla" target="vinyetp" />
+      <edge id="874" source="QuimTorraiPla" target="Joanlluislluis" />
+      <edge id="875" source="QuimTorraiPla" target="Izaskunarretxe" />
+      <edge id="876" source="QuimTorraiPla" target="Sergi_Bernal" />
+      <edge id="877" source="QuimTorraiPla" target="PuigGordi" />
+      <edge id="878" source="QuimTorraiPla" target="AVivesT" />
+      <edge id="879" source="QuimTorraiPla" target="miestheriosa" />
+      <edge id="880" source="QuimTorraiPla" target="AlfredBosch" />
+      <edge id="881" source="QuimTorraiPla" target="CAPITA_ENCIAM_" />
+      <edge id="882" source="QuimTorraiPla" target="DavictusCat" />
+      <edge id="883" source="QuimTorraiPla" target="JMatasD" />
+      <edge id="884" source="QuimTorraiPla" target="PoliticayModa" />
+      <edge id="885" source="QuimTorraiPla" target="IgnasiMoreta" />
+      <edge id="886" source="QuimTorraiPla" target="batlle_e" />
+      <edge id="887" source="QuimTorraiPla" target="tianbaenasan" />
+      <edge id="888" source="QuimTorraiPla" target="tr3sc" />
+      <edge id="889" source="QuimTorraiPla" target="MonicaSabata" />
+      <edge id="890" source="QuimTorraiPla" target="tv3cat" />
+      <edge id="891" source="QuimTorraiPla" target="Aurora_Madaula" />
+      <edge id="892" source="QuimTorraiPla" target="XBescos" />
+      <edge id="893" source="QuimTorraiPla" target="laltraedi" />
+      <edge id="894" source="QuimTorraiPla" target="BernatDedeu" />
+      <edge id="895" source="QuimTorraiPla" target="DamiA" />
+      <edge id="896" source="QuimTorraiPla" target="GPursals" />
+      <edge id="897" source="QuimTorraiPla" target="joansalatorrent" />
+      <edge id="898" source="QuimTorraiPla" target="AnyFabra" />
+      <edge id="899" source="QuimTorraiPla" target="Pereelcruel" />
+      <edge id="900" source="QuimTorraiPla" target="albertsoleb" />
+      <edge id="901" source="QuimTorraiPla" target="USABobRiley" />
+      <edge id="902" source="QuimTorraiPla" target="CETC_IDEES" />
+      <edge id="903" source="QuimTorraiPla" target="JonInarritu" />
+      <edge id="904" source="QuimTorraiPla" target="ribas_xavi" />
+      <edge id="905" source="QuimTorraiPla" target="apereirasole" />
+      <edge id="906" source="QuimTorraiPla" target="JordiMataViadiu" />
+      <edge id="907" source="QuimTorraiPla" target="jcorbalan" />
+      <edge id="908" source="QuimTorraiPla" target="xgraset" />
+      <edge id="909" source="QuimTorraiPla" target="bertifas" />
+      <edge id="910" source="QuimTorraiPla" target="lillousechi" />
+      <edge id="911" source="QuimTorraiPla" target="ClaudiaRiusL" />
+      <edge id="912" source="QuimTorraiPla" target="martarovira" />
+      <edge id="913" source="QuimTorraiPla" target="JnnDiaz" />
+      <edge id="914" source="QuimTorraiPla" target="Holaiquetal" />
+      <edge id="915" source="QuimTorraiPla" target="NUET" />
+      <edge id="916" source="QuimTorraiPla" target="ARAllegim" />
+      <edge id="917" source="QuimTorraiPla" target="IgorLlongueres" />
+      <edge id="918" source="QuimTorraiPla" target="FrancescGarc" />
+      <edge id="919" source="QuimTorraiPla" target="assumpcas" />
+    </edges>
+  </graph>
+</gexf>
