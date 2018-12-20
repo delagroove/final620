@@ -12,27 +12,22 @@ var success = function (data) {
     console.log('Data [%s]', data);
 };
 
-var config = {
-    "consumerKey": "4MipgUa1XBgDcnlIBleJsuMeX",
-    "consumerSecret": "lCA2lwcRp5IuCKJAP354QDxFl60oHfUBlOmrSjHcOxZ599PdnU",
-    "accessToken": "14765503-RyQlscnV5SVzqTJIpJJV0OnAxNRQBrX4k33XISDWP",
-    "accessTokenSecret": "Dp0JcmxLYr7MCOM0B4BRHdUq5TT4W8yMO4up6qg2DjTZg"
-};
 
-var twitter = require('twitter-node-client').Twitter(config);
+var Twit = require('twit')
+
+var T = new Twit({
+  consumer_key:         '4MipgUa1XBgDcnlIBleJsuMeX',
+  consumer_secret:      'lCA2lwcRp5IuCKJAP354QDxFl60oHfUBlOmrSjHcOxZ599PdnU',
+  access_token:         '14765503-RyQlscnV5SVzqTJIpJJV0OnAxNRQBrX4k33XISDWP',
+  access_token_secret:  'Dp0JcmxLYr7MCOM0B4BRHdUq5TT4W8yMO4up6qg2DjTZg',
+  timeout_ms:           60*1000,  // optional HTTP request timeout to apply to all requests.
+  strictSSL:            true,     // optional - requires SSL certificates to be valid.
+})
+
+
 var port = process.env.PORT || 3000;
 var server = app.listen(port, function () {
     console.log('Server running on port ' + port);
-});
-
-
-//TWITTER AUTHENICATION
-var token = null;
-var oauth2 = new OAuth2(config.consumerKey, config.consumerSecret, 'https://api.twitter.com/', null, 'oauth2/token', null);
-oauth2.getOAuthAccessToken('', {
-    'grant_type': 'client_credentials'
-  }, function (e, access_token) {
-        token = access_token;
 });
 
 
@@ -61,19 +56,26 @@ app.get('/2017', function (req, res) {
 });
 
 //unauthenticated request
+
+app.get('/twitter/search', function (req, res) {
+   T.get('search/tweets', { q: req.query.term, count: 100 }, function(err, data, response) {
+    res.send(data);
+  })
+  
+});
+
+app.get('/twitter/search2', function (req, res) {
+  T.get('search/fullarchive', { query: req.query.term, count: 100, fromdate: '201710010000', toDate: '201712310000' }, function(err, data, response) {
+   res.send(data);
+ })
+ 
+});
+
 app.post('/twitter/user', function (req, res) {
-    
-    var data = twitter.getUser(req.body.username, function(error, response, body){
-        res.send({
-            "error" : error
-        });
-    }, function(data){
-        res.send({
-            result : {
-                "userData" : data
-            }
-        });
-    });
+    console.log(req.body);
+    T.get('user/tweets', { screen_name: req.body.username, count: 100 }, function(err, data, response) {
+        console.log(data)
+      })
 
 });
 

@@ -1,17 +1,84 @@
 <div class="mainC">
-<h2>Social Network Analysis of Catalonia Referendum actors.</h2>
+<h2>Catalonia vs Spain twitter users analysis</h2>
 <p></p>
 <a href="#about" class="about_link">About</a>
 
-    <form action="/twitter/search" method="POST">
-        <input type="text" name="term" />
+    <form action="/twitter/search" method="POST" class="the-form">
+        <h2>search by hashtag</h2>
+        <select name="term" class="the-term">
+          <option value="#libertatpresospolitics">#libertatpresospolitics</option>
+          <option value="#SomEl80">#SomEl80</option>
+          <option value="#EspañaViva">#EspañaViva</option>
+          <option value="#CatalanRepublic">#CatalanRepublic</option>
+          <option value="#FreeTothom">#FreeTothom</option>
+          <option value="#vagadefam">#vagadefam</option>
+          <option value="#yoestoyconelrey">#yoestoyconelrey</option>
+          <option value="#TombemEIRegim">#TombemEIRégim</option>
+
+        </select>
+        <input type="submit" /><div class="result-desc"></div>
+    </form>
+    <!--form action="/twitter/search2" method="POST" class="the-form2">
+        <h2>search a year ago</h2>
+        <input type="text" name="term" class="the-term2" />
+        <select name="term" class="the-term2">
+          <option value="#libertatpresospolitics">libertatpresospolitics</option>
+          <option value="#SomEl80">SomEl80</option>
+          <option value="#EspañaViva">EspañaViva</option>
+          <option value="#CatalanRepublic">CatalanRepublic</option>
+                    <option value="#CatalanRepublic">CatalanRepublic</option>
+
+          <option value="#FreeTothom">FreeTothom</option>
+          <option value="#vagadefam">vagadefam</option>
+
+        </select>
         <input type="submit" />
-</form>
+    </form-->
+    <div class="result-box">
+
+
+    </div>
 </div>
 
 <!-- [...] -->
-<div id="sigma-container"></div>
+<div class="sigma-holder">
+  <div id="sigma-container"></div>
+</div>
 <script>
+
+  $(document).ready(function(){
+    $('.the-form').on('submit', function(e){
+      e.preventDefault();
+      $.get('/twitter/search', {term:$('.the-term').val()}, function(response){
+        var count = 0;
+        var text = ""
+        for (var i =0;i<response.statuses.length;i++){
+          if($.inArray(response.statuses[i].user.screen_name, window.the_ids) > -1){
+            count++;
+            text += response.statuses[i].user.screen_name + "\n"
+          }
+        }
+        $('.result-box').html(text);
+        $('.result-desc').html(count+" users using this hashtag are in this network, from "+response.statuses.length+" tweets");
+      })
+    });
+    $('.the-form2').on('submit', function(e){
+      e.preventDefault();
+      $.get('/twitter/search2', {term:$('.the-term2').val()}, function(response){
+        var count = 0;
+        var text = ""
+        console.log(response);
+        for (var i =0;i<response.statuses.length;i++){
+          if($.inArray(response.statuses[i].user.screen_name, window.the_ids) > -1){
+            count++;
+            text += response.statuses[i].user.screen_name + "\n"
+          }
+        }
+        $('.result-box').html(text);
+        console.log(count+" users using this hashtag are in this network, from "+response.statuses.length+" tweets");
+      })
+    });
+  });
   
   sigma.classes.graph.addMethod('neighbors', function(nodeId) {
     var k,
@@ -24,11 +91,11 @@
     return neighbors;
   });
 
-
+window.the_ids = []
 
 
   sigma.parsers.gexf(
-    'data/final.gexf',
+    'data/final-1220-con-vox.gexf',
     {
       container: 'sigma-container'
     },
@@ -36,6 +103,7 @@
       // We first need to save the original colors of our
       // nodes and edges, like this:
       s.graph.nodes().forEach(function(n) {
+        window.the_ids.push(n.label);
         n.originalColor = n.color;
       });
       s.graph.edges().forEach(function(e) {
@@ -71,6 +139,7 @@
         // call the refresh method to make the colors
         // update effective.
         s.refresh();
+        
       });
 
       // When the stage is clicked, we just color each
@@ -87,6 +156,8 @@
         // Same as in the previous event:
         s.refresh();
       });
+    console.log(window.the_ids);
     }
   );
+
 </script> 
